@@ -5,7 +5,7 @@ format: html
 
 ## Course Lessons
 
-- Intro to Quarto
+- [Intro to Quarto](scripts/intro-quarto.html)
 - Intro to git and Github
 - Cleaning and wrangling data
 
