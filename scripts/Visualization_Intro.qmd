@@ -98,3 +98,43 @@ ggplot(annual_esc_2000s, aes(x=year, y=escapement, color=species))+
   my_theme
 
 ```
+
+## Interactive Visualization
+
+## DT
+
+```{r}
+library(DT)
+```
+
+```{r}
+locations <- escape %>% 
+  distinct(location, latitude, longitude) %>% 
+  drop_na()
+locations
+
+#distinct takes unique values, drop_na drops all missing values
+
+```
+
+```{r}
+datatable(locations)
+```
+
+
+## leaflet
+
+```{r}
+library(leaflet)
+```
+
+```{r}
+leaflet(locations) %>% 
+  addTiles() %>% 
+  addMarkers(
+    lng = ~longitude, 
+    lat = ~latitude,
+    popup = ~location)
+
+```
+
