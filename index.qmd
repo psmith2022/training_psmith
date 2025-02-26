@@ -1,6 +1,15 @@
 ---
-title: "index"
+title: "Course"
 format: html
 ---
 
-Hello world
+## Course Lessons
+
+- Intro to Quarto
+- Intro to git and Github
+- Cleaning and wrangling data
+
+## Practice Sessions
+
+- Practice I 
+- Practice II
