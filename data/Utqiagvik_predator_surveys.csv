@@ -1,0 +1,2338 @@
+year,site,observer,date,start_time,end_time,plot,stake,species,distance,count,comments
+2003,barr,NA,2003-06-08,NA,NA,brw1,NA,glgu,NA,39,NA
+2003,barr,NA,2003-06-08,NA,NA,brw1,NA,poja,NA,1,NA
+2003,barr,NA,2003-06-15,NA,NA,brw1,NA,glgu,NA,2,NA
+2003,barr,NA,2003-06-15,NA,NA,brw1,NA,poja,NA,1,NA
+2003,barr,NA,2003-06-23,NA,NA,brw1,NA,none,NA,0,NA
+2003,barr,NA,2003-06-08,NA,NA,brw2,NA,glgu,NA,1,NA
+2003,barr,NA,2003-06-08,NA,NA,brw2,NA,poja,NA,2,NA
+2003,barr,NA,2003-06-15,NA,NA,brw2,NA,glgu,NA,5,NA
+2003,barr,NA,2003-06-23,NA,NA,brw2,NA,paja,NA,1,NA
+2003,barr,NA,2003-06-08,NA,NA,brw3,NA,glgu,NA,4,NA
+2003,barr,NA,2003-06-08,NA,NA,brw3,NA,poja,NA,2,NA
+2003,barr,NA,2003-06-15,NA,NA,brw3,NA,glgu,NA,1,NA
+2003,barr,NA,2003-06-23,NA,NA,brw3,NA,paja,NA,1,NA
+2003,barr,NA,2003-06-08,NA,NA,brw4,NA,glgu,NA,2,NA
+2003,barr,NA,2003-06-15,NA,NA,brw4,NA,none,NA,0,NA
+2003,barr,NA,2003-06-23,NA,NA,brw4,NA,none,NA,0,NA
+2004,barr,NA,2004-06-10,NA,NA,brw1,NA,glgu,NA,1,NA
+2004,barr,NA,2004-06-17,NA,NA,brw1,NA,glgu,NA,10,NA
+2004,barr,NA,2004-07-02,NA,NA,brw1,NA,glgu,NA,1,NA
+2004,barr,NA,2004-07-02,NA,NA,brw1,NA,paja,NA,1,NA
+2004,barr,NA,2004-07-09,NA,NA,brw1,NA,glgu,NA,4,NA
+2004,barr,NA,2004-07-09,NA,NA,brw1,NA,ltja,NA,1,NA
+2004,barr,NA,2004-06-10,NA,NA,brw2,NA,glgu,NA,5,NA
+2004,barr,NA,2004-06-10,NA,NA,brw2,NA,paja,NA,1,NA
+2004,barr,NA,2004-06-17,NA,NA,brw2,NA,glgu,NA,9,NA
+2004,barr,NA,2004-06-24,NA,NA,brw2,NA,glgu,NA,1,NA
+2004,barr,NA,2004-07-02,NA,NA,brw2,NA,none,NA,0,NA
+2004,barr,NA,2004-07-09,NA,NA,brw2,NA,glgu,NA,6,NA
+2004,barr,NA,2004-06-10,NA,NA,brw3,NA,glgu,NA,2,NA
+2004,barr,NA,2004-06-17,NA,NA,brw3,NA,glgu,NA,2,NA
+2004,barr,NA,2004-06-24,NA,NA,brw3,NA,none,NA,0,NA
+2004,barr,NA,2004-07-02,NA,NA,brw3,NA,none,NA,0,NA
+2004,barr,NA,2004-07-09,NA,NA,brw3,NA,glgu,NA,1,NA
+2004,barr,NA,2004-06-10,NA,NA,brw5,NA,paja,NA,2,NA
+2004,barr,NA,2004-06-17,NA,NA,brw5,NA,glgu,NA,8,NA
+2004,barr,NA,2004-06-17,NA,NA,brw5,NA,paja,NA,2,NA
+2004,barr,NA,2004-06-17,NA,NA,brw5,NA,seow,NA,1,NA
+2004,barr,NA,2004-06-24,NA,NA,brw5,NA,ltja,NA,5,NA
+2004,barr,NA,2004-06-24,NA,NA,brw5,NA,paja,NA,2,NA
+2004,barr,NA,2004-06-24,NA,NA,brw5,NA,poja,NA,1,NA
+2004,barr,NA,2004-07-02,NA,NA,brw5,NA,none,NA,0,NA
+2004,barr,NA,2004-07-09,NA,NA,brw5,NA,ltja,NA,1,NA
+2004,barr,NA,2004-06-10,NA,NA,brw6,NA,glgu,NA,5,NA
+2004,barr,NA,2004-06-17,NA,NA,brw6,NA,glgu,NA,5,NA
+2004,barr,NA,2004-06-24,NA,NA,brw6,NA,none,NA,0,NA
+2004,barr,NA,2004-07-03,NA,NA,brw6,NA,none,NA,0,NA
+2004,barr,NA,2004-07-09,NA,NA,brw6,NA,none,NA,0,NA
+2004,barr,NA,2004-06-10,NA,NA,brw7,NA,glgu,NA,4,NA
+2004,barr,NA,2004-06-10,NA,NA,brw7,NA,poja,NA,1,NA
+2004,barr,NA,2004-06-17,NA,NA,brw7,NA,glgu,NA,4,NA
+2004,barr,NA,2004-06-17,NA,NA,brw7,NA,ltja,NA,2,NA
+2004,barr,NA,2004-06-24,NA,NA,brw7,NA,glgu,NA,1,NA
+2004,barr,NA,2004-07-03,NA,NA,brw7,NA,ltja,NA,1,NA
+2004,barr,NA,2004-07-09,NA,NA,brw7,NA,ltja,NA,3,NA
+2005,barr,NA,2005-06-10,NA,NA,brw1,NA,glgu,NA,2,NA
+2005,barr,NA,2005-06-17,NA,NA,brw1,NA,none,NA,0,NA
+2005,barr,NA,2005-06-26,NA,NA,brw1,NA,glgu,NA,1,NA
+2005,barr,NA,2005-06-26,NA,NA,brw1,NA,paja,NA,3,NA
+2005,barr,NA,2005-07-10,NA,NA,brw1,NA,glgu,NA,1,NA
+2005,barr,NA,2005-06-10,NA,NA,brw2,NA,glgu,NA,5,NA
+2005,barr,NA,2005-06-10,NA,NA,brw2,NA,paja,NA,2,NA
+2005,barr,NA,2005-06-10,NA,NA,brw2,NA,poja,NA,1,NA
+2005,barr,NA,2005-06-17,NA,NA,brw2,NA,glgu,NA,2,NA
+2005,barr,NA,2005-06-17,NA,NA,brw2,NA,paja,NA,2,NA
+2005,barr,NA,2005-06-26,NA,NA,brw2,NA,cora,NA,1,NA
+2005,barr,NA,2005-06-26,NA,NA,brw2,NA,glgu,NA,11,NA
+2005,barr,NA,2005-06-26,NA,NA,brw2,NA,paja,NA,8,NA
+2005,barr,NA,2005-07-10,NA,NA,brw2,NA,paja,NA,3,NA
+2005,barr,NA,2005-06-10,NA,NA,brw3,NA,glgu,NA,7,NA
+2005,barr,NA,2005-06-17,NA,NA,brw3,NA,glgu,NA,2,NA
+2005,barr,NA,2005-06-26,NA,NA,brw3,NA,glgu,NA,3,NA
+2005,barr,NA,2005-07-10,NA,NA,brw3,NA,glgu,NA,4,NA
+2005,barr,NA,2005-06-10,NA,NA,brw5,NA,glgu,NA,2,NA
+2005,barr,NA,2005-06-17,NA,NA,brw5,NA,none,NA,0,NA
+2005,barr,NA,2005-06-26,NA,NA,brw5,NA,paja,NA,1,NA
+2005,barr,NA,2005-07-10,NA,NA,brw5,NA,glgu,NA,1,NA
+2005,barr,NA,2005-06-10,NA,NA,brw6,NA,glgu,NA,1,NA
+2005,barr,NA,2005-06-10,NA,NA,brw6,NA,paja,NA,1,NA
+2005,barr,NA,2005-06-17,NA,NA,brw6,NA,none,NA,0,NA
+2005,barr,NA,2005-06-26,NA,NA,brw6,NA,glgu,NA,1,NA
+2005,barr,NA,2005-07-10,NA,NA,brw6,NA,paja,NA,1,NA
+2005,barr,NA,2005-06-10,NA,NA,brw8,NA,glgu,NA,1,NA
+2005,barr,NA,2005-06-10,NA,NA,brw8,NA,paja,NA,1,NA
+2005,barr,NA,2005-06-17,NA,NA,brw8,NA,glgu,NA,2,NA
+2005,barr,NA,2005-06-26,NA,NA,brw8,NA,glgu,NA,1,NA
+2005,barr,NA,2005-06-26,NA,NA,brw8,NA,paja,NA,1,NA
+2005,barr,NA,2005-07-10,NA,NA,brw8,NA,none,NA,0,NA
+2006,barr,NA,2006-06-10,NA,NA,brw1,NA,poja,NA,11,NA
+2006,barr,NA,2006-06-17,NA,NA,brw1,NA,poja,NA,7,NA
+2006,barr,NA,2006-06-21,NA,NA,brw1,NA,paja,NA,1,NA
+2006,barr,NA,2006-06-21,NA,NA,brw1,NA,poja,NA,9,NA
+2006,barr,NA,2006-07-01,NA,NA,brw1,NA,poja,NA,10,NA
+2006,barr,NA,2006-06-10,NA,NA,brw2,NA,poja,NA,3,NA
+2006,barr,NA,2006-06-10,NA,NA,brw2,NA,sacr,NA,2,NA
+2006,barr,NA,2006-06-17,NA,NA,brw2,NA,poja,NA,1,NA
+2006,barr,NA,2006-06-22,NA,NA,brw2,NA,poja,NA,4,NA
+2006,barr,NA,2006-07-01,NA,NA,brw2,NA,poja,NA,9,NA
+2006,barr,NA,2006-07-01,NA,NA,brw2,NA,snow,NA,1,NA
+2006,barr,NA,2006-06-10,NA,NA,brw3,NA,glgu,NA,7,NA
+2006,barr,NA,2006-06-10,NA,NA,brw3,NA,poja,NA,14,NA
+2006,barr,NA,2006-06-10,NA,NA,brw3,NA,snow,NA,2,NA
+2006,barr,NA,2006-06-17,NA,NA,brw3,NA,glgu,NA,5,NA
+2006,barr,NA,2006-06-17,NA,NA,brw3,NA,paja,NA,1,NA
+2006,barr,NA,2006-06-17,NA,NA,brw3,NA,poja,NA,6,NA
+2006,barr,NA,2006-06-24,NA,NA,brw3,NA,glgu,NA,4,NA
+2006,barr,NA,2006-06-24,NA,NA,brw3,NA,poja,NA,7,NA
+2006,barr,NA,2006-06-24,NA,NA,brw3,NA,snow,NA,1,NA
+2006,barr,NA,2006-07-01,NA,NA,brw3,NA,glgu,NA,4,NA
+2006,barr,NA,2006-07-01,NA,NA,brw3,NA,poja,NA,6,NA
+2006,barr,NA,2006-07-01,NA,NA,brw3,NA,snow,NA,3,NA
+2006,barr,NA,2006-06-10,NA,NA,brw5,NA,paja,NA,3,NA
+2006,barr,NA,2006-06-10,NA,NA,brw5,NA,poja,NA,11,NA
+2006,barr,NA,2006-06-17,NA,NA,brw5,NA,poja,NA,4,NA
+2006,barr,NA,2006-06-22,NA,NA,brw5,NA,poja,NA,4,NA
+2006,barr,NA,2006-07-01,NA,NA,brw5,NA,poja,NA,6,NA
+2006,barr,NA,2006-06-10,NA,NA,brw6,NA,pefa,NA,1,NA
+2006,barr,NA,2006-06-10,NA,NA,brw6,NA,poja,NA,4,NA
+2006,barr,NA,2006-06-17,NA,NA,brw6,NA,poja,NA,3,NA
+2006,barr,NA,2006-06-22,NA,NA,brw6,NA,glgu,NA,2,NA
+2006,barr,NA,2006-06-22,NA,NA,brw6,NA,poja,NA,5,NA
+2006,barr,NA,2006-07-01,NA,NA,brw6,NA,paja,NA,1,NA
+2006,barr,NA,2006-07-01,NA,NA,brw6,NA,poja,NA,8,NA
+2006,barr,NA,2006-06-10,NA,NA,brw8,NA,poja,NA,3,NA
+2006,barr,NA,2006-06-10,NA,NA,brw8,NA,snow,NA,2,NA
+2006,barr,NA,2006-06-17,NA,NA,brw8,NA,poja,NA,3,NA
+2006,barr,NA,2006-06-24,NA,NA,brw8,NA,poja,NA,9,NA
+2006,barr,NA,2006-07-01,NA,NA,brw8,NA,poja,NA,6,NA
+2007,barr,NA,2007-06-09,NA,NA,brw1,NA,snow,NA,1,NA
+2007,barr,NA,2007-06-16,NA,NA,brw1,NA,arfo,NA,1,NA
+2007,barr,NA,2007-06-16,NA,NA,brw1,NA,glgu,NA,2,NA
+2007,barr,NA,2007-06-16,NA,NA,brw1,NA,paja,NA,2,NA
+2007,barr,NA,2007-06-16,NA,NA,brw1,NA,poja,NA,1,NA
+2007,barr,NA,2007-06-23,NA,NA,brw1,NA,glgu,NA,53,NA
+2007,barr,NA,2007-06-23,NA,NA,brw1,NA,paja,NA,1,NA
+2007,barr,NA,2007-07-01,NA,NA,brw1,NA,glgu,NA,3,NA
+2007,barr,NA,2007-07-01,NA,NA,brw1,NA,paja,NA,1,NA
+2007,barr,NA,2007-06-08,NA,NA,brw2,NA,glgu,NA,1,NA
+2007,barr,NA,2007-06-08,NA,NA,brw2,NA,poja,NA,1,NA
+2007,barr,NA,2007-06-16,NA,NA,brw2,NA,glgu,NA,1,NA
+2007,barr,NA,2007-06-16,NA,NA,brw2,NA,ltja,NA,2,NA
+2007,barr,NA,2007-06-16,NA,NA,brw2,NA,paja,NA,1,NA
+2007,barr,NA,2007-06-23,NA,NA,brw2,NA,glgu,NA,1,NA
+2007,barr,NA,2007-06-23,NA,NA,brw2,NA,paja,NA,4,NA
+2007,barr,NA,2007-07-01,NA,NA,brw2,NA,paja,NA,1,NA
+2007,barr,NA,2007-06-09,NA,NA,brw3,NA,poja,NA,2,NA
+2007,barr,NA,2007-06-16,NA,NA,brw3,NA,paja,NA,1,NA
+2007,barr,NA,2007-06-16,NA,NA,brw3,NA,poja,NA,1,NA
+2007,barr,NA,2007-06-23,NA,NA,brw3,NA,paja,NA,2,NA
+2007,barr,NA,2007-06-23,NA,NA,brw3,NA,poja,NA,1,NA
+2007,barr,NA,2007-07-01,NA,NA,brw3,NA,glgu,NA,2,NA
+2007,barr,NA,2007-07-01,NA,NA,brw3,NA,paja,NA,1,NA
+2007,barr,NA,2007-07-01,NA,NA,brw3,NA,poja,NA,1,NA
+2007,barr,NA,2007-06-09,NA,NA,brw5,NA,none,NA,0,NA
+2007,barr,NA,2007-06-16,NA,NA,brw5,NA,glgu,NA,3,NA
+2007,barr,NA,2007-06-16,NA,NA,brw5,NA,ltja,NA,9,NA
+2007,barr,NA,2007-06-16,NA,NA,brw5,NA,paja,NA,1,NA
+2007,barr,NA,2007-06-23,NA,NA,brw5,NA,none,NA,0,NA
+2007,barr,NA,2007-07-01,NA,NA,brw5,NA,paja,NA,1,NA
+2007,barr,NA,2007-06-09,NA,NA,brw6,NA,glgu,NA,1,NA
+2007,barr,NA,2007-06-09,NA,NA,brw6,NA,poja,NA,4,NA
+2007,barr,NA,2007-06-09,NA,NA,brw6,NA,snow,NA,2,NA
+2007,barr,NA,2007-06-16,NA,NA,brw6,NA,ltja,NA,1,NA
+2007,barr,NA,2007-06-16,NA,NA,brw6,NA,paja,NA,4,NA
+2007,barr,NA,2007-06-16,NA,NA,brw6,NA,poja,NA,6,NA
+2007,barr,NA,2007-06-23,NA,NA,brw6,NA,glgu,NA,1,NA
+2007,barr,NA,2007-06-23,NA,NA,brw6,NA,ltja,NA,3,NA
+2007,barr,NA,2007-06-23,NA,NA,brw6,NA,paja,NA,4,NA
+2007,barr,NA,2007-06-23,NA,NA,brw6,NA,poja,NA,1,NA
+2007,barr,NA,2007-07-01,NA,NA,brw6,NA,glgu,NA,9,NA
+2007,barr,NA,2007-07-01,NA,NA,brw6,NA,paja,NA,6,NA
+2007,barr,NA,2007-07-01,NA,NA,brw6,NA,poja,NA,1,NA
+2007,barr,NA,2007-06-09,NA,NA,brw8,NA,paja,NA,1,NA
+2007,barr,NA,2007-06-09,NA,NA,brw8,NA,poja,NA,1,NA
+2007,barr,NA,2007-06-16,NA,NA,brw8,NA,glgu,NA,2,NA
+2007,barr,NA,2007-06-27,NA,NA,brw8,NA,glgu,NA,2,NA
+2007,barr,NA,2007-07-02,NA,NA,brw8,NA,glgu,NA,3,NA
+2008,barr,NA,2008-06-09,NA,NA,brw1,NA,glgu,NA,4,NA
+2008,barr,NA,2008-06-09,NA,NA,brw1,NA,poja,NA,16,NA
+2008,barr,NA,2008-06-16,NA,NA,brw1,NA,glgu,NA,2,NA
+2008,barr,NA,2008-06-16,NA,NA,brw1,NA,poja,NA,15,NA
+2008,barr,NA,2008-06-23,NA,NA,brw1,NA,poja,NA,23,NA
+2008,barr,NA,2008-06-30,NA,NA,brw1,NA,poja,NA,15,NA
+2008,barr,NA,2008-07-07,NA,NA,brw1,NA,poja,NA,10,NA
+2008,barr,NA,2008-07-15,NA,NA,brw1,NA,poja,NA,1,NA
+2008,barr,NA,2008-07-21,NA,NA,brw1,NA,none,NA,0,NA
+2008,barr,NA,2008-07-28,NA,NA,brw1,NA,poja,NA,2,NA
+2008,barr,NA,2008-06-09,NA,NA,brw2,NA,poja,NA,9,NA
+2008,barr,NA,2008-06-16,NA,NA,brw2,NA,poja,NA,4,NA
+2008,barr,NA,2008-06-16,NA,NA,brw2,NA,snow,NA,4,NA
+2008,barr,NA,2008-06-23,NA,NA,brw2,NA,poja,NA,12,NA
+2008,barr,NA,2008-06-23,NA,NA,brw2,NA,snow,NA,5,NA
+2008,barr,NA,2008-06-30,NA,NA,brw2,NA,poja,NA,9,NA
+2008,barr,NA,2008-06-30,NA,NA,brw2,NA,snow,NA,3,NA
+2008,barr,NA,2008-07-07,NA,NA,brw2,NA,poja,NA,13,NA
+2008,barr,NA,2008-07-07,NA,NA,brw2,NA,snow,NA,2,NA
+2008,barr,NA,2008-07-15,NA,NA,brw2,NA,poja,NA,2,NA
+2008,barr,NA,2008-07-21,NA,NA,brw2,NA,poja,NA,1,NA
+2008,barr,NA,2008-07-28,NA,NA,brw2,NA,none,NA,0,NA
+2008,barr,NA,2008-06-09,NA,NA,brw3,NA,poja,NA,2,NA
+2008,barr,NA,2008-06-16,NA,NA,brw3,NA,poja,NA,1,NA
+2008,barr,NA,2008-06-23,NA,NA,brw3,NA,poja,NA,4,NA
+2008,barr,NA,2008-06-30,NA,NA,brw3,NA,poja,NA,2,NA
+2008,barr,NA,2008-07-07,NA,NA,brw3,NA,poja,NA,8,NA
+2008,barr,NA,2008-07-14,NA,NA,brw3,NA,poja,NA,11,NA
+2008,barr,NA,2008-07-21,NA,NA,brw3,NA,poja,NA,1,NA
+2008,barr,NA,2008-07-28,NA,NA,brw3,NA,poja,NA,4,NA
+2008,barr,NA,2008-06-09,NA,NA,brw5,NA,none,NA,0,NA
+2008,barr,NA,2008-06-16,NA,NA,brw5,NA,poja,NA,2,NA
+2008,barr,NA,2008-06-23,NA,NA,brw5,NA,poja,NA,4,NA
+2008,barr,NA,2008-06-30,NA,NA,brw5,NA,poja,NA,7,NA
+2008,barr,NA,2008-07-07,NA,NA,brw5,NA,poja,NA,7,NA
+2008,barr,NA,2008-07-07,NA,NA,brw5,NA,pefa,NA,1,NA
+2008,barr,NA,2008-07-14,NA,NA,brw5,NA,poja,NA,7,NA
+2008,barr,NA,2008-07-21,NA,NA,brw5,NA,poja,NA,1,NA
+2008,barr,NA,2008-07-21,NA,NA,brw5,NA,paja,NA,1,NA
+2008,barr,NA,2008-07-28,NA,NA,brw5,NA,poja,NA,5,NA
+2008,barr,NA,2008-06-09,NA,NA,brw6,NA,glgu,NA,3,NA
+2008,barr,NA,2008-06-09,NA,NA,brw6,NA,paja,NA,3,NA
+2008,barr,NA,2008-06-09,NA,NA,brw6,NA,poja,NA,7,NA
+2008,barr,NA,2008-06-16,NA,NA,brw6,NA,paja,NA,2,NA
+2008,barr,NA,2008-06-16,NA,NA,brw6,NA,poja,NA,9,NA
+2008,barr,NA,2008-06-23,NA,NA,brw6,NA,glgu,NA,1,NA
+2008,barr,NA,2008-06-23,NA,NA,brw6,NA,poja,NA,9,NA
+2008,barr,NA,2008-07-07,NA,NA,brw6,NA,poja,NA,5,NA
+2008,barr,NA,2008-07-14,NA,NA,brw6,NA,paja,NA,1,NA
+2008,barr,NA,2008-07-14,NA,NA,brw6,NA,ltja,NA,1,NA
+2008,barr,NA,2008-07-14,NA,NA,brw6,NA,poja,NA,7,NA
+2008,barr,NA,2008-07-14,NA,NA,brw6,NA,glgu,NA,4,NA
+2008,barr,NA,2008-07-21,NA,NA,brw6,NA,poja,NA,8,NA
+2008,barr,NA,2008-07-21,NA,NA,brw6,NA,glgu,NA,2,NA
+2008,barr,NA,2008-06-09,NA,NA,brw8,NA,poja,NA,8,NA
+2008,barr,NA,2008-06-16,NA,NA,brw8,NA,glgu,NA,2,NA
+2008,barr,NA,2008-06-16,NA,NA,brw8,NA,paja,NA,1,NA
+2008,barr,NA,2008-06-16,NA,NA,brw8,NA,poja,NA,9,NA
+2008,barr,NA,2008-06-23,NA,NA,brw8,NA,paja,NA,1,NA
+2008,barr,NA,2008-06-23,NA,NA,brw8,NA,poja,NA,10,NA
+2008,barr,NA,2008-06-30,NA,NA,brw8,NA,poja,NA,3,NA
+2008,barr,NA,2008-07-07,NA,NA,brw8,NA,poja,NA,2,NA
+2008,barr,NA,2008-07-14,NA,NA,brw8,NA,poja,NA,3,NA
+2008,barr,NA,2008-07-21,NA,NA,brw8,NA,poja,NA,7,NA
+2009,barr,NA,2009-06-09,NA,NA,brw1,NA,glgu,NA,5,NA
+2009,barr,NA,2009-06-16,NA,NA,brw1,NA,glgu,NA,6,NA
+2009,barr,NA,2009-06-16,NA,NA,brw1,NA,paja,NA,1,NA
+2009,barr,NA,2009-06-23,NA,NA,brw1,NA,glgu,NA,2,NA
+2009,barr,NA,2009-06-23,NA,NA,brw1,NA,paja,NA,1,NA
+2009,barr,NA,2009-06-30,NA,NA,brw1,NA,glgu,NA,2,NA
+2009,barr,NA,2009-07-08,NA,NA,brw1,NA,glgu,NA,2,NA
+2009,barr,NA,2009-07-08,NA,NA,brw1,NA,paja,NA,2,NA
+2009,barr,NA,2009-07-15,NA,NA,brw1,NA,glgu,NA,1,NA
+2009,barr,NA,2009-07-15,NA,NA,brw1,NA,paja,NA,2,NA
+2009,barr,NA,2009-07-21,NA,NA,brw1,NA,glgu,NA,2,NA
+2009,barr,NA,2009-06-09,NA,NA,brw2,NA,glgu,NA,1,NA
+2009,barr,NA,2009-06-09,NA,NA,brw2,NA,paja,NA,2,NA
+2009,barr,NA,2009-06-16,NA,NA,brw2,NA,glgu,NA,1,NA
+2009,barr,NA,2009-06-23,NA,NA,brw2,NA,none,NA,0,NA
+2009,barr,NA,2009-06-30,NA,NA,brw2,NA,ltja,NA,4,NA
+2009,barr,NA,2009-07-08,NA,NA,brw2,NA,none,NA,0,NA
+2009,barr,NA,2009-07-15,NA,NA,brw2,NA,snow,NA,1,NA
+2009,barr,NA,2009-07-21,NA,NA,brw2,NA,glgu,NA,2,NA
+2009,barr,NA,2009-06-09,NA,NA,brw3,NA,glgu,NA,6,NA
+2009,barr,NA,2009-06-09,NA,NA,brw3,NA,ltja,NA,1,NA
+2009,barr,NA,2009-06-09,NA,NA,brw3,NA,paja,NA,1,NA
+2009,barr,NA,2009-06-16,NA,NA,brw3,NA,glgu,NA,5,NA
+2009,barr,NA,2009-06-16,NA,NA,brw3,NA,paja,NA,1,NA
+2009,barr,NA,2009-06-23,NA,NA,brw3,NA,glgu,NA,1,NA
+2009,barr,NA,2009-06-30,NA,NA,brw3,NA,glgu,NA,10,NA
+2009,barr,NA,2009-07-08,NA,NA,brw3,NA,glgu,NA,6,NA
+2009,barr,NA,2009-06-09,NA,NA,brw5,NA,glgu,NA,4,NA
+2009,barr,NA,2009-06-16,NA,NA,brw5,NA,glgu,NA,3,NA
+2009,barr,NA,2009-06-16,NA,NA,brw5,NA,ltja,NA,1,NA
+2009,barr,NA,2009-06-16,NA,NA,brw5,NA,pefa,NA,1,NA
+2009,barr,NA,2009-06-23,NA,NA,brw5,NA,glgu,NA,1,NA
+2009,barr,NA,2009-06-30,NA,NA,brw5,NA,ltja,NA,2,NA
+2009,barr,NA,2009-06-30,NA,NA,brw5,NA,paja,NA,1,NA
+2009,barr,NA,2009-07-08,NA,NA,brw5,NA,glgu,NA,4,NA
+2009,barr,NA,2009-06-09,NA,NA,brw6,NA,glgu,NA,6,NA
+2009,barr,NA,2009-06-09,NA,NA,brw6,NA,pefa,NA,1,NA
+2009,barr,NA,2009-06-09,NA,NA,brw6,NA,poja,NA,2,NA
+2009,barr,NA,2009-06-16,NA,NA,brw6,NA,glgu,NA,18,NA
+2009,barr,NA,2009-06-16,NA,NA,brw6,NA,paja,NA,2,NA
+2009,barr,NA,2009-06-23,NA,NA,brw6,NA,glgu,NA,210,NA
+2009,barr,NA,2009-06-30,NA,NA,brw6,NA,glgu,NA,65,NA
+2009,barr,NA,2009-06-30,NA,NA,brw6,NA,poja,NA,2,NA
+2009,barr,NA,2009-06-30,NA,NA,brw6,NA,paja,NA,1,NA
+2009,barr,NA,2009-07-08,NA,NA,brw6,NA,glgu,NA,22,NA
+2009,barr,NA,2009-07-08,NA,NA,brw6,NA,ltja,NA,3,NA
+2009,barr,NA,2009-07-21,NA,NA,brw6,NA,glgu,NA,11,NA
+2009,barr,NA,2009-06-09,NA,NA,brw8,NA,glgu,NA,5,NA
+2009,barr,NA,2009-06-16,NA,NA,brw8,NA,glgu,NA,1,NA
+2009,barr,NA,2009-06-16,NA,NA,brw8,NA,poja,NA,2,NA
+2009,barr,NA,2009-06-23,NA,NA,brw8,NA,glgu,NA,2,NA
+2009,barr,NA,2009-06-30,NA,NA,brw8,NA,glgu,NA,3,NA
+2009,barr,NA,2009-06-30,NA,NA,brw8,NA,paja,NA,1,NA
+2009,barr,NA,2009-07-08,NA,NA,brw8,NA,none,NA,0,NA
+2009,barr,NA,2009-07-21,NA,NA,brw8,NA,glgu,NA,1,NA
+2010,barr,NA,2010-06-03,NA,NA,brw1,NA,glgu,NA,1,NA
+2010,barr,NA,2010-06-10,NA,NA,brw1,NA,glgu,NA,3,NA
+2010,barr,NA,2010-06-10,NA,NA,brw1,NA,paja,NA,1,NA
+2010,barr,NA,2010-06-17,NA,NA,brw1,NA,glgu,NA,3,NA
+2010,barr,NA,2010-06-17,NA,NA,brw1,NA,snow,NA,1,NA
+2010,barr,NA,2010-06-24,NA,NA,brw1,NA,glgu,NA,1,NA
+2010,barr,NA,2010-07-01,NA,NA,brw1,NA,glgu,NA,3,NA
+2010,barr,NA,2010-07-08,NA,NA,brw1,NA,glgu,NA,3,NA
+2010,barr,NA,2010-07-08,NA,NA,brw1,NA,ltja,NA,2,NA
+2010,barr,NA,2010-07-08,NA,NA,brw1,NA,paja,NA,3,NA
+2010,barr,NA,2010-07-15,NA,NA,brw1,NA,glgu,NA,3,NA
+2010,barr,NA,2010-07-15,NA,NA,brw1,NA,ltja,NA,1,NA
+2010,barr,NA,2010-07-15,NA,NA,brw1,NA,poja,NA,2,NA
+2010,barr,NA,2010-07-22,NA,NA,brw1,NA,glgu,NA,1,NA
+2010,barr,NA,2010-07-22,NA,NA,brw1,NA,paja,NA,5,NA
+2010,barr,NA,2010-07-29,NA,NA,brw1,NA,glgu,NA,15,NA
+2010,barr,NA,2010-07-29,NA,NA,brw1,NA,paja,NA,1,NA
+2010,barr,NA,2010-06-03,NA,NA,brw2,NA,none,NA,0,NA
+2010,barr,NA,2010-06-10,NA,NA,brw2,NA,glgu,NA,5,NA
+2010,barr,NA,2010-06-10,NA,NA,brw2,NA,pefa,NA,1,NA
+2010,barr,NA,2010-06-17,NA,NA,brw2,NA,glgu,NA,1,NA
+2010,barr,NA,2010-06-17,NA,NA,brw2,NA,snow,NA,1,NA
+2010,barr,NA,2010-06-24,NA,NA,brw2,NA,ltja,NA,1,NA
+2010,barr,NA,2010-06-24,NA,NA,brw2,NA,paja,NA,1,NA
+2010,barr,NA,2010-06-24,NA,NA,brw2,NA,snow,NA,1,NA
+2010,barr,NA,2010-07-01,NA,NA,brw2,NA,glgu,NA,1,NA
+2010,barr,NA,2010-07-08,NA,NA,brw2,NA,glgu,NA,4,NA
+2010,barr,NA,2010-07-08,NA,NA,brw2,NA,ltja,NA,1,NA
+2010,barr,NA,2010-07-08,NA,NA,brw2,NA,paja,NA,3,NA
+2010,barr,NA,2010-07-08,NA,NA,brw2,NA,snow,NA,1,NA
+2010,barr,NA,2010-07-15,NA,NA,brw2,NA,ltja,NA,1,NA
+2010,barr,NA,2010-07-15,NA,NA,brw2,NA,paja,NA,2,NA
+2010,barr,NA,2010-07-15,NA,NA,brw2,NA,snow,NA,1,NA
+2010,barr,NA,2010-07-22,NA,NA,brw2,NA,none,NA,0,NA
+2010,barr,NA,2010-07-29,NA,NA,brw2,NA,glgu,NA,8,NA
+2010,barr,NA,2010-06-10,NA,NA,brw3,NA,glgu,NA,4,NA
+2010,barr,NA,2010-06-17,NA,NA,brw3,NA,glgu,NA,1,NA
+2010,barr,NA,2010-06-24,NA,NA,brw3,NA,none,NA,0,NA
+2010,barr,NA,2010-07-01,NA,NA,brw3,NA,none,NA,0,NA
+2010,barr,NA,2010-07-08,NA,NA,brw3,NA,ltja,NA,1,NA
+2010,barr,NA,2010-07-08,NA,NA,brw3,NA,paja,NA,2,NA
+2010,barr,NA,2010-07-15,NA,NA,brw3,NA,glgu,NA,2,NA
+2010,barr,NA,2010-07-22,NA,NA,brw3,NA,glgu,NA,15,NA
+2010,barr,NA,2010-07-22,NA,NA,brw3,NA,ltja,NA,21,NA
+2010,barr,NA,2010-07-22,NA,NA,brw3,NA,paja,NA,1,NA
+2010,barr,NA,2010-07-29,NA,NA,brw3,NA,glgu,NA,3,NA
+2010,barr,NA,2010-06-01,NA,NA,brw5,NA,glgu,NA,1,NA
+2010,barr,NA,2010-06-01,NA,NA,brw5,NA,paja,NA,1,NA
+2010,barr,NA,2010-06-10,NA,NA,brw5,NA,paja,NA,1,NA
+2010,barr,NA,2010-06-17,NA,NA,brw5,NA,glgu,NA,2,NA
+2010,barr,NA,2010-06-24,NA,NA,brw5,NA,paja,NA,1,NA
+2010,barr,NA,2010-07-08,NA,NA,brw5,NA,glgu,NA,1,NA
+2010,barr,NA,2010-07-08,NA,NA,brw5,NA,paja,NA,2,NA
+2010,barr,NA,2010-07-15,NA,NA,brw5,NA,glgu,NA,2,NA
+2010,barr,NA,2010-07-22,NA,NA,brw5,NA,glgu,NA,8,NA
+2010,barr,NA,2010-07-29,NA,NA,brw5,NA,glgu,NA,3,NA
+2010,barr,NA,2010-06-03,NA,NA,brw6,NA,glgu,NA,550,NA
+2010,barr,NA,2010-06-03,NA,NA,brw6,NA,paja,NA,2,NA
+2010,barr,NA,2010-06-03,NA,NA,brw6,NA,rutu,NA,1,NA
+2010,barr,NA,2010-06-10,NA,NA,brw6,NA,glgu,NA,33,NA
+2010,barr,NA,2010-06-17,NA,NA,brw6,NA,glgu,NA,45,NA
+2010,barr,NA,2010-06-24,NA,NA,brw6,NA,glgu,NA,34,NA
+2010,barr,NA,2010-06-24,NA,NA,brw6,NA,snow,NA,1,NA
+2010,barr,NA,2010-07-01,NA,NA,brw6,NA,glgu,NA,85,NA
+2010,barr,NA,2010-07-08,NA,NA,brw6,NA,glgu,NA,25,NA
+2010,barr,NA,2010-07-15,NA,NA,brw6,NA,glgu,NA,118,NA
+2010,barr,NA,2010-07-15,NA,NA,brw6,NA,snow,NA,1,NA
+2010,barr,NA,2010-07-22,NA,NA,brw6,NA,glgu,NA,90,NA
+2010,barr,NA,2010-07-29,NA,NA,brw6,NA,glgu,NA,325,NA
+2010,barr,NA,2010-07-29,NA,NA,brw6,NA,herg,NA,1,NA
+2010,barr,NA,2010-06-03,NA,NA,brw8,NA,glgu,NA,6,NA
+2010,barr,NA,2010-06-10,NA,NA,brw8,NA,glgu,NA,5,NA
+2010,barr,NA,2010-06-17,NA,NA,brw8,NA,glgu,NA,3,NA
+2010,barr,NA,2010-06-17,NA,NA,brw8,NA,ltja,NA,1,NA
+2010,barr,NA,2010-06-24,NA,NA,brw8,NA,glgu,NA,6,NA
+2010,barr,NA,2010-07-01,NA,NA,brw8,NA,glgu,NA,2,NA
+2010,barr,NA,2010-07-08,NA,NA,brw8,NA,none,NA,0,NA
+2010,barr,NA,2010-07-15,NA,NA,brw8,NA,glgu,NA,1,NA
+2010,barr,NA,2010-07-22,NA,NA,brw8,NA,none,NA,0,NA
+2010,barr,NA,2010-07-29,NA,NA,brw8,NA,glgu,NA,4,NA
+2011,barr,NA,2011-06-02,NA,NA,brw1,NA,glgu,NA,4,NA
+2011,barr,NA,2011-06-02,NA,NA,brw1,NA,paja,NA,1,NA
+2011,barr,NA,2011-06-09,NA,NA,brw1,NA,cora,NA,1,NA
+2011,barr,NA,2011-06-09,NA,NA,brw1,NA,glgu,NA,3,NA
+2011,barr,NA,2011-06-09,NA,NA,brw1,NA,poja,NA,1,NA
+2011,barr,NA,2011-06-16,NA,NA,brw1,NA,glgu,NA,3,NA
+2011,barr,NA,2011-06-23,NA,NA,brw1,NA,glgu,NA,2,NA
+2011,barr,NA,2011-06-23,NA,NA,brw1,NA,poja,NA,2,NA
+2011,barr,NA,2011-06-29,NA,NA,brw1,NA,glgu,NA,1,NA
+2011,barr,NA,2011-07-05,NA,NA,brw1,NA,glgu,NA,1,NA
+2011,barr,NA,2011-07-05,NA,NA,brw1,NA,poja,NA,2,NA
+2011,barr,NA,2011-07-12,NA,NA,brw1,NA,poja,NA,1,NA
+2011,barr,NA,2011-07-19,NA,NA,brw1,NA,glgu,NA,1,NA
+2011,barr,NA,2011-07-19,NA,NA,brw1,NA,paja,NA,1,NA
+2011,barr,NA,2011-07-19,NA,NA,brw1,NA,poja,NA,1,NA
+2011,barr,NA,2011-07-26,NA,NA,brw1,NA,glgu,NA,2,NA
+2011,barr,NA,2011-06-02,NA,NA,brw2,NA,glgu,NA,1,NA
+2011,barr,NA,2011-06-02,NA,NA,brw2,NA,paja,NA,3,NA
+2011,barr,NA,2011-06-09,NA,NA,brw2,NA,cora,NA,1,NA
+2011,barr,NA,2011-06-09,NA,NA,brw2,NA,glgu,NA,3,NA
+2011,barr,NA,2011-06-09,NA,NA,brw2,NA,poja,NA,1,NA
+2011,barr,NA,2011-06-16,NA,NA,brw2,NA,poja,NA,1,NA
+2011,barr,NA,2011-06-23,NA,NA,brw2,NA,glgu,NA,15,NA
+2011,barr,NA,2011-06-23,NA,NA,brw2,NA,poja,NA,2,NA
+2011,barr,NA,2011-06-29,NA,NA,brw2,NA,none,NA,0,NA
+2011,barr,NA,2011-07-05,NA,NA,brw2,NA,glgu,NA,3,NA
+2011,barr,NA,2011-07-05,NA,NA,brw2,NA,poja,NA,1,NA
+2011,barr,NA,2011-07-05,NA,NA,brw2,NA,snow,NA,2,NA
+2011,barr,NA,2011-07-12,NA,NA,brw2,NA,ltja,NA,3,NA
+2011,barr,NA,2011-07-12,NA,NA,brw2,NA,snow,NA,1,NA
+2011,barr,NA,2011-07-19,NA,NA,brw2,NA,paja,NA,1,NA
+2011,barr,NA,2011-07-26,NA,NA,brw2,NA,glgu,NA,1,NA
+2011,barr,NA,2011-06-02,NA,NA,brw3,NA,poja,NA,1,NA
+2011,barr,NA,2011-06-09,NA,NA,brw3,NA,paja,NA,2,NA
+2011,barr,NA,2011-06-09,NA,NA,brw3,NA,poja,NA,5,NA
+2011,barr,NA,2011-06-16,NA,NA,brw3,NA,glgu,NA,1,NA
+2011,barr,NA,2011-06-16,NA,NA,brw3,NA,poja,NA,6,NA
+2011,barr,NA,2011-06-23,NA,NA,brw3,NA,paja,NA,1,NA
+2011,barr,NA,2011-06-23,NA,NA,brw3,NA,poja,NA,3,NA
+2011,barr,NA,2011-06-29,NA,NA,brw3,NA,glgu,NA,3,NA
+2011,barr,NA,2011-06-29,NA,NA,brw3,NA,poja,NA,2,NA
+2011,barr,NA,2011-07-05,NA,NA,brw3,NA,poja,NA,3,NA
+2011,barr,NA,2011-07-12,NA,NA,brw3,NA,poja,NA,3,NA
+2011,barr,NA,2011-07-19,NA,NA,brw3,NA,poja,NA,2,NA
+2011,barr,NA,2011-07-26,NA,NA,brw3,NA,glgu,NA,1,NA
+2011,barr,NA,2011-07-26,NA,NA,brw3,NA,poja,NA,5,NA
+2011,barr,NA,2011-06-02,NA,NA,brw5,NA,poja,NA,2,NA
+2011,barr,NA,2011-06-09,NA,NA,brw5,NA,glgu,NA,3,NA
+2011,barr,NA,2011-06-09,NA,NA,brw5,NA,poja,NA,3,NA
+2011,barr,NA,2011-06-16,NA,NA,brw5,NA,poja,NA,1,NA
+2011,barr,NA,2011-06-23,NA,NA,brw5,NA,glgu,NA,1,NA
+2011,barr,NA,2011-06-23,NA,NA,brw5,NA,poja,NA,4,NA
+2011,barr,NA,2011-06-29,NA,NA,brw5,NA,glgu,NA,1,NA
+2011,barr,NA,2011-06-29,NA,NA,brw5,NA,poja,NA,1,NA
+2011,barr,NA,2011-07-05,NA,NA,brw5,NA,none,NA,0,NA
+2011,barr,NA,2011-07-12,NA,NA,brw5,NA,glgu,NA,8,NA
+2011,barr,NA,2011-07-12,NA,NA,brw5,NA,paja,NA,1,NA
+2011,barr,NA,2011-07-12,NA,NA,brw5,NA,poja,NA,2,NA
+2011,barr,NA,2011-07-12,NA,NA,brw5,NA,rutu,NA,1,NA
+2011,barr,NA,2011-07-19,NA,NA,brw5,NA,glgu,NA,1,NA
+2011,barr,NA,2011-07-19,NA,NA,brw5,NA,poja,NA,5,NA
+2011,barr,NA,2011-07-26,NA,NA,brw5,NA,poja,NA,1,NA
+2011,barr,NA,2011-06-02,NA,NA,brw6,NA,cora,NA,2,NA
+2011,barr,NA,2011-06-02,NA,NA,brw6,NA,glgu,NA,11,NA
+2011,barr,NA,2011-06-02,NA,NA,brw6,NA,poja,NA,1,NA
+2011,barr,NA,2011-06-09,NA,NA,brw6,NA,cora,NA,2,NA
+2011,barr,NA,2011-06-09,NA,NA,brw6,NA,glgu,NA,100,NA
+2011,barr,NA,2011-06-09,NA,NA,brw6,NA,poja,NA,1,NA
+2011,barr,NA,2011-06-16,NA,NA,brw6,NA,glgu,NA,33,NA
+2011,barr,NA,2011-06-23,NA,NA,brw6,NA,glgu,NA,164,NA
+2011,barr,NA,2011-06-29,NA,NA,brw6,NA,glgu,NA,55,NA
+2011,barr,NA,2011-07-05,NA,NA,brw6,NA,glgu,NA,219,NA
+2011,barr,NA,2011-07-05,NA,NA,brw6,NA,ltja,NA,1,NA
+2011,barr,NA,2011-07-12,NA,NA,brw6,NA,glgu,NA,125,NA
+2011,barr,NA,2011-07-12,NA,NA,brw6,NA,poja,NA,1,NA
+2011,barr,NA,2011-07-19,NA,NA,brw6,NA,glgu,NA,292,NA
+2011,barr,NA,2011-07-26,NA,NA,brw6,NA,glgu,NA,152,NA
+2011,barr,NA,2011-07-26,NA,NA,brw6,NA,paja,NA,2,NA
+2011,barr,NA,2011-07-26,NA,NA,brw6,NA,snow,NA,1,NA
+2011,barr,NA,2011-06-02,NA,NA,brw8,NA,glgu,NA,6,NA
+2011,barr,NA,2011-06-09,NA,NA,brw8,NA,glgu,NA,4,NA
+2011,barr,NA,2011-06-09,NA,NA,brw8,NA,unja,NA,1,NA
+2011,barr,NA,2011-06-09,NA,NA,brw8,NA,paja,NA,1,NA
+2011,barr,NA,2011-06-16,NA,NA,brw8,NA,cora,NA,2,NA
+2011,barr,NA,2011-06-16,NA,NA,brw8,NA,paja,NA,1,NA
+2011,barr,NA,2011-06-23,NA,NA,brw8,NA,glgu,NA,9,NA
+2011,barr,NA,2011-06-23,NA,NA,brw8,NA,poja,NA,1,NA
+2011,barr,NA,2011-06-29,NA,NA,brw8,NA,glgu,NA,10,NA
+2011,barr,NA,2011-07-05,NA,NA,brw8,NA,glgu,NA,1,NA
+2011,barr,NA,2011-07-05,NA,NA,brw8,NA,paja,NA,1,NA
+2011,barr,NA,2011-07-12,NA,NA,brw8,NA,glgu,NA,5,NA
+2011,barr,NA,2011-07-19,NA,NA,brw8,NA,glgu,NA,1,NA
+2011,barr,NA,2011-07-26,NA,NA,brw8,NA,glgu,NA,3,NA
+2012,barr,NA,2012-06-04,NA,NA,brw1,NA,glgu,NA,2,NA
+2012,barr,NA,2012-06-11,NA,NA,brw1,NA,glgu,NA,6,NA
+2012,barr,NA,2012-06-18,NA,NA,brw1,NA,glgu,NA,1,NA
+2012,barr,NA,2012-06-18,NA,NA,brw1,NA,poja,NA,1,NA
+2012,barr,NA,2012-06-25,NA,NA,brw1,NA,glgu,NA,1,NA
+2012,barr,NA,2012-06-25,NA,NA,brw1,NA,paja,NA,1,NA
+2012,barr,NA,2012-06-25,NA,NA,brw1,NA,poja,NA,2,NA
+2012,barr,NA,2012-07-03,NA,NA,brw1,NA,glgu,NA,1,NA
+2012,barr,NA,2012-07-10,NA,NA,brw1,NA,glgu,NA,2,NA
+2012,barr,NA,2012-07-10,NA,NA,brw1,NA,paja,NA,1,NA
+2012,barr,NA,2012-07-17,NA,NA,brw1,NA,glgu,NA,1,NA
+2012,barr,NA,2012-07-17,NA,NA,brw1,NA,poja,NA,2,NA
+2012,barr,NA,2012-07-17,NA,NA,brw1,NA,snow,NA,1,NA
+2012,barr,NA,2012-07-24,NA,NA,brw1,NA,glgu,NA,4,NA
+2012,barr,NA,2012-07-24,NA,NA,brw1,NA,paja,NA,2,NA
+2012,barr,NA,2012-07-24,NA,NA,brw1,NA,poja,NA,5,NA
+2012,barr,NA,2012-06-04,NA,NA,brw2,NA,glgu,NA,7,NA
+2012,barr,NA,2012-06-04,NA,NA,brw2,NA,snow,NA,2,NA
+2012,barr,NA,2012-06-11,NA,NA,brw2,NA,glgu,NA,1,NA
+2012,barr,NA,2012-06-11,NA,NA,brw2,NA,paja,NA,1,NA
+2012,barr,NA,2012-06-11,NA,NA,brw2,NA,snow,NA,4,NA
+2012,barr,NA,2012-06-18,NA,NA,brw2,NA,glgu,NA,4,NA
+2012,barr,NA,2012-06-18,NA,NA,brw2,NA,paja,NA,2,NA
+2012,barr,NA,2012-06-18,NA,NA,brw2,NA,snow,NA,3,NA
+2012,barr,NA,2012-06-25,NA,NA,brw2,NA,glgu,NA,1,NA
+2012,barr,NA,2012-06-25,NA,NA,brw2,NA,poja,NA,2,NA
+2012,barr,NA,2012-06-25,NA,NA,brw2,NA,snow,NA,4,NA
+2012,barr,NA,2012-07-03,NA,NA,brw2,NA,glgu,NA,3,NA
+2012,barr,NA,2012-07-03,NA,NA,brw2,NA,paja,NA,2,NA
+2012,barr,NA,2012-07-03,NA,NA,brw2,NA,poja,NA,1,NA
+2012,barr,NA,2012-07-03,NA,NA,brw2,NA,snow,NA,3,NA
+2012,barr,NA,2012-07-10,NA,NA,brw2,NA,snow,NA,3,NA
+2012,barr,NA,2012-07-17,NA,NA,brw2,NA,glgu,NA,2,NA
+2012,barr,NA,2012-07-17,NA,NA,brw2,NA,paja,NA,3,NA
+2012,barr,NA,2012-07-17,NA,NA,brw2,NA,poja,NA,1,NA
+2012,barr,NA,2012-07-17,NA,NA,brw2,NA,snow,NA,3,NA
+2012,barr,NA,2012-07-24,NA,NA,brw2,NA,poja,NA,3,NA
+2012,barr,NA,2012-07-24,NA,NA,brw2,NA,snow,NA,5,NA
+2012,barr,NA,2012-06-04,NA,NA,brw3,NA,arfo,NA,1,NA
+2012,barr,NA,2012-06-04,NA,NA,brw3,NA,glgu,NA,4,NA
+2012,barr,NA,2012-06-04,NA,NA,brw3,NA,paja,NA,1,NA
+2012,barr,NA,2012-06-11,NA,NA,brw3,NA,glgu,NA,2,NA
+2012,barr,NA,2012-06-11,NA,NA,brw3,NA,poja,NA,3,NA
+2012,barr,NA,2012-06-18,NA,NA,brw3,NA,glgu,NA,1,NA
+2012,barr,NA,2012-06-18,NA,NA,brw3,NA,poja,NA,3,NA
+2012,barr,NA,2012-06-18,NA,NA,brw3,NA,unja,NA,1,NA
+2012,barr,NA,2012-06-25,NA,NA,brw3,NA,poja,NA,3,NA
+2012,barr,NA,2012-07-03,NA,NA,brw3,NA,none,NA,0,NA
+2012,barr,NA,2012-07-10,NA,NA,brw3,NA,paja,NA,1,NA
+2012,barr,NA,2012-07-17,NA,NA,brw3,NA,glgu,NA,4,NA
+2012,barr,NA,2012-07-17,NA,NA,brw3,NA,poja,NA,1,NA
+2012,barr,NA,2012-07-17,NA,NA,brw3,NA,snow,NA,2,NA
+2012,barr,NA,2012-07-17,NA,NA,brw3,NA,unja,NA,8,NA
+2012,barr,NA,2012-07-24,NA,NA,brw3,NA,glgu,NA,4,NA
+2012,barr,NA,2012-07-24,NA,NA,brw3,NA,poja,NA,2,NA
+2012,barr,NA,2012-06-04,NA,NA,brw5,NA,glgu,NA,1,NA
+2012,barr,NA,2012-06-11,NA,NA,brw5,NA,glgu,NA,4,NA
+2012,barr,NA,2012-06-11,NA,NA,brw5,NA,poja,NA,4,NA
+2012,barr,NA,2012-06-18,NA,NA,brw5,NA,poja,NA,3,NA
+2012,barr,NA,2012-06-25,NA,NA,brw5,NA,poja,NA,3,NA
+2012,barr,NA,2012-07-03,NA,NA,brw5,NA,none,NA,0,NA
+2012,barr,NA,2012-07-10,NA,NA,brw5,NA,glgu,NA,3,NA
+2012,barr,NA,2012-07-10,NA,NA,brw5,NA,poja,NA,1,NA
+2012,barr,NA,2012-07-17,NA,NA,brw5,NA,paja,NA,1,NA
+2012,barr,NA,2012-07-17,NA,NA,brw5,NA,poja,NA,1,NA
+2012,barr,NA,2012-07-17,NA,NA,brw5,NA,snow,NA,1,NA
+2012,barr,NA,2012-07-24,NA,NA,brw5,NA,glgu,NA,6,NA
+2012,barr,NA,2012-07-24,NA,NA,brw5,NA,snow,NA,3,NA
+2012,barr,NA,2012-06-04,NA,NA,brw6,NA,glgu,NA,45,NA
+2012,barr,NA,2012-06-04,NA,NA,brw6,NA,poja,NA,2,NA
+2012,barr,NA,2012-06-11,NA,NA,brw6,NA,glgu,NA,52,NA
+2012,barr,NA,2012-06-11,NA,NA,brw6,NA,poja,NA,1,NA
+2012,barr,NA,2012-06-18,NA,NA,brw6,NA,glgu,NA,33,NA
+2012,barr,NA,2012-06-18,NA,NA,brw6,NA,snow,NA,1,NA
+2012,barr,NA,2012-06-25,NA,NA,brw6,NA,glgu,NA,38,NA
+2012,barr,NA,2012-06-25,NA,NA,brw6,NA,poja,NA,2,NA
+2012,barr,NA,2012-06-25,NA,NA,brw6,NA,unja,NA,1,NA
+2012,barr,NA,2012-07-03,NA,NA,brw6,NA,glgu,NA,9,NA
+2012,barr,NA,2012-07-03,NA,NA,brw6,NA,unja,NA,2,NA
+2012,barr,NA,2012-07-10,NA,NA,brw6,NA,glgu,NA,55,NA
+2012,barr,NA,2012-07-10,NA,NA,brw6,NA,paja,NA,1,NA
+2012,barr,NA,2012-07-10,NA,NA,brw6,NA,poja,NA,2,NA
+2012,barr,NA,2012-07-17,NA,NA,brw6,NA,glgu,NA,86,NA
+2012,barr,NA,2012-07-24,NA,NA,brw6,NA,glgu,NA,170,NA
+2012,barr,NA,2012-07-24,NA,NA,brw6,NA,paja,NA,1,NA
+2012,barr,NA,2012-06-04,NA,NA,brw8,NA,glgu,NA,20,NA
+2012,barr,NA,2012-06-11,NA,NA,brw8,NA,glgu,NA,1,NA
+2012,barr,NA,2012-06-18,NA,NA,brw8,NA,glgu,NA,20,NA
+2012,barr,NA,2012-06-18,NA,NA,brw8,NA,paja,NA,3,NA
+2012,barr,NA,2012-06-18,NA,NA,brw8,NA,poja,NA,1,NA
+2012,barr,NA,2012-06-25,NA,NA,brw8,NA,glgu,NA,1,NA
+2012,barr,NA,2012-06-25,NA,NA,brw8,NA,paja,NA,5,NA
+2012,barr,NA,2012-07-03,NA,NA,brw8,NA,paja,NA,2,NA
+2012,barr,NA,2012-07-03,NA,NA,brw8,NA,poja,NA,1,NA
+2012,barr,NA,2012-07-03,NA,NA,brw8,NA,unja,NA,1,NA
+2012,barr,NA,2012-07-10,NA,NA,brw8,NA,poja,NA,3,NA
+2012,barr,NA,2012-07-10,NA,NA,brw8,NA,paja,NA,1,NA
+2012,barr,NA,2012-07-17,NA,NA,brw8,NA,glgu,NA,3,NA
+2012,barr,NA,2012-07-17,NA,NA,brw8,NA,snow,NA,2,NA
+2012,barr,NA,2012-07-24,NA,NA,brw8,NA,glgu,NA,1,NA
+2012,barr,NA,2012-07-24,NA,NA,brw8,NA,snow,NA,3,NA
+2013,barr,jcunningham,2013-06-03,1110,1120,brw0,c7,NA,NA,NA,NA
+2013,barr,jcunningham,2013-06-03,1320,1330,brw0,k7,NA,NA,NA,NA
+2013,barr,jcunningham,2013-06-03,1355,1405,brw0,g7,paja,25,1,NA
+2013,barr,jcunningham,2013-06-03,1355,1405,brw0,g7,paja,200,1,NA
+2013,barr,lrensel,2013-06-11,1610,1620,brw0,c7,glgu,60,4,NA
+2013,barr,lrensel,2013-06-11,1430,1440,brw0,g7,NA,NA,NA,NA
+2013,barr,lrensel,2013-06-11,1455,1505,brw0,k7,paja,80,1,off plot by about 10m
+2013,barr,lrensel,2013-06-18,1434,1444,brw0,c7,NA,NA,NA,NA
+2013,barr,lrensel,2013-06-18,1517,1527,brw0,g7,glgu,60,2,flying over
+2013,barr,lrensel,2013-06-18,1555,1605,brw0,k7,none,NA,0,NA
+2013,barr,lrensel,2013-06-25,1550,1600,brw0,c7,none,NA,0,NA
+2013,barr,lrensel,2013-06-25,1745,1755,brw0,g7,glgu,60,1,NA
+2013,barr,lrensel,2013-06-25,1745,1755,brw0,g7,glgu,120,1,NA
+2013,barr,lrensel,2013-06-25,1810,1820,brw0,k7,none,NA,0,NA
+2013,barr,jcunningham,2013-07-02,1345,1355,brw0,c7,paja,300,2,NA
+2013,barr,jcunningham,2013-07-02,1305,1315,brw0,g7,none,NA,0,NA
+2013,barr,jcunningham,2013-07-02,1200,1210,brw0,k7,glgu,150,1,NA
+2013,barr,jcunningham,2013-07-09,1118,1128,brw0,c7,none,NA,0,NA
+2013,barr,jcunningham,2013-07-09,1903,1913,brw0,g7,paja,150,2,NA
+2013,barr,jcunningham,2013-07-09,1237,1247,brw0,k7,none,NA,0,NA
+2013,barr,jcunningham,2013-07-16,1611,1621,brw0,c7,none,NA,0,NA
+2013,barr,jcunningham,2013-07-16,1540,1550,brw0,g7,none,NA,0,NA
+2013,barr,jcunningham,2013-07-16,1519,1529,brw0,k7,glgu,200,1,NA
+2013,barr,jcunningham,2013-07-16,1519,1529,brw0,k7,glgu,150,1,NA
+2013,barr,kgrond,2013-06-03,1135,1145,brw1,c7,glgu,100,1,NA
+2013,barr,kgrond,2013-06-03,1300,1310,brw1,g7,poja,50,1,NA
+2013,barr,kgrond,2013-06-03,1220,1230,brw1,k7,glgu,200,1,NA
+2013,barr,kgrond,2013-06-03,1220,1230,brw1,k7,glgu,100,1,NA
+2013,barr,pherzog,2013-06-11,1432,1442,brw1,c7,paja,150,1,"flying over plot, searching"
+2013,barr,pherzog,2013-06-11,1432,1442,brw1,c7,paja,200,1,"flying over plot, searching"
+2013,barr,pherzog,2013-06-11,1432,1442,brw1,c7,glgu,100,1,flying by in N direction
+2013,barr,pherzog,2013-06-11,1432,1442,brw1,c7,glgu,300,1,"flying by, in W direction"
+2013,barr,pherzog,2013-06-11,1518,1528,brw1,g7,none,NA,0,NA
+2013,barr,pherzog,2013-06-11,1604,1614,brw1,k7,none,NA,0,NA
+2013,barr,pherzog,2013-06-18,1407,1417,brw1,c7,glgu,100,1,flying by
+2013,barr,pherzog,2013-06-18,1407,1417,brw1,c7,paja,70,1,hunting
+2013,barr,pherzog,2013-06-18,1407,1417,brw1,c7,glgu,120,1,flying by
+2013,barr,pherzog,2013-06-18,1525,1535,brw1,g7,paja,300,1,flying low over tundra in W direction
+2013,barr,pherzog,2013-06-18,1620,1630,brw1,k7,glgu,300,1,flying by
+2013,barr,pherzog,2013-06-18,1620,1630,brw1,k7,glgu,200,1,"flying off plot, in E direction"
+2013,barr,pherzog,2013-06-18,1620,1630,brw1,k7,paja,50,1,hunting 
+2013,barr,pherzog,2013-06-25,1441,1451,brw1,c7,paja,150,1,feeding on STEI eggs
+2013,barr,pherzog,2013-06-25,1441,1451,brw1,c7,glgu,200,2,flying by
+2013,barr,pherzog,2013-06-25,1547,1557,brw1,g7,glgu,100,1,"flying over, E of stake, N to S"
+2013,barr,pherzog,2013-06-25,1625,1635,brw1,k7,cora,300,1,"flying by S to N, SE of stake "
+2013,barr,lrensel,2013-07-02,1156,1206,brw1,c7,none,NA,0,NA
+2013,barr,lrensel,2013-07-02,1223,1233,brw1,g7,ltja,180,1,NA
+2013,barr,lrensel,2013-07-02,1314,1324,brw1,k7,none,NA,0,NA
+2013,barr,bkaselow,2013-07-09,NA,NA,brw1,c7,glgu,40,1,"hunting, cheased by a PESA"
+2013,barr,bkaselow,2013-07-09,NA,NA,brw1,g7,ltja,50,1,flying by
+2013,barr,bkaselow,2013-07-09,1600,1610,brw1,k7,glgu,40,1,"hunting, chased by a AMGP"
+2013,barr,bkaselow,2013-07-09,1600,1610,brw1,k7,paja,175,2," calling, on terretory"
+2013,barr,bkaselow,2013-07-09,1600,1610,brw1,k7,ltja,100,7,"calling, flocking"
+2013,barr,pherzog,2013-07-16,1056,1106,brw1,c7,glgu,100,2,"flying over from E to W, S of the stake"
+2013,barr,pherzog,2013-07-16,1056,1106,brw1,c7,paja,300,1,"flying by E of the stake, direction N toS"
+2013,barr,pherzog,2013-07-16,1148,1158,brw1,g7,glgu,300,1,"flying by E of stake, S to NE"
+2013,barr,pherzog,2013-07-16,1225,1235,brw1,k7,none,NA,0,NA
+2013,barr,kgrond,2013-06-03,1055,1105,brw2,c7,none,NA,0,NA
+2013,barr,kgrond,2013-06-03,1025,1035,brw2,g7,glgu,500,1,NA
+2013,barr,kgrond,2013-06-03,950,1000,brw2,k7,none,NA,0,NA
+2013,barr,pherzog,2013-06-11,1233,1243,brw2,c7,none,NA,0,NA
+2013,barr,pherzog,2013-06-11,1155,1205,brw2,g7,glgu,300,3,flying on the east side of the stake heading north
+2013,barr,pherzog,2013-06-11,1155,1205,brw2,g7,glgu,250,1,flying over to the SE
+2013,barr,pherzog,2013-06-11,1024,1034,brw2,k7,none,NA,0,NA
+2013,barr,pherzog,2013-06-18,1200,1210,brw2,c7,paja,150,1,"50m off plot N of C7, fly by E direction"
+2013,barr,pherzog,2013-06-18,1200,1210,brw2,c7,glgu,100,2,flyover south to north
+2013,barr,pherzog,2013-06-18,1200,1210,brw2,c7,unja,250,1,"sitting on ground, almost on plot 1"
+2013,barr,pherzog,2013-06-18,1125,1135,brw2,g7,none,NA,0,1130 fox guys walking over plot
+2013,barr,pherzog,2013-06-18,1030,1040,brw2,k7,paja,200,1,"flying by, S direction"
+2013,barr,pherzog,2013-06-25,1254,1304,brw2,c7,none,NA,0,NA
+2013,barr,pherzog,2013-06-25,1150,1200,brw2,g7,glgu,70,1,"flying over, east to west, north of stake"
+2013,barr,pherzog,2013-06-25,NA,NA,brw2,k7,glgu,100,1,flying by south of stake west to east
+2013,barr,lrensel,2013-07-02,1121,1131,brw2,c7,none,NA,0,NA
+2013,barr,lrensel,2013-07-02,1102,1112,brw2,g7,none,NA,0,NA
+2013,barr,lrensel,2013-07-02,1030,1040,brw2,k7,paja,80,1,NA
+2013,barr,bkaselow,2013-07-09,1758,1808,brw2,c7,none,NA,0,NA
+2013,barr,bkaselow,2013-07-09,1835,1845,brw2,g7,none,NA,0,NA
+2013,barr,bkaselow,2013-07-09,1900,1910,brw2,k7,paja,125,1,NA
+2013,barr,bkaselow,2013-07-09,1900,1910,brw2,k7,glgu,50,1,NA
+2013,barr,pherzog,2013-07-16,1335,1345,brw2,c7,paja,200,2,"flying N of stake, W to E"
+2013,barr,pherzog,2013-07-16,1335,1345,brw2,c7,glgu,300,1,"S to N flying, E of stake"
+2013,barr,pherzog,2013-07-16,1447,1457,brw2,g7,none,NA,0,NA
+2013,barr,pherzog,2013-07-16,1553,1603,brw2,k7,none,NA,0,NA
+2013,barr,"vloverti,pherzog",2013-06-03,1253,1305,brw3,c7,glgu,200,1,flying over NE
+2013,barr,"vloverti,pherzog",2013-06-03,1154,1204,brw3,g7,glgu,150,1,NA
+2013,barr,"vloverti,pherzog",2013-06-03,1154,1204,brw3,g7,arfo,150,1,running over plot
+2013,barr,"vloverti,pherzog",2013-06-03,1055,1105,brw3,k7,none,NA,0,NA
+2013,barr,bkaselow,2013-06-11,1345,1400,brw3,c7,poja,50,1,hunting
+2013,barr,bkaselow,2013-06-11,1430,1445,brw3,g7,paja,30,3,hunting
+2013,barr,bkaselow,2013-06-11,1545,1600,brw3,k7,paja,60,1,hunting
+2013,barr,bkaselow,2013-06-11,1545,1600,brw3,k7,glgu,25,1,"flyover, calling"
+2013,barr,kgrond,2013-06-18,1125,1135,brw3,c7,none,NA,0,NA
+2013,barr,kgrond,2013-06-18,1215,1225,brw3,g7,glgu,50,1,NA
+2013,barr,kgrond,2013-06-18,1300,1310,brw3,k7,paja,100,1,NA
+2013,barr,kgrond,2013-06-18,1300,1310,brw3,k7,glgu,50,1,NA
+2013,barr,kgrond,2013-06-18,1300,1310,brw3,k7,glgu,100,1,NA
+2013,barr,kgrond,2013-06-18,1300,1310,brw3,k7,glgu,150,1,NA
+2013,barr,amould,2013-06-25,1615,1625,brw3,c7,glgu,150,1,swooping low to the est
+2013,barr,amould,2013-06-25,1645,1655,brw3,g7,none,NA,0,NA
+2013,barr,amould,2013-06-25,1705,1715,brw3,k7,none,NA,0,NA
+2013,barr,jdanby,2013-07-02,1210,1220,brw3,c7,glgu,NA,2,NA
+2013,barr,jdanby,2013-07-02,1210,1220,brw3,c7,paja,NA,1,NA
+2013,barr,jdanby,2013-07-02,1210,1220,brw3,c7,ltja,NA,5,NA
+2013,barr,jdanby,2013-07-02,1330,1340,brw3,g7,glgu,NA,1,NA
+2013,barr,jdanby,2013-07-02,1330,1340,brw3,g7,paja,NA,1,NA
+2013,barr,jdanby,2013-07-02,1330,1340,brw3,g7,ltja,NA,4,NA
+2013,barr,jdanby,2013-07-02,1300,1310,brw3,k7,glgu,NA,2,NA
+2013,barr,jdanby,2013-07-02,1300,1310,brw3,k7,paja,NA,1,NA
+2013,barr,jdanby,2013-07-02,1300,1310,brw3,k7,ltja,NA,1,NA
+2013,barr,lrensel,2013-07-09,1340,1350,brw3,c7,none,NA,0,NA
+2013,barr,lrensel,2013-07-09,1250,1300,brw3,g7,paja,250,1,NA
+2013,barr,lrensel,2013-07-09,1250,1300,brw3,g7,glgu,50,1,"sitting on ground, watching observer"
+2013,barr,lrensel,2013-07-09,1233,1243,brw3,k7,none,NA,0,NA
+2013,barr,kgrond,2013-07-16,1130,1140,brw3,c7,none,NA,0,NA
+2013,barr,kgrond,2013-07-16,1200,1210,brw3,g7,none,NA,0,NA
+2013,barr,kgrond,2013-07-16,1240,1250,brw3,k7,none,NA,0,NA
+2013,barr,vloverti,2013-06-03,1411,1421,brw5,c7,glgu,300,1,flew through plot to the north
+2013,barr,vloverti,2013-06-03,1442,1452,brw5,g7,none,NA,0,NA
+2013,barr,vloverti,2013-06-03,1507,1517,brw5,k7,none,NA,0,NA
+2013,barr,bkaselow,2013-06-11,1155,1210,brw5,c7,glgu,35,1,"fly over, calling"
+2013,barr,bkaselow,2013-06-11,1225,1240,brw5,g7,none,NA,0,NA
+2013,barr,bkaselow,2013-06-11,1255,1310,brw5,k7,none,NA,0,NA
+2013,barr,jcunningham,2013-06-18,1321,1331,brw5,c7,glgu,200,1,NA
+2013,barr,jcunningham,2013-06-18,1321,1331,brw5,c7,paja,100,3,NA
+2013,barr,jcunningham,2013-06-18,1233,1243,brw5,g7,none,NA,0,NA
+2013,barr,jcunningham,2013-06-18,1144,1154,brw5,k7,none,NA,0,NA
+2013,barr,amould,2013-06-25,1105,1115,brw5,c7,paja,500,1,swooping low in distance - off plot
+2013,barr,amould,2013-06-25,1225,1235,brw5,g7,paja,100,1,flying across low SE to NW
+2013,barr,amould,2013-06-25,1300,1310,brw5,k7,glgu,100,1,swooping low to S
+2013,barr,pherzog,2013-07-02,1853,1903,brw5,c7,glgu,250,1,"flying over, west of stake, north direction"
+2013,barr,pherzog,2013-07-02,1853,1903,brw5,c7,pefa,300,1,"sitting on ground, NE of stake, off plot"
+2013,barr,pherzog,2013-07-02,1919,1929,brw5,g7,glgu,200,2,"SE of stake,flying over N direction"
+2013,barr,pherzog,2013-07-02,1827,1837,brw5,k7,none,NA,0,NA
+2013,barr,lrensel,2013-07-09,NA,NA,brw5,c7,none,NA,0,NA
+2013,barr,lrensel,2013-07-09,1142,1152,brw5,g7,glgu,20,2,NA
+2013,barr,lrensel,2013-07-09,1142,1152,brw5,g7,glgu,300,1,NA
+2013,barr,lrensel,2013-07-09,1054,1105,brw5,k7,ltja,200,1,NA
+2013,barr,lrensel,2013-07-09,1054,1105,brw5,k7,glgu,200,1,NA
+2013,barr,bkaselow,2013-07-16,1235,1245,brw5,c7,none,NA,0,NA
+2013,barr,bkaselow,2013-07-16,1140,1150,brw5,g7,none,NA,0,NA
+2013,barr,bkaselow,2013-07-16,1045,1055,brw5,k7,none,NA,0,NA
+2013,barr,"fstetler,pherzog,rlanctot",2013-06-03,1701,1711,brw8,c7,glgu,250,1,"single fly, obs Rlanctot"
+2013,barr,"fstetler,pherzog,rlanctot",2013-06-03,1647,1657,brw8,g7,glgu,100,1,fly in E direction Obs Pherzog
+2013,barr,"fstetler,pherzog,rlanctot",2013-06-03,1647,1657,brw8,g7,glgu,100,1,fly in N direction Obs Pherzog
+2013,barr,"fstetler,pherzog,rlanctot",2013-06-03,1549,1559,brw8,k7,glgu,250,1,single fly by
+2013,barr,lrensel,2013-06-11,934,944,brw8,c7,glgu,20,1,fly overhead
+2013,barr,lrensel,2013-06-11,1150,1200,brw8,g7,glgu,50-70,2,diving after small bird?
+2013,barr,lrensel,2013-06-11,1126,1136,brw8,k7,none,NA,0,NA
+2013,barr,lrensel,2013-06-18,931,941,brw8,c7,glgu,10,1,fly overhead
+2013,barr,lrensel,2013-06-18,1242,1252,brw8,g7,glgu,20-80,3,NA
+2013,barr,lrensel,2013-06-18,1131,1141,brw8,k7,glgu,30,1,NA
+2013,barr,lrensel,2013-06-18,1131,1141,brw8,k7,paja,80,2,NA
+2013,barr,lrensel,2013-06-25,1330,1340,brw8,c7,paja,20-30,2,nesting pair?
+2013,barr,lrensel,2013-06-25,1330,1340,brw8,c7,glgu,70,1,flying by
+2013,barr,lrensel,2013-06-25,1213,1223,brw8,g7,glgu,50,2,NA
+2013,barr,lrensel,2013-06-25,1213,1223,brw8,g7,glgu,75,1,NA
+2013,barr,lrensel,2013-06-25,1213,1223,brw8,g7,glgu,30,1,flyover
+2013,barr,lrensel,2013-06-25,1146,1156,brw8,k7,paja,10,2,nesting pair
+2013,barr,lrensel,2013-07-02,1520,1530,brw8,c7,none,NA,0,NA
+2013,barr,lrensel,2013-07-02,1425,1435,brw8,g7,paja,300,3,2 paired by c11
+2013,barr,lrensel,2013-07-02,1425,1435,brw8,g7,ltja,100,4,flyby 
+2013,barr,lrensel,2013-07-02,1442,1452,brw8,k7,paja,120,2,paired? Sitting/watching
+2013,barr,NA,2013-07-09,NA,NA,brw8,c7,NA,NA,NA,no survey done
+2013,barr,NA,2013-07-09,NA,NA,brw8,g7,NA,NA,NA,no survey done
+2013,barr,NA,2013-07-09,NA,NA,brw8,k7,NA,NA,NA,no survey done
+2013,barr,lrensel,2013-07-16,1004,1014,brw8,c7,none,NA,0,NA
+2013,barr,lrensel,2013-07-16,1143,1153,brw8,g7,glgu,100,1,NA
+2013,barr,lrensel,2013-07-16,1143,1153,brw8,g7,glgu,300,2,appeared to be mobbed by small birds
+2013,barr,lrensel,2013-07-16,1255,1305,brw8,k7,paja,80,2,nesting pair on this plot
+2014,barr,"asterling,wenglish",2014-06-05,1354,1404,brw0,k7,poja,20,1,NA
+2014,barr,"asterling,wenglish",2014-06-05,1354,1404,brw0,k7,poja,200,1,NA
+2014,barr,"asterling,wenglish",2014-06-05,1354,1404,brw0,k7,paja,200,1,NA
+2014,barr,"asterling,wenglish",2014-06-05,1354,1404,brw0,k7,glgu,50,1,NA
+2014,barr,"asterling,wenglish",2014-06-05,1452,1502,brw0,c7,poja,200,1,"snowing heavily, giant flakes"
+2014,barr,"asterling,wenglish",2014-06-05,1524,1534,brw0,g7,glgu,25,1,NA
+2014,barr,"asterling,wenglish",2014-06-05,1524,1534,brw0,g7,poja,150,1,NA
+2014,barr,"asterling,wenglish",2014-06-05,1524,1534,brw0,g7,glgu,25,4,NA
+2014,barr,"asterling,wenglish",2014-06-05,1524,1534,brw0,g7,poja,125,2,NA
+2014,barr,ssheedy,2014-06-11,1007,1017,brw0,c7,poja,100,1,NA
+2014,barr,ssheedy,2014-06-11,1007,1017,brw0,c7,poja,125,2,NA
+2014,barr,ssheedy,2014-06-11,1156,1106,brw0,g7,poja,125,1,NA
+2014,barr,ssheedy,2014-06-11,1156,1106,brw0,g7,poja,300,1,NA
+2014,barr,ssheedy,2014-06-11,1156,1106,brw0,g7,poja,350,1,NA
+2014,barr,ssheedy,2014-06-11,1329,1339,brw0,k7,poja,20,1,NA
+2014,barr,ssheedy,2014-06-11,1329,1339,brw0,k7,poja,50,1,NA
+2014,barr,ssheedy,2014-06-11,1329,1339,brw0,k7,poja,150,1,NA
+2014,barr,ssheedy,2014-06-11,1329,1339,brw0,k7,poja,10,1,NA
+2014,barr,ssheedy,2014-06-18,918,928,brw0,c7,poja,200,1,"foggy dat, not great visibility"
+2014,barr,ssheedy,2014-06-18,918,928,brw0,c7,paja,250,1,NA
+2014,barr,ssheedy,2014-06-18,918,928,brw0,c7,poja,150,1,NA
+2014,barr,ssheedy,2014-06-18,918,928,brw0,c7,poja,50,2,NA
+2014,barr,ssheedy,2014-06-18,918,928,brw0,c7,glgu,250,1,NA
+2014,barr,ssheedy,2014-06-18,1057,1107,brw0,g7,paja,75,1,NA
+2014,barr,ssheedy,2014-06-18,1057,1107,brw0,g7,poja,300,1,NA
+2014,barr,ssheedy,2014-06-18,1231,NA,brw0,k7,poja,100,1,really thick fog
+2014,barr,ssheedy,2014-06-25,1233,1343,brw0,c7,none,NA,0,NA
+2014,barr,ssheedy,2014-06-25,1126,1136,brw0,g7,poja,50,1,NA
+2014,barr,ssheedy,2014-06-25,1126,1136,brw0,g7,poja,50,1,NA
+2014,barr,ssheedy,2014-06-25,1126,1136,brw0,g7,glgu,150,1,NA
+2014,barr,ssheedy,2014-06-25,947,957,brw0,k7,poja,200,1,NA
+2014,barr,asterling,2014-07-01,1650,1700,brw0,c7,poja,25,1,NA
+2014,barr,asterling,2014-07-01,1650,1700,brw0,c7,poja,25,1,NA
+2014,barr,asterling,2014-07-01,1815,1825,brw0,g7,poja,50,1,nest
+2014,barr,asterling,2014-07-01,1815,1825,brw0,g7,poja,100,2,NA
+2014,barr,asterling,2014-07-01,1507,1517,brw0,k7,poja,100,1,NA
+2014,barr,kkalasz,2014-07-08,1300,1310,brw0,c7,poja,150,1,NA
+2014,barr,kkalasz,2014-07-08,1320,1330,brw0,g7,poja,50,1,nest
+2014,barr,kkalasz,2014-07-08,1337,1347,brw0,k7,poja,100,1,NA
+2014,barr,asterling,2014-07-15,1245,1255,brw0,c7,poja,50,1,NA
+2014,barr,asterling,2014-07-15,1245,1255,brw0,c7,poja,150,1,NA
+2014,barr,asterling,2014-07-15,1432,1442,brw0,g7,poja,50,1,on nest at G6
+2014,barr,asterling,2014-07-15,1432,1442,brw0,g7,poja,200,1,NA
+2014,barr,asterling,2014-07-15,1432,1442,brw0,g7,poja,100,2,NA
+2014,barr,asterling,2014-07-15,1356,1406,brw0,k7,none,NA,0,NA
+2014,barr,wenglish,2014-07-22,1120,1130,brw0,c7,poja,200,2,NA
+2014,barr,wenglish,2014-07-22,1205,1215,brw0,g7,poja,25,1,NA
+2014,barr,wenglish,2014-07-22,1205,1215,brw0,g7,poja,75,1,on nest
+2014,barr,wenglish,2014-07-22,1023,1033,brw0,k7,poja,100,1,NA
+2014,barr,asterling,2014-07-29,1045,1055,brw0,c7,poja,75,1,NA
+2014,barr,asterling,2014-07-29,1045,1055,brw0,c7,poja,100,1,NA
+2014,barr,asterling,2014-07-29,1154,1204,brw0,g7,poja,100,1,NA
+2014,barr,asterling,2014-07-29,1127,1137,brw0,k7,glgu,200,1,NA
+2014,barr,jmarin,2014-08-05,1305,1315,brw0,c7,poja,200,4,NA
+2014,barr,jmarin,2014-08-05,1200,1210,brw0,g7,poja,300,2,NA
+2014,barr,jmarin,2014-08-05,1200,1210,brw0,g7,poja,500,2,NA
+2014,barr,jmarin,2014-08-05,1200,1210,brw0,g7,poja,20,1,NA
+2014,barr,jmarin,2014-08-05,1130,1140,brw0,k7,poja,400,2,NA
+2014,barr,jmarin,2014-08-05,1130,1140,brw0,k7,snow,500,1,NA
+2014,barr,"ssheedy,kgrond",2014-06-05,1153,1203,brw1,c7,none,NA,0,NA
+2014,barr,"ssheedy,kgrond",2014-06-05,1230,1240,brw1,g7,glgu,20,1,NA
+2014,barr,"ssheedy,kgrond",2014-06-05,1300,1310,brw1,k7,poja,100,2,NA
+2014,barr,"ssheedy,kgrond",2014-06-05,1300,1310,brw1,k7,glgu,200,1,NA
+2014,barr,jmarin,2014-06-11,1624,1640,brw1,c7,glgu,50,1,> 10 minutes
+2014,barr,jmarin,2014-06-11,1624,1640,brw1,c7,poja,20,1,> 10 minutes
+2014,barr,jmarin,2014-06-11,1624,1640,brw1,c7,glgu,500,4,> 10 minutes
+2014,barr,jmarin,2014-06-11,1535,1608,brw1,g7,poja,25,2,> 10 minutes
+2014,barr,jmarin,2014-06-11,1326,1400,brw1,k7,glgu,300,5,> 10 minutes
+2014,barr,jmarin,2014-06-11,1326,1400,brw1,k7,paja,20,1,> 10 minutes
+2014,barr,jmarin,2014-06-11,1326,1400,brw1,k7,poja,40,3,> 10 minutes
+2014,barr,jmarin,2014-06-18,900,1020,brw1,c7,glgu,50,2,> 10 minutes; foggy and windy
+2014,barr,jmarin,2014-06-18,900,1020,brw1,c7,glgu,500,2,> 10 minutes; foggy and windy
+2014,barr,jmarin,2014-06-18,900,1020,brw1,c7,paja,20,1,> 10 minutes; foggy and windy; hunting
+2014,barr,jmarin,2014-06-18,900,1020,brw1,c7,paja,300,1,> 10 minutes; foggy and windy
+2014,barr,jmarin,2014-06-18,900,1020,brw1,c7,poja,150,1,> 10 minutes; foggy and windy
+2014,barr,jmarin,2014-06-18,1040,1120,brw1,g7,poja,200,5,> 10 minutes; foggy and windy
+2014,barr,jmarin,2014-06-18,1040,1120,brw1,g7,paja,300,2,"> 10 minutes; foggy and windy; hunting, fighting with poja"
+2014,barr,jmarin,2014-06-18,1040,1120,brw1,g7,paja,500,2,> 10 minutes; foggy and windy
+2014,barr,jmarin,2014-06-18,1120,1220,brw1,k7,paja,200,2,> 10 minutes; foggy and windy
+2014,barr,jmarin,2014-06-18,1120,1220,brw1,k7,poja,300,5,> 10 minutes; foggy and windy
+2014,barr,jmarin,2014-06-18,1120,1220,brw1,k7,glgu,50,7,> 10 minutes; foggy and windy
+2014,barr,jmarin,2014-06-18,1120,1220,brw1,k7,glgu,400,3,> 10 minutes; foggy and windy
+2014,barr,jmarin,2014-06-18,1120,1220,brw1,k7,glgu,500,2,> 10 minutes; foggy and windy
+2014,barr,jmarin,2014-06-25,1110,1200,brw1,c7,paja,20,3,> 10 minutes
+2014,barr,jmarin,2014-06-25,1110,1200,brw1,c7,poja,20,2,> 10 minutes
+2014,barr,jmarin,2014-06-25,1110,1200,brw1,c7,poja,200,3,> 10 minutes
+2014,barr,jmarin,2014-06-25,1110,1200,brw1,c7,glgu,300,1,> 10 minutes
+2014,barr,jmarin,2014-06-25,1030,1110,brw1,g7,poja,400,3,> 10 minutes
+2014,barr,jmarin,2014-06-25,1030,1110,brw1,g7,poja,600,2,> 10 minutes
+2014,barr,jmarin,2014-06-25,1030,1110,brw1,g7,glgu,400,2,> 10 minutes
+2014,barr,jmarin,2014-06-25,1000,1020,brw1,k7,poja,300,1,> 10 minutes
+2014,barr,jmarin,2014-06-25,1000,1020,brw1,k7,glgu,1000,1,> 10 minutes
+2014,barr,ssheedy,2014-07-01,1317,1327,brw1,c7,poja,325,1,NA
+2014,barr,ssheedy,2014-07-01,1436,1446,brw1,g7,poja,250,1,NA
+2014,barr,ssheedy,2014-07-01,1524,1534,brw1,k7,paja,100,1,NA
+2014,barr,jmarin,2014-07-08,1700,NA,brw1,c7,snow,300,1,NA
+2014,barr,jmarin,2014-07-08,1700,NA,brw1,c7,paja,400,1,NA
+2014,barr,jmarin,2014-07-08,1630,NA,brw1,g7,paja,600,1,NA
+2014,barr,jmarin,2014-07-08,1630,NA,brw1,g7,poja,400,1,NA
+2014,barr,jmarin,2014-07-08,1555,NA,brw1,k7,paja,10,2,NA
+2014,barr,jmarin,2014-07-08,1555,NA,brw1,k7,glgu,600,4,NA
+2014,barr,ssheedy,2014-07-15,1334,1344,brw1,c7,paja,150,1,NA
+2014,barr,ssheedy,2014-07-15,1334,1344,brw1,c7,glgu,100,1,NA
+2014,barr,ssheedy,2014-07-15,1428,1438,brw1,g7,poja,200,2,NA
+2014,barr,ssheedy,2014-07-15,1521,1531,brw1,k7,poja,25,1,NA
+2014,barr,ssheedy,2014-07-15,1521,1531,brw1,k7,glgu,50,1,NA
+2014,barr,asterling,2014-07-22,1001,1011,brw1,c7,poja,200,1,NA
+2014,barr,asterling,2014-07-22,1001,1011,brw1,c7,poja,150,3,NA
+2014,barr,asterling,2014-07-22,1145,1155,brw1,g7,poja,20,1,NA
+2014,barr,asterling,2014-07-22,1145,1155,brw1,g7,glgu,150,1,NA
+2014,barr,asterling,2014-07-22,1145,1155,brw1,g7,glgu,100,1,NA
+2014,barr,asterling,2014-07-22,1109,1119,brw1,k7,poja,150,1,NA
+2014,barr,asterling,2014-07-22,1109,1119,brw1,k7,poja,200,1,NA
+2014,barr,asterling,2014-07-22,1109,1119,brw1,k7,poja,100,2,NA
+2014,barr,asterling,2014-07-22,1109,1119,brw1,k7,paja,200,2,NA
+2014,barr,jmarin,2014-07-29,930,940,brw1,c7,glgu,400,1,NA
+2014,barr,jmarin,2014-07-29,930,940,brw1,c7,poja,400,1,NA
+2014,barr,jmarin,2014-07-29,930,940,brw1,c7,paja,500,3,NA
+2014,barr,jmarin,2014-07-29,1030,1040,brw1,g7,poja,10,1,NA
+2014,barr,jmarin,2014-07-29,1030,1040,brw1,g7,poja,600,1,NA
+2014,barr,jmarin,2014-07-29,1030,1040,brw1,g7,glgu,700,2,NA
+2014,barr,jmarin,2014-07-29,1130,1140,brw1,k7,glgu,10,1,NA
+2014,barr,jmarin,2014-07-29,1130,1140,brw1,k7,snow,400,2,NA
+2014,barr,jmarin,2014-07-29,1130,1140,brw1,k7,poja,200,1,NA
+2014,barr,jcunningham,2014-08-05,1407,1417,brw1,c7,poja,300,1,NA
+2014,barr,jcunningham,2014-08-05,1407,1417,brw1,c7,poja,300,2,NA
+2014,barr,jcunningham,2014-08-05,1407,1417,brw1,c7,glgu,250,1,NA
+2014,barr,jcunningham,2014-08-05,1407,1417,brw1,c7,paja,100,2,NA
+2014,barr,jcunningham,2014-08-05,1510,1520,brw1,g7,none,NA,0,NA
+2014,barr,jcunningham,2014-08-05,1450,1500,brw1,k7,poja,100,1,NA
+2014,barr,jcunningham,2014-08-05,1450,1500,brw1,k7,poja,200,2,NA
+2014,barr,"ssheedy,kgrond",2014-06-05,1055,1105,brw2,c7,poja,70,1,NA
+2014,barr,"ssheedy,kgrond",2014-06-05,1055,1105,brw2,c7,poja,300,1,NA
+2014,barr,"ssheedy,kgrond",2014-06-05,1005,1015,brw2,g7,poja,200,5,NA
+2014,barr,"ssheedy,kgrond",2014-06-05,1005,1015,brw2,g7,poja,150,1,NA
+2014,barr,"ssheedy,kgrond",2014-06-05,1005,1015,brw2,g7,poja,500,1,NA
+2014,barr,"ssheedy,kgrond",2014-06-05,1005,1015,brw2,g7,paja,300,2,NA
+2014,barr,"ssheedy,kgrond",2014-06-05,1115,1125,brw2,k7,poja,150,1,NA
+2014,barr,"ssheedy,kgrond",2014-06-05,1115,1125,brw2,k7,paja,4,1,NA
+2014,barr,"ssheedy,kgrond",2014-06-05,1115,1125,brw2,k7,poja,100,1,NA
+2014,barr,jmarin,2014-06-11,1204,1255,brw2,c7,poja,100,5,> 10 minutes
+2014,barr,jmarin,2014-06-11,1204,1255,brw2,c7,glgu,50,3,> 10 minutes
+2014,barr,jmarin,2014-06-11,1103,1158,brw2,g7,poja,200,2,> 10 minutes
+2014,barr,jmarin,2014-06-11,1103,1158,brw2,g7,rutu,220,2,> 10 minutes
+2014,barr,jmarin,2014-06-11,1103,1158,brw2,g7,glgu,150,2,> 10 minutes
+2014,barr,jmarin,2014-06-11,945,1046,brw2,k7,glgu,100,NA,> 10 minutes
+2014,barr,jmarin,2014-06-11,945,1046,brw2,k7,snow,50,NA,> 10 minutes
+2014,barr,jmarin,2014-06-11,945,1046,brw2,k7,poja,200,NA,> 10 minutes
+2014,barr,jmarin,2014-06-18,1400,1500,brw2,c7,cora,50,1,> 10 minutes; cold and foggy
+2014,barr,jmarin,2014-06-18,1400,1500,brw2,c7,glgu,200,2,> 10 minutes; cold and foggy
+2014,barr,jmarin,2014-06-18,1200,1310,brw2,g7,glgu,50,2,> 10 minutes; cold and foggy
+2014,barr,jmarin,2014-06-18,1200,1310,brw2,g7,poja,100,2,> 10 minutes; cold and foggy
+2014,barr,jmarin,2014-06-18,1315,1400,brw2,k7,poja,10,5,> 10 minutes
+2014,barr,jmarin,2014-06-18,1315,1400,brw2,k7,glgu,10,1,> 10 minutes
+2014,barr,jmarin,2014-06-18,1315,1400,brw2,k7,paja,20,1,> 10 minutes; eating egg
+2014,barr,jmarin,2014-06-18,1315,1400,brw2,k7,snow,500,2,> 10 minutes
+2014,barr,jmarin,2014-06-25,1305,1345,brw2,c7,paja,40,1,> 10 minutes
+2014,barr,jmarin,2014-06-25,1305,1345,brw2,c7,snow,300,2,> 10 minutes
+2014,barr,jmarin,2014-06-25,1400,1444,brw2,g7,cora,200,2,> 10 minutes
+2014,barr,jmarin,2014-06-25,1400,1444,brw2,g7,snow,150,2,> 10 minutes
+2014,barr,jmarin,2014-06-25,1400,1444,brw2,g7,paja,30,1,> 10 minutes
+2014,barr,jmarin,2014-06-25,1400,1444,brw2,g7,cora,100,2,> 10 minutes
+2014,barr,jmarin,2014-06-25,1400,1444,brw2,g7,poja,30,3,> 10 minutes
+2014,barr,jmarin,2014-06-25,1400,1444,brw2,g7,rutu,20,1,> 10 minutes
+2014,barr,jmarin,2014-06-25,1500,1550,brw2,k7,paja,20,1,> 10 minutes
+2014,barr,jmarin,2014-06-25,1500,1550,brw2,k7,snow,100,2,> 10 minutes
+2014,barr,jmarin,2014-06-25,1500,1550,brw2,k7,glgu,50,1,> 10 minutes
+2014,barr,jmarin,2014-06-25,1500,1550,brw2,k7,cora,400,2,> 10 minutes
+2014,barr,ssheedy,2014-07-01,1147,1157,brw2,c7,poja,75,2,NA
+2014,barr,ssheedy,2014-07-01,1147,1157,brw2,c7,snow,300,1,"N of plot, not sure if one of nesting pair or not"
+2014,barr,ssheedy,2014-07-01,1025,1035,brw2,g7,none,NA,0,NA
+2014,barr,ssheedy,2014-07-01,901,911,brw2,k7,paja,200,6,NA
+2014,barr,ssheedy,2014-07-01,901,911,brw2,k7,snow,100,1,NA
+2014,barr,jmarin,2014-07-08,1430,1440,brw2,c7,poja,100,1,NA
+2014,barr,jmarin,2014-07-08,1430,1440,brw2,c7,glgu,400,1,NA
+2014,barr,jmarin,2014-07-08,1430,1440,brw2,c7,poja,400,2,NA
+2014,barr,jmarin,2014-07-08,1430,1440,brw2,c7,snow,400,1,NA
+2014,barr,jmarin,2014-07-08,1430,1440,brw2,c7,poja,200,1,NA
+2014,barr,jmarin,2014-07-08,1250,1300,brw2,g7,poja,100,1,NA
+2014,barr,jmarin,2014-07-08,1250,1300,brw2,g7,poja,150,1,NA
+2014,barr,jmarin,2014-07-08,1055,1105,brw2,k7,glgu,30,1,NA
+2014,barr,jmarin,2014-07-08,1055,1105,brw2,k7,poja,200,1,NA
+2014,barr,jmarin,2014-07-08,1055,1105,brw2,k7,poja,20,1,NA
+2014,barr,ssheedy,2014-07-15,1145,1155,brw2,c7,none,NA,0,NA
+2014,barr,ssheedy,2014-07-15,1017,1027,brw2,g7,poja,50,1,NA
+2014,barr,ssheedy,2014-07-15,922,932,brw2,k7,glgu,75,1,NA
+2014,barr,asterling,2014-07-22,1235,1245,brw2,c7,poja,50,1,NA
+2014,barr,asterling,2014-07-22,1235,1245,brw2,c7,poja,200,1,NA
+2014,barr,asterling,2014-07-22,1235,1245,brw2,c7,glgu,150,1,NA
+2014,barr,asterling,2014-07-22,1315,1325,brw2,g7,snow,100,1,female
+2014,barr,asterling,2014-07-22,1410,1420,brw2,k7,snow,50,1,female
+2014,barr,asterling,2014-07-22,1410,1420,brw2,k7,poja,200,1,NA
+2014,barr,jmarin,2014-07-29,1230,1240,brw2,c7,snow,100,2,NA
+2014,barr,jmarin,2014-07-29,1230,1240,brw2,c7,poja,500,1,NA
+2014,barr,jmarin,2014-07-29,1230,1240,brw2,c7,poja,100,1,NA
+2014,barr,jmarin,2014-07-29,1340,1350,brw2,g7,snow,100,1,NA
+2014,barr,jmarin,2014-07-29,1340,1350,brw2,g7,poja,50,2,NA
+2014,barr,jmarin,2014-07-29,1340,1350,brw2,g7,poja,600,2,NA
+2014,barr,jmarin,2014-07-29,1420,1430,brw2,k7,snow,600,1,NA
+2014,barr,jmarin,2014-07-29,1420,1430,brw2,k7,poja,500,1,NA
+2014,barr,jcunningham,2014-08-05,1540,1550,brw2,c7,poja,100,1,NA
+2014,barr,jcunningham,2014-08-05,1540,1550,brw2,c7,poja,150,1,NA
+2014,barr,jcunningham,2014-08-05,1540,1550,brw2,c7,snow,300,2,NA
+2014,barr,jcunningham,2014-08-05,1540,1550,brw2,c7,glgu,150,1,NA
+2014,barr,jcunningham,2014-08-05,1600,1610,brw2,g7,snow,200,1,same snow seen earlier
+2014,barr,jcunningham,2014-08-05,1600,1610,brw2,g7,snow,100,1,same snow seen earlier
+2014,barr,jcunningham,2014-08-05,1600,1610,brw2,g7,poja,300,2,NA
+2014,barr,jcunningham,2014-08-05,1625,1635,brw2,k7,paja,200,1,NA
+2014,barr,jcunningham,2014-08-05,1625,1635,brw2,k7,poja,100,1,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1350,1400,brw3,c7,poja,100,1,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1350,1400,brw3,c7,poja,300,1,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1405,1415,brw3,g7,poja,300,3,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1405,1415,brw3,g7,poja,400,1,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1405,1415,brw3,g7,poja,250,1,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1405,1415,brw3,g7,poja,50,1,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1235,1245,brw3,k7,poja,150,1,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1235,1245,brw3,k7,poja,200,1,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1235,1245,brw3,k7,poja,50,1,NA
+2014,barr,asterling,2014-06-11,1310,NA,brw3,c7,poja,200,1,NA
+2014,barr,asterling,2014-06-11,1310,NA,brw3,c7,glgu,25,2,NA
+2014,barr,asterling,2014-06-11,1310,NA,brw3,c7,glgu,10,1,NA
+2014,barr,asterling,2014-06-11,1310,NA,brw3,c7,glgu,70,1,NA
+2014,barr,asterling,2014-06-11,1153,1203,brw3,g7,poja,200,1,NA
+2014,barr,asterling,2014-06-11,1045,1055,brw3,k7,poja,100,1,NA
+2014,barr,asterling,2014-06-11,1045,1055,brw3,k7,poja,70,1,NA
+2014,barr,asterling,2014-06-18,1049,NA,brw3,c7,paja,25,1,think fog at 200m
+2014,barr,asterling,2014-06-18,949,959,brw3,g7,snow,200,2,think fog at 200m
+2014,barr,asterling,2014-06-18,949,959,brw3,g7,poja,150,1,think fog at 200m
+2014,barr,asterling,2014-06-18,949,959,brw3,g7,poja,25,1,think fog at 200m
+2014,barr,asterling,2014-06-18,1218,1228,brw3,k7,snow,200,1,"think fog at 200m, male"
+2014,barr,asterling,2014-06-18,1218,1228,brw3,k7,poja,150,1,think fog at 200m
+2014,barr,asterling,2014-06-18,1218,1228,brw3,k7,poja,175,1,think fog at 200m
+2014,barr,asterling,2014-06-18,1218,1228,brw3,k7,snow,200,1,"think fog at 200m, female"
+2014,barr,asterling,2014-06-25,1007,1017,brw3,c7,none,NA,0,NA
+2014,barr,asterling,2014-06-25,1144,NA,brw3,g7,poja,25,1,NA
+2014,barr,asterling,2014-06-25,1144,NA,brw3,g7,poja,150,1,NA
+2014,barr,asterling,2014-06-25,1245,1255,brw3,k7,poja,100,1,NA
+2014,barr,asterling,2014-06-25,1245,1255,brw3,k7,poja,25,1,NA
+2014,barr,jmarin,2014-07-01,1439,1449,brw3,c7,glgu,1000,1,NA
+2014,barr,jmarin,2014-07-01,1554,1604,brw3,g7,poja,250,3,NA
+2014,barr,jmarin,2014-07-01,1554,1604,brw3,g7,poja,500,2,NA
+2014,barr,jmarin,2014-07-01,1500,1510,brw3,k7,poja,100,1,NA
+2014,barr,ssheedy,2014-07-08,1716,1726,brw3,c7,poja,25,1,little foggy
+2014,barr,ssheedy,2014-07-08,1607,1617,brw3,g7,poja,25,1,NA
+2014,barr,ssheedy,2014-07-08,1607,1617,brw3,g7,poja,50,1,NA
+2014,barr,ssheedy,2014-07-08,1607,1617,brw3,g7,poja,200,1,NA
+2014,barr,ssheedy,2014-07-08,1515,1525,brw3,k7,none,NA,0,"little foggy, visibility ~400m"
+2014,barr,jmarin,2014-07-15,1420,1430,brw3,c7,poja,10,1,NA
+2014,barr,jmarin,2014-07-15,1340,1350,brw3,g7,none,NA,0,NA
+2014,barr,jmarin,2014-07-15,1520,1530,brw3,k7,poja,50,1,NA
+2014,barr,jmarin,2014-07-15,1520,1530,brw3,k7,poja,30,1,digging
+2014,barr,"ssheedy,mballvanzee",2014-07-22,1236,1246,brw3,c7,ltja,50,1,NA
+2014,barr,"ssheedy,mballvanzee",2014-07-22,1236,1246,brw3,c7,paja,300,1,NA
+2014,barr,"ssheedy,mballvanzee",2014-07-22,1236,1246,brw3,c7,glgu,300,1,NA
+2014,barr,"ssheedy,mballvanzee",2014-07-22,1040,1050,brw3,g7,paja,250,1,NA
+2014,barr,"ssheedy,mballvanzee",2014-07-22,1040,1050,brw3,g7,poja,100,1,NA
+2014,barr,"ssheedy,mballvanzee",2014-07-22,1040,1050,brw3,g7,paja,300,1,NA
+2014,barr,"ssheedy,mballvanzee",2014-07-22,1040,1050,brw3,g7,glgu,150,1,NA
+2014,barr,"ssheedy,mballvanzee",2014-07-22,1040,1050,brw3,g7,poja,100,1,NA
+2014,barr,"ssheedy,mballvanzee",2014-07-22,952,1002,brw3,k7,poja,150,3,NA
+2014,barr,"ssheedy,mballvanzee",2014-07-22,952,1002,brw3,k7,poja,200,1,NA
+2014,barr,"ssheedy,mballvanzee",2014-07-22,952,1002,brw3,k7,poja,175,5,fighting
+2014,barr,"ssheedy,mballvanzee",2014-07-22,952,1002,brw3,k7,poja,10,1,NA
+2014,barr,"ssheedy,mballvanzee",2014-07-22,952,1002,brw3,k7,poja,400,1,NA
+2014,barr,"ssheedy,mballvanzee",2014-07-22,952,1002,brw3,k7,glgu,400,2,going towards dump
+2014,barr,ssheedy,2014-07-29,1055,1105,brw3,c7,glgu,200,1,NA
+2014,barr,ssheedy,2014-07-29,1055,1105,brw3,c7,paja,300,1,NA
+2014,barr,ssheedy,2014-07-29,1055,1105,brw3,c7,poja,150,1,NA
+2014,barr,ssheedy,2014-07-29,1055,1105,brw3,c7,poja,200,1,NA
+2014,barr,ssheedy,2014-07-29,1055,1105,brw3,c7,poja,100,2,NA
+2014,barr,ssheedy,2014-07-29,1141,1151,brw3,g7,poja,200,1,NA
+2014,barr,ssheedy,2014-07-29,1141,1151,brw3,g7,poja,150,1,NA
+2014,barr,ssheedy,2014-07-29,1141,1151,brw3,g7,paja,150,1,NA
+2014,barr,ssheedy,2014-07-29,1141,1151,brw3,g7,poja,250,1,NA
+2014,barr,ssheedy,2014-07-29,1005,1015,brw3,k7,none,NA,0,NA
+2014,barr,mballvanzee,2014-08-05,1210,1220,brw3,c7,poja,100,1,NA
+2014,barr,mballvanzee,2014-08-05,1210,1220,brw3,c7,poja,200,2,NA
+2014,barr,mballvanzee,2014-08-05,1210,1220,brw3,c7,snow,500,1,NA
+2014,barr,mballvanzee,2014-08-05,1210,1220,brw3,c7,poja,20,2,NA
+2014,barr,mballvanzee,2014-08-05,1210,1220,brw3,c7,paja,10,1,NA
+2014,barr,mballvanzee,2014-08-05,1250,1300,brw3,g7,snow,30,1,NA
+2014,barr,mballvanzee,2014-08-05,1250,1300,brw3,g7,poja,50,3,NA
+2014,barr,mballvanzee,2014-08-05,1250,1300,brw3,g7,paja,150,1,NA
+2014,barr,mballvanzee,2014-08-05,1250,1300,brw3,g7,poja,400,2,NA
+2014,barr,mballvanzee,2014-08-05,1250,1300,brw3,g7,poja,200,1,NA
+2014,barr,mballvanzee,2014-08-05,1130,1140,brw3,k7,poja,300,1,NA
+2014,barr,mballvanzee,2014-08-05,1130,1140,brw3,k7,poja,200,1,NA
+2014,barr,mballvanzee,2014-08-05,1130,1140,brw3,k7,poja,50,1,NA
+2014,barr,mballvanzee,2014-08-05,1130,1140,brw3,k7,poja,300,1,NA
+2014,barr,mballvanzee,2014-08-05,1130,1140,brw3,k7,paja,100,1,NA
+2014,barr,mballvanzee,2014-08-05,1130,1140,brw3,k7,paja,400,1,NA
+2014,barr,mballvanzee,2014-08-05,1130,1140,brw3,k7,poja,20,1,NA
+2014,barr,mballvanzee,2014-08-05,1130,1140,brw3,k7,poja,50,2,NA
+2014,barr,mballvanzee,2014-08-05,1130,1140,brw3,k7,poja,250,1,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1210,1220,brw5,c7,poja,200,1,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1210,1220,brw5,c7,poja,300,1,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1210,1220,brw5,c7,snow,250,1,same owl seen from k7
+2014,barr,"jcunningham,jmarin",2014-06-05,1150,1200,brw5,g7,paja,100,2,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1150,1200,brw5,g7,poja,200,1,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1150,1200,brw5,g7,poja,250,1,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1150,1200,brw5,g7,poja,400,1,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1055,1107,brw5,k7,snow,300,1,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1055,1107,brw5,k7,poja,350,1,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1055,1107,brw5,k7,glgu,400,4,NA
+2014,barr,"jcunningham,jmarin",2014-06-05,1055,1107,brw5,k7,poja,200,1,NA
+2014,barr,asterling,2014-06-11,1706,1716,brw5,c7,poja,125,2,NA
+2014,barr,asterling,2014-06-11,1435,NA,brw5,g7,poja,175,1,NA
+2014,barr,asterling,2014-06-11,1601,1611,brw5,k7,paja,50,1,NA
+2014,barr,asterling,2014-06-11,1601,1611,brw5,k7,glgu,25,1,NA
+2014,barr,asterling,2014-06-18,1406,1416,brw5,c7,poja,1325,1,"foogy, ~100m visibility"
+2014,barr,asterling,2014-06-18,1543,1553,brw5,g7,none,NA,0,"foggy, ~150m visibility"
+2014,barr,asterling,2014-06-18,1704,1714,brw5,k7,poja,200,1,"fog is dense, ~100m visibility"
+2014,barr,asterling,2014-06-25,1322,1332,brw5,c7,poja,175,1,NA
+2014,barr,asterling,2014-06-25,1442,NA,brw5,g7,none,NA,0,NA
+2014,barr,asterling,2014-06-25,1629,1639,brw5,k7,poja,200,1,NA
+2014,barr,asterling,2014-06-25,1629,1639,brw5,k7,poja,50,1,NA
+2014,barr,jmarin,2014-07-01,1140,1150,brw5,c7,glgu,200,1,NA
+2014,barr,jmarin,2014-07-01,1030,1040,brw5,g7,none,NA,0,NA
+2014,barr,jmarin,2014-07-01,932,942,brw5,k7,snow,100,1,NA
+2014,barr,ssheedy,2014-07-08,1403,1413,brw5,c7,none,NA,0,"foggy, ~200m visibility"
+2014,barr,ssheedy,2014-07-08,1210,1220,brw5,g7,poja,300,1,NA
+2014,barr,ssheedy,2014-07-08,1210,1220,brw5,g7,poja,150,1,NA
+2014,barr,ssheedy,2014-07-08,1047,1057,brw5,k7,none,NA,0,"slightly foggy, ~300m visibility"
+2014,barr,jmarin,2014-07-15,1255,1305,brw5,c7,none,NA,0,NA
+2014,barr,jmarin,2014-07-15,1145,1155,brw5,g7,none,NA,0,NA
+2014,barr,jmarin,2014-07-15,1040,1050,brw5,k7,paja,400,1,NA
+2014,barr,jmarin,2014-07-22,1435,1445,brw5,c7,glgu,20,2,NA
+2014,barr,jmarin,2014-07-22,1435,1445,brw5,c7,snow,200,1,NA
+2014,barr,jmarin,2014-07-22,1435,1445,brw5,c7,poja,20,2,NA
+2014,barr,jmarin,2014-07-22,1435,1445,brw5,c7,snow,600,1,NA
+2014,barr,jmarin,2014-07-22,1348,1358,brw5,g7,glgu,50,1,NA
+2014,barr,jmarin,2014-07-22,1348,1358,brw5,g7,snow,200,1,NA
+2014,barr,jmarin,2014-07-22,1348,1358,brw5,g7,glgu,200,1,NA
+2014,barr,jmarin,2014-07-22,1348,1358,brw5,g7,glgu,50,1,NA
+2014,barr,jmarin,2014-07-22,1348,1358,brw5,g7,glgu,100,1,NA
+2014,barr,jmarin,2014-07-22,1348,1358,brw5,g7,snow,400,1,NA
+2014,barr,jmarin,2014-07-22,1348,1358,brw5,g7,glgu,250,1,NA
+2014,barr,jmarin,2014-07-22,1255,1305,brw5,k7,paja,100,2,NA
+2014,barr,jmarin,2014-07-22,1255,1305,brw5,k7,snow,100,1,NA
+2014,barr,jmarin,2014-07-22,1255,1305,brw5,k7,poja,100,2,NA
+2014,barr,jmarin,2014-07-22,1255,1305,brw5,k7,snow,300,1,NA
+2014,barr,jmarin,2014-07-22,1255,1305,brw5,k7,paja,300,1,NA
+2014,barr,jmarin,2014-07-22,1255,1305,brw5,k7,snow,500,2,NA
+2014,barr,ssheedy,2014-07-29,1230,1240,brw5,c7,snow,200,1,NA
+2014,barr,ssheedy,2014-07-29,1230,1240,brw5,c7,poja,150,1,NA
+2014,barr,ssheedy,2014-07-29,1230,1240,brw5,c7,glgu,100,1,NA
+2014,barr,ssheedy,2014-07-29,1310,1320,brw5,g7,glgu,200,1,NA
+2014,barr,ssheedy,2014-07-29,1310,1320,brw5,g7,poja,100,1,NA
+2014,barr,ssheedy,2014-07-29,1350,1400,brw5,k7,glgu,250,1,NA
+2014,barr,ssheedy,2014-08-05,1230,1240,brw5,c7,snow,200,1,2 adult snow with 3 fledgers
+2014,barr,ssheedy,2014-08-05,1230,1240,brw5,c7,snow,250,1,NA
+2014,barr,ssheedy,2014-08-05,1230,1240,brw5,c7,glgu,200,1,NA
+2014,barr,ssheedy,2014-08-05,1230,1240,brw5,c7,glgu,100,4,NA
+2014,barr,ssheedy,2014-08-05,1155,1205,brw5,g7,poja,300,1,NA
+2014,barr,ssheedy,2014-08-05,1155,1205,brw5,g7,snow,250,2,NA
+2014,barr,ssheedy,2014-08-05,1155,1205,brw5,g7,poja,150,1,NA
+2014,barr,ssheedy,2014-08-05,1124,1134,brw5,k7,poja,150,1,NA
+2014,barr,ssheedy,2014-08-05,1124,1134,brw5,k7,poja,100,1,NA
+2014,barr,ssheedy,2014-08-05,1124,1134,brw5,k7,poja,25,2,NA
+2014,barr,ssheedy,2014-08-05,1124,1134,brw5,k7,snow,300,1,NA
+2014,barr,ssheedy,2014-08-05,1124,1134,brw5,k7,poja,300,1,NA
+2014,barr,"asterling,wenglish",2014-06-05,1100,1110,brw8,c7,poja,150,3,NA
+2014,barr,"asterling,wenglish",2014-06-05,1100,1110,brw8,c7,glgu,100,1,NA
+2014,barr,"asterling,wenglish",2014-06-05,1100,1110,brw8,c7,glgu,50,1,NA
+2014,barr,"asterling,wenglish",2014-06-05,1100,1110,brw8,c7,poja,100,1,NA
+2014,barr,"asterling,wenglish",2014-06-05,1144,1154,brw8,g7,poja,200,1,NA
+2014,barr,"asterling,wenglish",2014-06-05,1201,1211,brw8,k7,poja,200,1,NA
+2014,barr,"asterling,wenglish",2014-06-05,1201,1211,brw8,k7,glgu,15,1,NA
+2014,barr,"asterling,wenglish",2014-06-05,1201,1211,brw8,k7,poja,200,1,NA
+2014,barr,ssheedy,2014-06-11,1538,NA,brw8,c7,glgu,50,2,NA
+2014,barr,ssheedy,2014-06-11,1538,NA,brw8,c7,glgu,75,1,NA
+2014,barr,ssheedy,2014-06-11,1716,1726,brw8,g7,poja,250,1,NA
+2014,barr,ssheedy,2014-06-11,1716,1726,brw8,g7,glgu,50,1,NA
+2014,barr,ssheedy,2014-06-11,1716,1726,brw8,g7,glgu,100,1,NA
+2014,barr,ssheedy,2014-06-11,1716,1726,brw8,g7,glgu,250,1,NA
+2014,barr,ssheedy,2014-06-11,1815,1825,brw8,k7,glgu,300,1,NA
+2014,barr,ssheedy,2014-06-18,1436,1446,brw8,c7,poja,200,1,foggy
+2014,barr,ssheedy,2014-06-18,1623,1633,brw8,g7,glgu,100,1,foggy
+2014,barr,ssheedy,2014-06-18,1623,1633,brw8,g7,glgu,150,1,foggy
+2014,barr,ssheedy,2014-06-18,1523,1533,brw8,k7,paja,50,2,foggy
+2014,barr,ssheedy,2014-06-18,1523,1533,brw8,k7,glgu,50,4,foggy
+2014,barr,ssheedy,2014-06-18,1523,1533,brw8,k7,glgu,150,1,foggy
+2014,barr,ssheedy,2014-06-25,1523,1533,brw8,c7,poja,100,1,NA
+2014,barr,ssheedy,2014-06-25,1523,1533,brw8,c7,glgu,300,1,NA
+2014,barr,ssheedy,2014-06-25,1523,1533,brw8,c7,paja,200,1,NA
+2014,barr,ssheedy,2014-06-25,1614,1624,brw8,g7,paja,200,1,NA
+2014,barr,ssheedy,2014-06-25,1614,1624,brw8,g7,glgu,250,1,NA
+2014,barr,ssheedy,2014-06-25,1614,1624,brw8,g7,glgu,300,1,NA
+2014,barr,ssheedy,2014-06-25,1614,1624,brw8,g7,glgu,50,1,NA
+2014,barr,ssheedy,2014-06-25,1706,1716,brw8,k7,paja,50,2,nesting pair
+2014,barr,ssheedy,2014-06-25,1706,1716,brw8,k7,glgu,75,1,NA
+2014,barr,ssheedy,2014-06-25,1706,1716,brw8,k7,glgu,250,2,NA
+2014,barr,ssheedy,2014-06-25,1706,1716,brw8,k7,glgu,150,1,NA
+2014,barr,asterling,2014-07-01,1127,1137,brw8,c7,poja,200,1,NA
+2014,barr,asterling,2014-07-01,1300,1310,brw8,g7,poja,200,1,NA
+2014,barr,asterling,2014-07-01,1007,1017,brw8,k7,paja,0,2,2 egg nest
+2014,barr,asterling,2014-07-01,1007,1017,brw8,k7,glgu,200,1,NA
+2014,barr,asterling,2014-07-01,1007,1017,brw8,k7,poja,200,1,NA
+2014,barr,asterling,2014-07-08,1417,1427,brw8,c7,none,NA,0,NA
+2014,barr,asterling,2014-07-08,1523,1533,brw8,g7,paja,200,1,NA
+2014,barr,asterling,2014-07-08,1523,1533,brw8,g7,paja,50,1,NA
+2014,barr,asterling,2014-07-08,1523,1533,brw8,g7,paja,50,1,NA
+2014,barr,asterling,2014-07-08,1230,1240,brw8,k7,paja,0,2,NA
+2014,barr,wenglish,2014-07-15,1027,1037,brw8,c7,poja,50,1,NA
+2014,barr,wenglish,2014-07-15,1235,1245,brw8,g7,none,NA,0,NA
+2014,barr,wenglish,2014-07-15,1354,1404,brw8,k7,paja,0,2,near paja nest
+2014,barr,jmarin,2014-07-22,1150,1200,brw8,c7,glgu,100,1,NA
+2014,barr,jmarin,2014-07-22,1150,1200,brw8,c7,paja,300,2,NA
+2014,barr,jmarin,2014-07-22,1150,1200,brw8,c7,glgu,600,1,NA
+2014,barr,jmarin,2014-07-22,1150,1200,brw8,c7,poja,600,1,NA
+2014,barr,jmarin,2014-07-22,1150,1200,brw8,c7,glgu,10,2,NA
+2014,barr,jmarin,2014-07-22,1100,1110,brw8,g7,glgu,200,3,NA
+2014,barr,jmarin,2014-07-22,1100,1110,brw8,g7,poja,700,2,NA
+2014,barr,jmarin,2014-07-22,1100,1110,brw8,g7,poja,400,3,NA
+2014,barr,jmarin,2014-07-22,1100,1110,brw8,g7,paja,20,2,NA
+2014,barr,jmarin,2014-07-22,1100,1110,brw8,g7,poja,20,2,NA
+2014,barr,jmarin,2014-07-22,1026,1036,brw8,k7,paja,5,2,attacking observer
+2014,barr,jmarin,2014-07-22,1026,1036,brw8,k7,paja,50,2,NA
+2014,barr,jmarin,2014-07-22,1026,1036,brw8,k7,poja,30,1,NA
+2014,barr,jmarin,2014-07-22,1026,1036,brw8,k7,glgu,800,10,NA
+2014,barr,jmarin,2014-07-22,1026,1036,brw8,k7,poja,50,1,NA
+2014,barr,jmarin,2014-07-22,1026,1036,brw8,k7,poja,700,2,NA
+2014,barr,mballvanzee,2014-07-29,1128,1138,brw8,c7,glgu,50,1,NA
+2014,barr,mballvanzee,2014-07-29,1248,1258,brw8,g7,glgu,300,1,NA
+2014,barr,mballvanzee,2014-07-29,1248,1258,brw8,g7,glgu,200,2,NA
+2014,barr,mballvanzee,2014-07-29,1248,1258,brw8,g7,glgu,150,1,NA
+2014,barr,mballvanzee,2014-07-29,1208,1218,brw8,k7,paja,5,3,attacking observer
+2014,barr,mballvanzee,2014-07-29,1208,1218,brw8,k7,glgu,20,1,NA
+2014,barr,mballvanzee,2014-07-29,1208,1218,brw8,k7,glgu,100,1,NA
+2014,barr,mballvanzee,2014-07-29,1208,1218,brw8,k7,glgu,50,1,NA
+2014,barr,wenglish,2014-08-05,1200,1210,brw8,c7,none,NA,0,NA
+2014,barr,wenglish,2014-08-05,1309,1319,brw8,g7,paja,100,1,NA
+2014,barr,wenglish,2014-08-05,1309,1319,brw8,g7,glgu,200,1,NA
+2014,barr,wenglish,2014-08-05,1238,1248,brw8,k7,poja,50,1,NA
+2015,barr,blagasse,2015-06-04,1727,1737,brw0,c7,poja,175,1,NA
+2015,barr,blagasse,2015-06-04,1615,1625,brw0,g7,glgu,100,1,NA
+2015,barr,blagasse,2015-06-04,1615,1625,brw0,g7,poja,220,1,NA
+2015,barr,blagasse,2015-06-04,1529,1539,brw0,k7,glgu,250,1,NA
+2015,barr,blagasse,2015-06-04,1529,1539,brw0,k7,paja,250,1,NA
+2015,barr,blagasse,2015-06-04,1529,1539,brw0,k7,poja,200,1,NA
+2015,barr,blagasse,2015-06-04,1529,1539,brw0,k7,poja,175,1,NA
+2015,barr,mliljesthrom,2015-06-10,1045,1055,brw0,c7,glgu,50,1,flying
+2015,barr,mliljesthrom,2015-06-10,1045,1055,brw0,c7,poja,150,1,sitting
+2015,barr,mliljesthrom,2015-06-10,923,933,brw0,g7,none,NA,0,NA
+2015,barr,mliljesthrom,2015-06-10,814,824,brw0,k7,glgu,50,1,flying
+2015,barr,mliljesthrom,2015-06-10,814,824,brw0,k7,poja,50,1,flying
+2015,barr,mliljesthrom,2015-06-17,1035,1045,brw0,c7,glgu,300,1,flying
+2015,barr,mliljesthrom,2015-06-17,943,953,brw0,g7,none,NA,0,NA
+2015,barr,mliljesthrom,2015-06-17,813,823,brw0,k7,none,NA,0,NA
+2015,barr,mliljesthrom,2015-06-24,848,858,brw0,c7,poja,100,1,flying
+2015,barr,mliljesthrom,2015-06-24,848,858,brw0,c7,poja,150,1,flying
+2015,barr,mliljesthrom,2015-06-24,738,748,brw0,g7,poja,300,1,flying
+2015,barr,mliljesthrom,2015-06-24,738,748,brw0,g7,poja,200,1,flying
+2015,barr,mliljesthrom,2015-06-24,1028,1038,brw0,k7,ltja,100,2,flying
+2015,barr,mliljesthrom,2015-06-24,1028,1038,brw0,k7,poja,200,2,flying
+2015,barr,mliljesthrom,2015-06-24,1028,1038,brw0,k7,poja,200,1,sitting
+2015,barr,blagasse,2015-07-02,925,935,brw0,c7,paja,250,3,NA
+2015,barr,blagasse,2015-07-02,1022,1032,brw0,g7,glgu,300,2,NA
+2015,barr,blagasse,2015-07-02,1022,1032,brw0,g7,paja,300,1,NA
+2015,barr,blagasse,2015-07-02,1022,1032,brw0,g7,glgu,275,1,NA
+2015,barr,blagasse,2015-07-02,1214,1224,brw0,k7,glgu,250,1,NA
+2015,barr,blagasse,2015-07-02,1214,1224,brw0,k7,paja,200,2,NA
+2015,barr,blagasse,2015-07-02,1214,1224,brw0,k7,glgu,150,1,NA
+2015,barr,blagasse,2015-07-02,1214,1224,brw0,k7,paja,250,1,NA
+2015,barr,blagasse,2015-07-09,1120,1130,brw0,c7,glgu,50,1,NA
+2015,barr,blagasse,2015-07-09,1233,1243,brw0,g7,paja,100,2,NA
+2015,barr,blagasse,2015-07-09,1328,1338,brw0,k7,glgu,75,1,NA
+2015,barr,blagasse,2015-07-16,1145,1155,brw0,c7,poja,300,1,hunting chicks
+2015,barr,blagasse,2015-07-16,1145,1155,brw0,c7,paja,300,1,one of 3 individuals on plot hunting
+2015,barr,blagasse,2015-07-16,1145,1155,brw0,c7,paja,100,1,one of 3 individuals on plot hunting
+2015,barr,blagasse,2015-07-16,1057,1107,brw0,g7,paja,150,1,"same bird as below, hunting chicks"
+2015,barr,blagasse,2015-07-16,1027,1037,brw0,k7,paja,300,1,hunting chicks
+2015,barr,blagasse,2015-07-16,1027,1037,brw0,k7,paja,50,2,hunting chicks
+2015,barr,blagasse,2015-07-23,1010,1020,brw0,c7,paja,150,1,actively hunting
+2015,barr,blagasse,2015-07-23,1010,1020,brw0,c7,paja,250,1,actively hunting
+2015,barr,blagasse,2015-07-23,1010,1020,brw0,c7,glgu,300,1,NA
+2015,barr,blagasse,2015-07-23,1047,1057,brw0,g7,poja,50,1,hunting
+2015,barr,blagasse,2015-07-23,1114,1124,brw0,k7,poja,200,1,hunting
+2015,barr,pherzog,2015-07-30,1756,1806,brw0,c7,paja,200,2,NA
+2015,barr,pherzog,2015-07-30,1822,1832,brw0,g7,glgu,300,1,passing by
+2015,barr,pherzog,2015-07-30,1713,1723,brw0,k7,paja,50,1,hunting
+2015,barr,pherzog,2015-07-30,1713,1723,brw0,k7,glgu,300,1,NA
+2015,barr,mliljesthrom,2015-06-04,1306,1316,brw1,c7,snow,300,1,"from nest in plot 2, sitting"
+2015,barr,mliljesthrom,2015-06-04,1306,1316,brw1,c7,glgu,25,1,circling above me
+2015,barr,mliljesthrom,2015-06-04,1527,1537,brw1,g7,glgu,50,1,flying
+2015,barr,mliljesthrom,2015-06-04,1527,1537,brw1,g7,poja,150,2,sitting
+2015,barr,mliljesthrom,2015-06-04,1401,1411,brw1,k7,poja,150,1,flying
+2015,barr,vpacheco,2015-06-10,1025,1036,brw1,c7,glgu,50,1,flying (very foggy just see to 250m)
+2015,barr,vpacheco,2015-06-10,1139,1149,brw1,g7,none,NA,0,NA
+2015,barr,vpacheco,2015-06-10,921,931,brw1,k7,glgu,50,1,flying (very foggy just see to 200m)
+2015,barr,vpacheco,2015-06-10,921,931,brw1,k7,poja,100,1,flying (very foggy just see to 200m)
+2015,barr,vpacheco,2015-06-17,1130,1140,brw1,c7,poja,200,1,flying
+2015,barr,vpacheco,2015-06-17,1130,1140,brw1,c7,glgu,300,1,flying
+2015,barr,vpacheco,2015-06-17,1048,1058,brw1,g7,ltja,300,1,flying
+2015,barr,vpacheco,2015-06-17,950,1000,brw1,k7,none,NA,0,NA
+2015,barr,vpacheco,2015-06-24,1000,1010,brw1,c7,glgu,200,1,flying
+2015,barr,vpacheco,2015-06-24,1000,1010,brw1,c7,poja,250,1,stand in a hill / stay all time
+2015,barr,vpacheco,2015-06-24,1000,1010,brw1,c7,glgu,300,1,flying
+2015,barr,vpacheco,2015-06-24,1000,1010,brw1,c7,paja,300,1,flying (hunting?)
+2015,barr,vpacheco,2015-06-24,852,903,brw1,g7,ltja,100,1,flying
+2015,barr,vpacheco,2015-06-24,1055,1105,brw1,k7,none,NA,0,NA
+2015,barr,dcecile,2015-07-02,1445,1455,brw1,c7,glgu,50,1,gliding n over plot
+2015,barr,dcecile,2015-07-02,1445,1455,brw1,c7,poja,100,1,low glide s over plot back and forth
+2015,barr,dcecile,2015-07-02,1515,1525,brw1,g7,poja,150,1,flew s over plot
+2015,barr,dcecile,2015-07-02,1545,1555,brw1,k7,none,NA,0,NA
+2015,barr,dcecile,2015-07-09,1318,1328,brw1,c7,poja,50,1,flew n - s over plot
+2015,barr,dcecile,2015-07-09,1410,1420,brw1,g7,none,NA,0,NA
+2015,barr,dcecile,2015-07-09,1615,1625,brw1,k7,none,NA,0,NA
+2015,barr,dcecile,2015-07-16,1302,1312,brw1,c7,none,NA,0,NA
+2015,barr,dcecile,2015-07-16,1218,1228,brw1,g7,none,NA,0,NA
+2015,barr,dcecile,2015-07-16,1132,1142,brw1,k7,none,NA,0,NA
+2015,barr,choulle,2015-07-23,1413,1424,brw1,c7,glgu,100,3,NA
+2015,barr,choulle,2015-07-23,1413,1424,brw1,c7,poja,150,2,NA
+2015,barr,choulle,2015-07-23,1500,1510,brw1,g7,paja,250,1,NA
+2015,barr,choulle,2015-07-23,1500,1510,brw1,g7,snow,300+,1,NA
+2015,barr,choulle,2015-07-23,1533,1543,brw1,k7,none,NA,0,NA
+2015,barr,blagasse,2015-07-30,1417,1427,brw1,c7,none,NA,0,NA
+2015,barr,blagasse,2015-07-30,1348,1358,brw1,g7,poja,300,1,NA
+2015,barr,blagasse,2015-07-30,1316,1326,brw1,k7,none,NA,0,NA
+2015,barr,wenglish/mliljesthrom,2015-06-04,1230,1240,brw2,c7,snow,200,1,from nest on plot 2 - sitting
+2015,barr,wenglish/mliljesthrom,2015-06-04,1230,1240,brw2,c7,poja,250,1,flying
+2015,barr,wenglish/mliljesthrom,2015-06-04,1054,1104,brw2,g7,snow,250,1,"from nest on plot 2, just sitting"
+2015,barr,wenglish/mliljesthrom,2015-06-04,1054,1104,brw2,g7,glgu,200,1,flying
+2015,barr,wenglish/mliljesthrom,2015-06-04,942,952,brw2,k7,none,NA,0,NA
+2015,barr,vpacheco,2015-06-10,1255,1306,brw2,c7,glgu,100,1,flying
+2015,barr,vpacheco,2015-06-10,1255,1306,brw2,c7,snow,300,1,nesting one
+2015,barr,vpacheco,2015-06-10,1419,1429,brw2,g7,none,NA,0,NA
+2015,barr,vpacheco,2015-06-10,1520,1530,brw2,k7,glgu,150,1,flying
+2015,barr,vpacheco,2015-06-10,1520,1530,brw2,k7,glgu,300,1,flying
+2015,barr,vpacheco,2015-06-10,1520,1530,brw2,k7,glgu,200,1,flying
+2015,barr,vpacheco,2015-06-10,1520,1530,brw2,k7,glgu,200,1,flying
+2015,barr,vpacheco,2015-06-10,1520,1530,brw2,k7,glgu,0,2,flying
+2015,barr,vpacheco,2015-06-10,1520,1530,brw2,k7,glgu,0,2,flying
+2015,barr,vpacheco,2015-06-10,1520,1530,brw2,k7,glgu,200,1,flying
+2015,barr,vpacheco,2015-06-10,1520,1530,brw2,k7,glgu,150,1,flying
+2015,barr,vpacheco,2015-06-17,1222,1232,brw2,c7,snow,250,1,nesting
+2015,barr,vpacheco,2015-06-17,1222,1232,brw2,c7,snow,300,1,nesting
+2015,barr,vpacheco,2015-06-17,1338,1348,brw2,g7,snow,250,1,nesting (same one)
+2015,barr,vpacheco,2015-06-17,1338,1348,brw2,g7,glgu,20,1,flying
+2015,barr,vpacheco,2015-06-17,1513,1523,brw2,k7,poja,150,1,flying
+2015,barr,vpacheco,2015-06-17,1513,1523,brw2,k7,poja,70,1,flying around and land at 70m and stay all time
+2015,barr,vpacheco,2015-06-24,1346,1356,brw2,c7,none,NA,0,NA
+2015,barr,vpacheco,2015-06-24,1234,1244,brw2,g7,snow,250,1,"male, stand near the fence (nesting)"
+2015,barr,vpacheco,2015-06-24,1234,1244,brw2,g7,poja,300,1,flying
+2015,barr,vpacheco,2015-06-24,1234,1244,brw2,g7,glgu,300,1,flying
+2015,barr,vpacheco,2015-06-24,1500,1510,brw2,k7,poja,300,1,flying all around
+2015,barr,dcecile,2015-07-02,1345,1355,brw2,c7,snow,200,1,"female, on nest"
+2015,barr,dcecile,2015-07-02,1345,1355,brw2,c7,poja,50,1,flew n across plot
+2015,barr,dcecile,2015-07-02,1315,1325,brw2,g7,snow,250,2,same male and female at nest
+2015,barr,dcecile,2015-07-02,1230,1240,brw2,k7,snow,75,1,male flew across plot
+2015,barr,dcecile,2015-07-02,1230,1240,brw2,k7,poja,75,1,chased snow at #1 line
+2015,barr,dcecile,2015-07-02,1230,1240,brw2,k7,glgu,250,1,on nest
+2015,barr,dcecile,2015-07-09,1248,1258,brw2,c7,poja,100,2,"1 gliding low over plot s-n, 2nd came and chased it offplot - nest e"
+2015,barr,dcecile,2015-07-09,1248,1258,brw2,c7,snow,250,1,bird near nest sitting
+2015,barr,dcecile,2015-07-09,1100,1110,brw2,g7,glgu,0,1,territorial off plot nest
+2015,barr,dcecile,2015-07-09,1051,1101,brw2,k7,glgu,0,1,being territorial from nest offplot
+2015,barr,dcecile,2015-07-16,1057,1107,brw2,c7,snow,100,1,male sitting on tundra
+2015,barr,dcecile,2015-07-16,1057,1107,brw2,c7,glgu,50,2,flew over
+2015,barr,dcecile,2015-07-16,1025,1035,brw2,g7,none,NA,0,NA
+2015,barr,dcecile,2015-07-16,945,955,brw2,k7,glgu,10,2,territory of plot off nest
+2015,barr,dcecile,2015-07-16,945,955,brw2,k7,poja,200,1,flying low over plot
+2015,barr,dcecile,2015-07-16,945,955,brw2,k7,poja,50,1,NA
+2015,barr,choulle,2015-07-23,1638,1648,brw2,c7,snow,50,1,NA
+2015,barr,choulle,2015-07-23,1717,1727,brw2,g7,poja,250,1,NA
+2015,barr,choulle,2015-07-23,1245,1255,brw2,k7,glgu,50,3,flying/calling
+2015,barr,choulle,2015-07-23,1245,1255,brw2,k7,snow,200,1,male
+2015,barr,choulle,2015-07-23,1245,1255,brw2,k7,paja,150,NA,NA
+2015,barr,blagasse,2015-07-30,1236,1246,brw2,c7,snow,50,1,breeding male
+2015,barr,blagasse,2015-07-30,1236,1246,brw2,c7,glgu,150,1,NA
+2015,barr,blagasse,2015-07-30,1208,1218,brw2,g7,snow,250,1,breeding female
+2015,barr,blagasse,2015-07-30,1126,1136,brw2,k7,glgu,0,1,territorial adult
+2015,barr,blagasse,2015-07-30,1126,1136,brw2,k7,glgu,75,1,NA
+2015,barr,vpacheco,2015-06-04,1535,1545,brw3,c7,glgu,300,1,flying
+2015,barr,vpacheco,2015-06-04,1535,1545,brw3,c7,glgu,150,1,flying
+2015,barr,vpacheco,2015-06-04,1456,1506,brw3,g7,poja,150,1,flying
+2015,barr,vpacheco,2015-06-04,1456,1506,brw3,g7,glgu,100,1,flying
+2015,barr,vpacheco,2015-06-04,1419,1429,brw3,k7,none,NA,0,NA
+2015,barr,blagasse,2015-06-10,1117,1127,brw3,c7,glgu,50,1,NA
+2015,barr,blagasse,2015-06-10,1117,1127,brw3,c7,glgu,250,2,NA
+2015,barr,blagasse,2015-06-10,1117,1127,brw3,c7,poja,25,2,NA
+2015,barr,blagasse,2015-06-10,1117,1127,brw3,c7,poja,150,1,NA
+2015,barr,blagasse,2015-06-10,1117,1127,brw3,c7,paja,100,1,NA
+2015,barr,blagasse,2015-06-10,945,955,brw3,g7,poja,75,1,NA
+2015,barr,blagasse,2015-06-10,945,955,brw3,g7,glgu,75,1,NA
+2015,barr,blagasse,2015-06-10,945,955,brw3,g7,glgu,175,1,NA
+2015,barr,blagasse,2015-06-10,945,955,brw3,g7,pefa,300,1,perched on a8
+2015,barr,blagasse,2015-06-10,1312,1322,brw3,k7,poja,125,1,NA
+2015,barr,blagasse,2015-06-17,1249,1259,brw3,c7,glgu,20,1,NA
+2015,barr,blagasse,2015-06-17,1249,1259,brw3,c7,glgu,175,1,incubating?
+2015,barr,blagasse,2015-06-17,1057,1107,brw3,g7,glgu,100,1,NA
+2015,barr,blagasse,2015-06-17,1057,1107,brw3,g7,glgu,175,1,NA
+2015,barr,blagasse,2015-06-17,1057,1107,brw3,g7,poja,300,1,NA
+2015,barr,blagasse,2015-06-17,1057,1107,brw3,g7,glgu,100,1,NA
+2015,barr,blagasse,2015-06-17,1001,1011,brw3,k7,none,NA,0,NA
+2015,barr,blagasse,2015-06-24,1057,1107,brw3,c7,glgu,250,1,nesting
+2015,barr,blagasse,2015-06-24,1057,1107,brw3,c7,poja,300,1,NA
+2015,barr,blagasse,2015-06-24,927,937,brw3,g7,poja,250,1,NA
+2015,barr,blagasse,2015-06-24,927,937,brw3,g7,glgu,250,1,nesting
+2015,barr,blagasse,2015-06-24,851,901,brw3,k7,none,NA,0,NA
+2015,barr,mliljesthrom,2015-07-02,923,933,brw3,c7,poja,200,1,flying
+2015,barr,mliljesthrom,2015-07-02,803,813,brw3,g7,none,NA,0,NA
+2015,barr,mliljesthrom,2015-07-02,711,721,brw3,k7,poja,100,1,flying
+2015,barr,shoepfner,2015-07-09,1000,1010,brw3,c7,glgu,10,2,circling and calling around me
+2015,barr,shoepfner,2015-07-09,1000,1010,brw3,c7,poja,20,1,flew by
+2015,barr,shoepfner,2015-07-09,1024,1034,brw3,g7,poja,40,2,flying by
+2015,barr,shoepfner,2015-07-09,1046,1056,brw3,k7,none,NA,0,NA
+2015,barr,mliljesthrom,2015-07-16,711,721,brw3,c7,poja,150,3,flying by
+2015,barr,mliljesthrom,2015-07-16,711,721,brw3,c7,poja,50,1,flying by
+2015,barr,mliljesthrom,2015-07-16,711,721,brw3,c7,glgu,200,1,flying
+2015,barr,mliljesthrom,2015-07-16,711,721,brw3,c7,glgu,0,1,divebombing on observer
+2015,barr,mliljesthrom,2015-07-16,730,740,brw3,g7,none,NA,0,NA
+2015,barr,mliljesthrom,2015-07-16,609,619,brw3,k7,poja,100,1,flying over
+2015,barr,mliljesthrom,2015-07-23,753,803,brw3,c7,poja,100,1,flying low
+2015,barr,mliljesthrom,2015-07-23,753,803,brw3,c7,glgu,200,1,flying
+2015,barr,mliljesthrom,2015-07-23,753,803,brw3,c7,poja,200,2,flying
+2015,barr,mliljesthrom,2015-07-23,708,718,brw3,g7,none,NA,0,NA
+2015,barr,mliljesthrom,2015-07-23,645,655,brw3,k7,glgu,300,2,flying
+2015,barr,mliljesthrom,2015-07-30,655,705,brw3,c7,poja,25,1,standing
+2015,barr,mliljesthrom,2015-07-30,625,635,brw3,g7,poja,200,1,sitting
+2015,barr,mliljesthrom,2015-07-30,555,605,brw3,k7,poja,100,1,flying by
+2015,barr,vpacheco,2015-06-04,1331,1341,brw5,c7,poja,150,1,stand/flying all time
+2015,barr,vpacheco,2015-06-04,1253,1303,brw5,g7,poja,200,1,flying
+2015,barr,vpacheco,2015-06-04,1253,1303,brw5,g7,poja,150,1,stand up in tundra
+2015,barr,vpacheco,2015-06-04,1205,1215,brw5,k7,unja,300,1,"(ja sp. = jaeger sp.), stand on tundra"
+2015,barr,vpacheco,2015-06-04,1205,1215,brw5,k7,poja,300,1,flying
+2015,barr,blagasse,2015-06-10,1503,1513,brw5,c7,glgu,50,1,NA
+2015,barr,blagasse,2015-06-10,1622,1632,brw5,g7,glgu,30,1,NA
+2015,barr,blagasse,2015-06-10,1622,1632,brw5,g7,glgu,150,1,NA
+2015,barr,blagasse,2015-06-10,1701,1711,brw5,k7,poja,250,1,NA
+2015,barr,blagasse,2015-06-17,1616,1626,brw5,c7,none,NA,0,NA
+2015,barr,blagasse,2015-06-17,1750,1800,brw5,g7,glgu,100,1,NA
+2015,barr,blagasse,2015-06-17,1810,1820,brw5,k7,paja,270,1,NA
+2015,barr,blagasse,2015-06-24,1453,1503,brw5,c7,poja,250,1,NA
+2015,barr,blagasse,2015-06-24,1453,1503,brw5,c7,poja,200,1,NA
+2015,barr,blagasse,2015-06-24,1633,1643,brw5,g7,poja,150,1,NA
+2015,barr,blagasse,2015-06-24,1633,1643,brw5,g7,glgu,20,1,NA
+2015,barr,blagasse,2015-06-24,1633,1643,brw5,g7,glgu,300,1,NA
+2015,barr,blagasse,2015-06-24,1633,1643,brw5,g7,poja,300,1,NA
+2015,barr,blagasse,2015-06-24,1633,1643,brw5,g7,paja,250,1,NA
+2015,barr,blagasse,2015-06-24,1633,1643,brw5,g7,glgu,150,1,NA
+2015,barr,blagasse,2015-06-24,1633,1643,brw5,g7,glgu,100,1,NA
+2015,barr,blagasse,2015-06-24,1633,1643,brw5,g7,glgu,300,2,NA
+2015,barr,blagasse,2015-06-24,1727,1737,brw5,k7,poja,300,1,NA
+2015,barr,blagasse,2015-06-24,1727,1737,brw5,k7,paja,50,1,NA
+2015,barr,rlanctot,2015-07-02,1519,1529,brw5,c7,poja,300,1,flying by
+2015,barr,rlanctot,2015-07-02,1519,1529,brw5,c7,poja,300,1,sitting
+2015,barr,rlanctot,2015-07-02,1125,1135,brw5,g7,poja,50,1,dark phase
+2015,barr,rlanctot,2015-07-02,1125,1135,brw5,g7,poja,100,1,light nesting pair north of plot 5
+2015,barr,rlanctot,2015-07-02,1024,1034,brw5,k7,ltja,300,1,fly by
+2015,barr,rlanctot,2015-07-02,1024,1034,brw5,k7,paja,300,2,"fly by, but one hunt at prey"
+2015,barr,rlanctot,2015-07-02,1024,1034,brw5,k7,paja,200,1,fly by
+2015,barr,mliljesthrom,2015-07-09,950,1000,brw5,c7,poja,50,2,flying by
+2015,barr,mliljesthrom,2015-07-09,743,753,brw5,g7,poja,50,1,flying by
+2015,barr,mliljesthrom,2015-07-09,634,644,brw5,k7,none,NA,0,lots of fog
+2015,barr,ssaafeld/mliljesthrom,2015-07-16,900,910,brw5,c7,poja,100,1,passing by
+2015,barr,ssaafeld/mliljesthrom,2015-07-16,1050,1100,brw5,g7,poja,200,1,flying low
+2015,barr,ssaafeld/mliljesthrom,2015-07-16,1050,1100,brw5,g7,poja,100,1,flying low
+2015,barr,ssaafeld/mliljesthrom,2015-07-16,1100,1110,brw5,k7,glgu,100,1,NA
+2015,barr,mliljesthrom,2015-07-23,937,947,brw5,c7,poja,250,1,flying
+2015,barr,mliljesthrom,2015-07-23,937,947,brw5,c7,poja,300,1,flying
+2015,barr,mliljesthrom,2015-07-23,615,625,brw5,g7,glgu,25,2,flying by
+2015,barr,mliljesthrom,2015-07-23,555,605,brw5,k7,poja,100,1,flying low
+2015,barr,vpacheco/mliljesthrom,2015-07-30,727,737,brw5,c7,poja,150,1,flying by
+2015,barr,vpacheco/mliljesthrom,2015-07-30,750,800,brw5,g7,poja,300,2,flying by
+2015,barr,vpacheco/mliljesthrom,2015-07-30,824,834,brw5,k7,poja,300,1,flying and stop/stand
+2015,barr,vpacheco/mliljesthrom,2015-07-30,824,834,brw5,k7,glgu,300,1,flying
+2015,barr,blagasse,2015-06-04,1320,1330,brw8,c7,glgu,250,1,NA
+2015,barr,blagasse,2015-06-04,1320,1330,brw8,c7,poja,150,2,NA
+2015,barr,blagasse,2015-06-04,1254,1304,brw8,g7,glgu,50,3,NA
+2015,barr,blagasse,2015-06-04,1254,1304,brw8,g7,glgu,90,2,NA
+2015,barr,blagasse,2015-06-04,1254,1304,brw8,g7,glgu,200,1,NA
+2015,barr,blagasse,2015-06-04,1254,1304,brw8,g7,glgu,75,3,NA
+2015,barr,blagasse,2015-06-04,1142,1152,brw8,k7,glgu,100,1,NA
+2015,barr,blagasse,2015-06-04,1142,1152,brw8,k7,poja,300,1,NA
+2015,barr,blagasse,2015-06-04,1142,1152,brw8,k7,glgu,300,1,NA
+2015,barr,blagasse,2015-06-04,1142,1152,brw8,k7,glgu,80,1,NA
+2015,barr,mliljesthrom,2015-06-10,1455,1505,brw8,c7,poja,150,1,flying
+2015,barr,mliljesthrom,2015-06-10,1455,1505,brw8,c7,glgu,200,2,flying
+2015,barr,mliljesthrom,2015-06-10,1455,1505,brw8,c7,glgu,50,1,flying
+2015,barr,mliljesthrom,2015-06-10,1403,1413,brw8,g7,paja,25,1,flying
+2015,barr,mliljesthrom,2015-06-10,1403,1413,brw8,g7,poja,150,3,flying
+2015,barr,mliljesthrom,2015-06-10,1403,1413,brw8,g7,glgu,50,1,flying
+2015,barr,mliljesthrom,2015-06-10,1314,1324,brw8,k7,glgu,100,1,flying
+2015,barr,mliljesthrom,2015-06-17,1535,1545,brw8,c7,glgu,300,2,flying
+2015,barr,mliljesthrom,2015-06-17,1535,1545,brw8,c7,poja,100,1,flying
+2015,barr,mliljesthrom,2015-06-17,1535,1545,brw8,c7,paja,200,2,"one sitting, the other flying above it"
+2015,barr,mliljesthrom,2015-06-17,1405,1415,brw8,g7,glgu,50,1,flying
+2015,barr,mliljesthrom,2015-06-17,1405,1415,brw8,g7,glgu,150,1,flying
+2015,barr,mliljesthrom,2015-06-17,1256,1306,brw8,k7,glgu,150,1,flying
+2015,barr,mliljesthrom,2015-06-17,1256,1306,brw8,k7,glgu,25,1,flying
+2015,barr,mliljesthrom,2015-06-24,1318,1328,brw8,c7,glgu,100,1,NA
+2015,barr,mliljesthrom,2015-06-24,1506,1516,brw8,g7,glgu,100,1,NA
+2015,barr,mliljesthrom,2015-06-24,1506,1516,brw8,g7,unja,300,1,sitting
+2015,barr,mliljesthrom,2015-06-24,1215,1225,brw8,k7,glgu,200,1,flying
+2015,barr,mliljesthrom,2015-06-24,1215,1225,brw8,k7,poja,25,2,flying
+2015,barr,wenglish,2015-07-02,1206,1216,brw8,c7,glgu,100,1,NA
+2015,barr,wenglish,2015-07-02,1206,1216,brw8,c7,poja,50,1,flying low but fast back to possible nest north of 8
+2015,barr,wenglish,2015-07-02,1206,1216,brw8,c7,poja,250,2,hunting
+2015,barr,wenglish,2015-07-02,1206,1216,brw8,c7,glgu,300,2,NA
+2015,barr,wenglish,2015-07-02,1403,1413,brw8,g7,poja,50,1,"sat on ground, took off and flew away"
+2015,barr,wenglish,2015-07-02,1403,1413,brw8,g7,glgu,25,1,flew over
+2015,barr,wenglish,2015-07-02,1403,1413,brw8,g7,poja,200,1,walked around on ground
+2015,barr,wenglish,2015-07-02,1727,1737,brw8,k7,poja,300,1,hunting
+2015,barr,wenglish,2015-07-09,1157,1207,brw8,c7,glgu,200,1,flying high over plot
+2015,barr,wenglish,2015-07-09,1157,1207,brw8,c7,glgu,100,1,flying high over plot
+2015,barr,wenglish,2015-07-09,1157,1207,brw8,c7,glgu,150,2,flying high over plot
+2015,barr,wenglish,2015-07-09,1157,1207,brw8,c7,poja,300,1,hunting
+2015,barr,wenglish,2015-07-09,1333,1343,brw8,g7,glgu,50,1,flying low
+2015,barr,wenglish,2015-07-09,1333,1343,brw8,g7,glgu,100,1,flying low
+2015,barr,wenglish,2015-07-09,1333,1343,brw8,g7,glgu,150,1,flying high
+2015,barr,wenglish,2015-07-09,1333,1343,brw8,g7,glgu,100,1,flying low
+2015,barr,wenglish,2015-07-09,1333,1343,brw8,g7,glgu,250,1,flying high
+2015,barr,wenglish,2015-07-09,1546,1556,brw8,k7,glgu,100,2,"flying low, swooping to ground"
+2015,barr,wenglish,2015-07-09,1546,1556,brw8,k7,glgu,250,1,soaring high
+2015,barr,choulle,2015-07-16,939,950,brw8,c7,glgu,75,2,in flight
+2015,barr,choulle,2015-07-16,939,950,brw8,c7,poja,100,2,on ground (likely parasitic??)
+2015,barr,choulle,2015-07-16,939,950,brw8,c7,glgu,150,1,in flight
+2015,barr,choulle,2015-07-16,1130,1140,brw8,g7,glgu,100,1,NA
+2015,barr,choulle,2015-07-16,1130,1140,brw8,g7,poja,50,1,(likely parasitic??)
+2015,barr,choulle,2015-07-16,1130,1140,brw8,g7,glgu,250,1,NA
+2015,barr,choulle,2015-07-16,1215,1225,brw8,k7,poja,50,2,NA
+2015,barr,choulle,2015-07-16,1215,1225,brw8,k7,glgu,100,2,NA
+2015,barr,choulle,2015-07-16,1215,1225,brw8,k7,glgu,50,1,NA
+2015,barr,vpacheco,2015-07-23,1041,1051,brw8,c7,poja,250,1,stand in ground
+2015,barr,vpacheco,2015-07-23,1041,1051,brw8,c7,glgu,300,1,flying
+2015,barr,vpacheco,2015-07-23,1041,1051,brw8,c7,glgu,200,1,flying close to the ground
+2015,barr,vpacheco,2015-07-23,1041,1051,brw8,c7,poja,200,1,flying and stand at 200m
+2015,barr,vpacheco,2015-07-23,1209,1219,brw8,g7,glgu,250,1,flying
+2015,barr,vpacheco,2015-07-23,1129,1139,brw8,k7,glgu,150,1,flying
+2015,barr,vpacheco,2015-07-23,1129,1139,brw8,k7,poja,100,1,flying close to ground
+2015,barr,vpacheco,2015-07-23,1129,1139,brw8,k7,glgu,50,1,flying close to ground
+2015,barr,choulle,2015-07-30,1032,1042,brw8,c7,glgu,200,2,flying
+2015,barr,choulle,2015-07-30,1032,1042,brw8,c7,glgu,50,4,flying
+2015,barr,choulle,2015-07-30,1032,1042,brw8,c7,glgu,400,21,sw of plot 8 gathering and calling
+2015,barr,choulle,2015-07-30,1032,1042,brw8,c7,glgu,100,2,flying
+2015,barr,choulle,2015-07-30,1032,1042,brw8,c7,paja,300,1,flying
+2015,barr,choulle,2015-07-30,1132,1143,brw8,g7,glgu,250,26,NA
+2015,barr,choulle,2015-07-30,1132,1143,brw8,g7,glgu,50,5,flying
+2015,barr,choulle,2015-07-30,1213,1223,brw8,k7,glgu,50,1,flying
+2015,barr,choulle,2015-07-30,1213,1223,brw8,k7,glgu,150,31,gathering and calling s-w plot 8
+2016,barr,wegelhoff,2016-06-05,1813,1823,brw0,c7,none,NA,0,NA
+2016,barr,wegelhoff,2016-06-05,1720,1730,brw0,g7,none,NA,0,NA
+2016,barr,wegelhoff,2016-06-05,1612,1622,brw0,k7,poja,50,1,NA
+2016,barr,wegelhoff,2016-06-12,1031,1041,brw0,c7,glgu,50,1,NA
+2016,barr,wegelhoff,2016-06-12,1031,1041,brw0,c7,poja,150,1,NA
+2016,barr,wegelhoff,2016-06-12,1147,1157,brw0,g7,glgu,100,2,NA
+2016,barr,wegelhoff,2016-06-12,1301,1311,brw0,k7,none,NA,0,NA
+2016,barr,wegelhoff,2016-06-19,1421,1431,brw0,c7,cora,100,2,NA
+2016,barr,wegelhoff,2016-06-19,1536,1546,brw0,g7,none,NA,0,NA
+2016,barr,wegelhoff,2016-06-19,1309,1319,brw0,k7,merl,200,1,NA
+2016,barr,wegelhoff,2016-06-25,1158,1208,brw0,c7,none,NA,0,NA
+2016,barr,wegelhoff,2016-06-25,1041,1051,brw0,g7,paja,200,1,possibly same individual seen from k7
+2016,barr,wegelhoff,2016-06-25,953,1003,brw0,k7,ltja,200,2,possibly a pair
+2016,barr,wegelhoff,2016-06-25,953,1003,brw0,k7,paja,200,1,with ltja
+2016,barr,wegelhoff,2016-06-25,953,1003,brw0,k7,glgu,20,1,NA
+2016,barr,wegelhoff,2016-07-03,1241,1251,brw0,c7,poja,200,1,NA
+2016,barr,wegelhoff,2016-07-03,1159,1209,brw0,g7,paja,150,1,NA
+2016,barr,wegelhoff,2016-07-03,1111,1121,brw0,k7,none,NA,0,NA
+2016,barr,elai,2016-07-08,1458,1508,brw0,c7,none,NA,0,NA
+2016,barr,elai,2016-07-08,1306,1316,brw0,g7,paja,150,1,2 amgp yelling at it
+2016,barr,elai,2016-07-08,1102,1112,brw0,k7,glgu,300,1,NA
+2016,barr,wegelhoff,2016-07-16,1310,1320,brw0,c7,poja,50,1,NA
+2016,barr,wegelhoff,2016-07-16,1220,1230,brw0,g7,glgu,10,2,pair
+2016,barr,wegelhoff,2016-07-16,1130,1140,brw0,k7,glgu,100,1,mobbed by sesa
+2016,barr,wegelhoff,2016-07-16,1130,1140,brw0,k7,paja,0,1,NA
+2016,barr,wenglish,2016-07-22,1336,1346,brw0,c7,poja,150,1,NA
+2016,barr,wenglish,2016-07-22,1336,1346,brw0,c7,poja,200,1,NA
+2016,barr,wenglish,2016-07-22,1458,1508,brw0,g7,none,NA,0,NA
+2016,barr,wenglish,2016-07-22,1416,1426,brw0,k7,paja,200,2,bathing in pomd
+2016,barr,blagasse,2016-07-29,1209,1219,brw0,c7,poja,50,1,NA
+2016,barr,blagasse,2016-07-29,1249,1259,brw0,g7,none,NA,0,NA
+2016,barr,blagasse,2016-07-29,1329,1339,brw0,k7,poja,75,1,NA
+2016,barr,blagasse,2016-07-29,1329,1339,brw0,k7,paja,175,1,NA
+2016,barr,elai,2016-06-05,1447,1457,brw1,c7,glgu,20,1,NA
+2016,barr,elai,2016-06-05,1447,1457,brw1,c7,glgu,170,1,NA
+2016,barr,elai,2016-06-05,1751,1801,brw1,g7,glgu,200,1,NA
+2016,barr,elai,2016-06-05,1617,1627,brw1,k7,glgu,50,1,NA
+2016,barr,elai,2016-06-05,1617,1627,brw1,k7,glgu,200,1,NA
+2016,barr,elai,2016-06-12,1503,1513,brw1,c7,glgu,150,1,NA
+2016,barr,elai,2016-06-12,1503,1513,brw1,c7,glgu,120,1,NA
+2016,barr,elai,2016-06-12,1611,1621,brw1,g7,paja,130,1,NA
+2016,barr,elai,2016-06-12,1654,1704,brw1,k7,paja,100,1,caught a lemming
+2016,barr,wegelhoff,2016-06-20,852,902,brw1,c7,cora,50,1,fly over
+2016,barr,wegelhoff,2016-06-20,852,902,brw1,c7,poja,150,2,pair
+2016,barr,wegelhoff,2016-06-20,921,931,brw1,g7,glgu,200,1,NA
+2016,barr,wegelhoff,2016-06-20,921,931,brw1,g7,glgu,125,1,NA
+2016,barr,wegelhoff,2016-06-20,921,931,brw1,g7,glgu,50,1,NA
+2016,barr,wegelhoff,2016-06-20,1024,1034,brw1,k7,poja,50,2,pair
+2016,barr,wegelhoff,2016-06-20,1024,1034,brw1,k7,poja,100,2,pair
+2016,barr,elai,2016-06-25,1018,1028,brw1,c7,glgu,75,1,NA
+2016,barr,elai,2016-06-25,1018,1028,brw1,c7,glgu,100,1,NA
+2016,barr,elai,2016-06-25,1440,1450,brw1,g7,glgu,200,1,NA
+2016,barr,elai,2016-06-25,1324,1334,brw1,k7,none,NA,0,NA
+2016,barr,elai,2016-07-03,1338,1348,brw1,c7,none,NA,0,NA
+2016,barr,elai,2016-07-03,1145,1155,brw1,g7,glgu,80,2,Seen at 250 meters from stake c7
+2016,barr,elai,2016-07-03,1145,1155,brw1,g7,poja,150,1,NA
+2016,barr,elai,2016-07-03,1145,1155,brw1,g7,paja,70,4,NA
+2016,barr,elai,2016-07-03,1145,1155,brw1,g7,poja,100,1,NA
+2016,barr,elai,2016-07-03,1019,1029,brw1,k7,poja,150,1,NA
+2016,barr,shoepfner,2016-07-08,949,959,brw1,c7,glgu,200,3,NA
+2016,barr,shoepfner,2016-07-08,949,959,brw1,c7,glgu,150,2,NA
+2016,barr,shoepfner,2016-07-08,949,959,brw1,c7,poja,200,1,NA
+2016,barr,shoepfner,2016-07-08,1047,1057,brw1,g7,glgu,200,2,NA
+2016,barr,shoepfner,2016-07-08,1128,1138,brw1,k7,glgu,100,1,NA
+2016,barr,shoepfner,2016-07-08,1128,1138,brw1,k7,poja,200,1,NA
+2016,barr,shoepfner,2016-07-08,1128,1138,brw1,k7,poja,100,1,NA
+2016,barr,elai,2016-07-16,1018,1028,brw1,c7,glgu,50,1,NA
+2016,barr,elai,2016-07-16,1018,1028,brw1,c7,glgu,130,1,NA
+2016,barr,elai,2016-07-16,1018,1028,brw1,c7,glgu,250,2,NA
+2016,barr,elai,2016-07-16,1322,1332,brw1,g7,poja,100,2,NA
+2016,barr,elai,2016-07-16,1322,1332,brw1,g7,glgu,250,1,NA
+2016,barr,elai,2016-07-16,1322,1332,brw1,g7,poja,150,2,NA
+2016,barr,elai,2016-07-16,1225,1235,brw1,k7,poja,250,1,NA
+2016,barr,blagasse,2016-07-22,1244,1254,brw1,c7,glgu,100,2,NA
+2016,barr,blagasse,2016-07-22,1244,1254,brw1,c7,poja,50,2,NA
+2016,barr,blagasse,2016-07-22,1244,1254,brw1,c7,poja,150,3,NA
+2016,barr,blagasse,2016-07-22,1244,1254,brw1,c7,glgu,50,1,NA
+2016,barr,blagasse,2016-07-22,1113,1123,brw1,g7,poja,10,2,NA
+2016,barr,blagasse,2016-07-22,1113,1123,brw1,g7,glgu,150,2,NA
+2016,barr,blagasse,2016-07-22,1504,1514,brw1,k7,poja,75,2,NA
+2016,barr,blagasse,2016-07-22,1504,1514,brw1,k7,glgu,150,1,NA
+2016,barr,wenglish,2016-07-29,1108,1118,brw1,c7,glgu,75,1,NA
+2016,barr,wenglish,2016-07-29,1108,1118,brw1,c7,glgu,100,1,NA
+2016,barr,wenglish,2016-07-29,1149,1159,brw1,g7,none,NA,0,NA
+2016,barr,wenglish,2016-07-29,1229,1239,brw1,k7,poja,25,2,NA
+2016,barr,wenglish,2016-07-29,1229,1239,brw1,k7,poja,200,2,"seen at same time as other pair of poja, different individuals"
+2016,barr,elai,2016-06-05,1311,1321,brw2,c7,none,NA,0,NA
+2016,barr,elai,2016-06-05,1017,1027,brw2,g7,poja,150,1,NA
+2016,barr,elai,2016-06-05,1209,1219,brw2,k7,none,NA,0,NA
+2016,barr,elai,2016-06-12,957,1007,brw2,c7,none,NA,0,NA
+2016,barr,elai,2016-06-12,1250,1300,brw2,g7,paja,100,2,NA
+2016,barr,elai,2016-06-12,1855,1905,brw2,k7,glgu,100,1,NA
+2016,barr,wegelhoff,2016-06-20,1142,1152,brw2,c7,glgu,100,1,NA
+2016,barr,wegelhoff,2016-06-20,1231,1241,brw2,g7,none,NA,0,NA
+2016,barr,wegelhoff,2016-06-20,1436,1446,brw2,k7,pefa,150,1,NA
+2016,barr,wegelhoff,2016-06-20,1436,1446,brw2,k7,glgu,100,2,nesting nearby
+2016,barr,wegelhoff,2016-06-20,1436,1446,brw2,k7,cora,50,1,NA
+2016,barr,wegelhoff,2016-06-25,1534,1544,brw2,c7,none,NA,0,NA
+2016,barr,wegelhoff,2016-06-25,1731,1741,brw2,g7,poja,200,1,NA
+2016,barr,wegelhoff,2016-06-25,1858,1908,brw2,k7,none,NA,0,NA
+2016,barr,shoepfner,2016-07-03,1040,1050,brw2,c7,none,NA,0,very foggy
+2016,barr,shoepfner,2016-07-03,952,1002,brw2,g7,none,NA,0,very foggy
+2016,barr,shoepfner,2016-07-03,1148,1158,brw2,k7,glgu,200,1,NA
+2016,barr,norchard,2016-07-08,1435,1445,brw2,c7,paja,200,1,NA
+2016,barr,norchard,2016-07-08,1435,1445,brw2,c7,glgu,200,1,NA
+2016,barr,norchard,2016-07-08,1600,1610,brw2,g7,paja,50,1,NA
+2016,barr,norchard,2016-07-08,1653,1703,brw2,k7,glgu,50,2,pair-defending territory
+2016,barr,norchard,2016-07-08,1653,1703,brw2,k7,glgu,150,1,NA
+2016,barr,elai,2016-07-16,1604,1614,brw2,c7,poja,200,1,NA
+2016,barr,elai,2016-07-16,1604,1614,brw2,c7,glgu,250,1,NA
+2016,barr,elai,2016-07-16,1604,1614,brw2,c7,glgu,75,1,NA
+2016,barr,elai,2016-07-16,1645,1655,brw2,g7,paja,300,1,NA
+2016,barr,elai,2016-07-16,1645,1655,brw2,g7,glgu,300,1,NA
+2016,barr,elai,2016-07-16,1645,1655,brw2,g7,poja,150,1,NA
+2016,barr,elai,2016-07-16,1645,1655,brw2,g7,glgu,250,1,NA
+2016,barr,elai,2016-07-16,1726,1736,brw2,k7,glgu,200,1,nesting SE off PLOT 2
+2016,barr,elai,2016-07-16,1726,1736,brw2,k7,glgu,150,1,likely the same one at g7
+2016,barr,elai,2016-07-16,1726,1736,brw2,k7,poja,250,2,1 likely the same one at g7
+2016,barr,elai,2016-07-16,1726,1736,brw2,k7,paja,250,2,1 likely the same one at g7
+2016,barr,blagasse,2016-07-22,1730,1740,brw2,c7,glgu,200,1,NA
+2016,barr,blagasse,2016-07-22,1730,1740,brw2,c7,glgu,150,1,NA
+2016,barr,blagasse,2016-07-22,1815,1825,brw2,g7,glgu,50,1,NA
+2016,barr,blagasse,2016-07-22,1815,1825,brw2,g7,paja,50,1,NA
+2016,barr,blagasse,2016-07-22,1855,1905,brw2,k7,glgu,100,1,3 fluffy chicks south of plot
+2016,barr,wenglish,2016-07-29,1251,1301,brw2,c7,glgu,25,3,alarm calling
+2016,barr,wenglish,2016-07-29,1051,1101,brw2,g7,glgu,15,1,following and alarm calling; chick nearby?
+2016,barr,wenglish,2016-07-29,1051,1101,brw2,g7,glgu,200,1,NA
+2016,barr,wenglish,2016-07-29,1051,1101,brw2,g7,paja,150,2,NA
+2016,barr,wenglish,2016-07-29,1331,1341,brw2,k7,glgu,200,1,NA
+2016,barr,shoepfner,2016-06-05,1438,1448,brw3,c7,poja,150,1,NA
+2016,barr,shoepfner,2016-06-05,1621,1631,brw3,g7,arte,100,1,NA
+2016,barr,shoepfner,2016-06-05,1342,1352,brw3,k7,none,NA,0,NA
+2016,barr,shoepfner,2016-06-12,1318,1328,brw3,c7,paja,150,1,NA
+2016,barr,shoepfner,2016-06-12,1507,1517,brw3,g7,none,NA,0,NA
+2016,barr,shoepfner,2016-06-12,1617,1627,brw3,k7,paja,100,2,NA
+2016,barr,elai,2016-06-20,1121,1131,brw3,c7,paja,100,1,NA
+2016,barr,elai,2016-06-20,917,927,brw3,g7,none,NA,0,NA
+2016,barr,elai,2016-06-20,1308,1318,brw3,k7,poja,200,1,NA
+2016,barr,elai,2016-06-20,1308,1318,brw3,k7,poja,150,2,NA
+2016,barr,shoepfner,2016-06-24,1030,1040,brw3,c7,paja,100,4,NA
+2016,barr,shoepfner,2016-06-24,1142,1152,brw3,g7,none,NA,0,NA
+2016,barr,shoepfner,2016-06-24,1305,1315,brw3,k7,poja,200,1,NA
+2016,barr,norchard,2016-07-03,1135,1145,brw3,c7,poja,30,1,hunting over plot
+2016,barr,norchard,2016-07-03,1215,1225,brw3,g7,poja,20,1,presume same as bird as c7
+2016,barr,norchard,2016-07-03,1215,1225,brw3,g7,glgu,150,1,NA
+2016,barr,norchard,2016-07-03,1215,1225,brw3,g7,paja,150,1,dark phase bird
+2016,barr,norchard,2016-07-03,1257,1307,brw3,k7,glgu,50,1,NA
+2016,barr,dmeliopoulos,2016-07-08,2047,2057,brw3,c7,none,NA,0,NA
+2016,barr,dmeliopoulos,2016-07-08,2002,2012,brw3,g7,paja,30,1,NA
+2016,barr,dmeliopoulos,2016-07-08,2002,2012,brw3,g7,glgu,190,1,NA
+2016,barr,dmeliopoulos,2016-07-08,1908,1918,brw3,k7,paja,50,1,NA
+2016,barr,dmeliopoulos,2016-07-08,1908,1918,brw3,k7,glgu,200,1,NA
+2016,barr,dmeliopoulos,2016-07-08,1908,1918,brw3,k7,paja,80,1,NA
+2016,barr,elai,2016-07-15,1447,1457,brw3,c7,glgu,250,1,NA
+2016,barr,elai,2016-07-15,1447,1457,brw3,c7,poja,150,1,NA
+2016,barr,elai,2016-07-15,1447,1457,brw3,c7,poja,75,2,dark morph
+2016,barr,elai,2016-07-15,1447,1457,brw3,c7,poja,250,1,NA
+2016,barr,elai,2016-07-15,1447,1457,brw3,c7,poja,300,2,NA
+2016,barr,elai,2016-07-15,1532,1542,brw3,g7,poja,250,1,NA
+2016,barr,elai,2016-07-15,1532,1542,brw3,g7,glgu,300,1,NA
+2016,barr,elai,2016-07-15,1532,1542,brw3,g7,poja,150,1,NA
+2016,barr,elai,2016-07-15,1532,1542,brw3,g7,sacr,400,4,NA
+2016,barr,elai,2016-07-15,1407,1417,brw3,k7,none,NA,0,NA
+2016,barr,wegelhoff,2016-07-22,1430,1440,brw3,c7,glgu,50,2,breeding nearby
+2016,barr,wegelhoff,2016-07-22,1321,1331,brw3,g7,poja,75,1,same as k7
+2016,barr,wegelhoff,2016-07-22,1321,1331,brw3,g7,glgu,100,1,NA
+2016,barr,wegelhoff,2016-07-22,1206,1216,brw3,k7,poja,100,1,NA
+2016,barr,wegelhoff,2016-07-22,1206,1216,brw3,k7,glgu,50,2,NA
+2016,barr,wegelhoff,2016-07-29,1402,1412,brw3,c7,poja,50,1,same as k7
+2016,barr,wegelhoff,2016-07-29,1402,1412,brw3,c7,paja,0,1,NA
+2016,barr,wegelhoff,2016-07-29,1433,1443,brw3,g7,poja,100,1,"same as k7, c7"
+2016,barr,wegelhoff,2016-07-29,1320,1330,brw3,k7,poja,200,1,NA
+2016,barr,shoepfner,2016-06-05,1048,1058,brw5,c7,glgu,100,1,NA
+2016,barr,shoepfner,2016-06-05,1048,1058,brw5,c7,cora,150,1,NA
+2016,barr,shoepfner,2016-06-05,1007,1017,brw5,g7,glgu,200,1,NA
+2016,barr,shoepfner,2016-06-05,1007,1017,brw5,g7,poja,150,1,NA
+2016,barr,shoepfner,2016-06-05,1007,1017,brw5,g7,glgu,200,1,NA
+2016,barr,shoepfner,2016-06-05,923,933,brw5,k7,none,NA,0,NA
+2016,barr,shoepfner,2016-06-12,1211,1221,brw5,c7,paja,100,2,NA
+2016,barr,shoepfner,2016-06-12,1045,1055,brw5,g7,paja,50,1,NA
+2016,barr,shoepfner,2016-06-12,1045,1055,brw5,g7,paja,100,1,NA
+2016,barr,shoepfner,2016-06-12,1045,1055,brw5,g7,snow,200,1,NA
+2016,barr,shoepfner,2016-06-12,1045,1055,brw5,g7,glgu,200,1,NA
+2016,barr,shoepfner,2016-06-12,1128,1138,brw5,k7,glgu,25,2,NA
+2016,barr,shoepfner,2016-06-19,1227,1237,brw5,c7,paja,200,2,NA
+2016,barr,shoepfner,2016-06-19,1227,1237,brw5,c7,paja,100,1,NA
+2016,barr,shoepfner,2016-06-19,1041,1051,brw5,g7,none,NA,0,NA
+2016,barr,shoepfner,2016-06-19,958,1008,brw5,k7,paja,200,1,NA
+2016,barr,shoepfner,2016-06-24,1453,1503,brw5,c7,paja,100,1,NA
+2016,barr,shoepfner,2016-06-24,1453,1503,brw5,c7,poja,100,1,NA
+2016,barr,shoepfner,2016-06-24,1557,1607,brw5,g7,glgu,200,1,NA
+2016,barr,shoepfner,2016-06-24,1557,1607,brw5,g7,glgu,100,1,NA
+2016,barr,shoepfner,2016-06-24,1643,1653,brw5,k7,paja,200,1,NA
+2016,barr,norchard,2016-07-03,1339,1349,brw5,c7,paja,30,2,"2 dark phase flew through, landed in south of plot"
+2016,barr,norchard,2016-07-03,1339,1349,brw5,c7,paja,50,1,pale phase
+2016,barr,norchard,2016-07-03,1420,1430,brw5,g7,paja,100,1,dark phase
+2016,barr,norchard,2016-07-03,1515,1525,brw5,k7,paja,50,1,dark phase
+2016,barr,norchard,2016-07-03,1515,1525,brw5,k7,glgu,150,2,NA
+2016,barr,dmeliopoulos,2016-07-08,1801,1811,brw5,c7,none,NA,0,NA
+2016,barr,dmeliopoulos,2016-07-08,1550,1600,brw5,g7,none,NA,0,NA
+2016,barr,dmeliopoulos,2016-07-08,1300,1310,brw5,k7,glgu,110,1,NA
+2016,barr,elai,2016-07-15,1333,1343,brw5,c7,poja,250,2,NA
+2016,barr,elai,2016-07-15,1333,1343,brw5,c7,poja,150,1,NA
+2016,barr,elai,2016-07-15,1333,1343,brw5,c7,paja,150,2,NA
+2016,barr,elai,2016-07-15,1638,1648,brw5,g7,poja,200,1,likely the same one at c7
+2016,barr,elai,2016-07-15,1638,1648,brw5,g7,glgu,250,1,NA
+2016,barr,elai,2016-07-15,1742,1752,brw5,k7,glgu,100,1,NA
+2016,barr,elai,2016-07-15,1742,1752,brw5,k7,glgu,200,1,NA
+2016,barr,wegelhoff,2016-07-22,1600,1610,brw5,c7,poja,0,2,pair flew directly overhead
+2016,barr,wegelhoff,2016-07-22,1650,1700,brw5,g7,glgu,200,1,NA
+2016,barr,wegelhoff,2016-07-22,1740,1750,brw5,k7,poja,200,1,being harrassed by paja pair
+2016,barr,wegelhoff,2016-07-22,1740,1750,brw5,k7,paja,200,2,harrassing poja
+2016,barr,wegelhoff,2016-07-22,1740,1750,brw5,k7,glgu,50,1,NA
+2016,barr,wegelhoff,2016-07-29,1500,1510,brw5,c7,glgu,50,1,NA
+2016,barr,wegelhoff,2016-07-29,1540,1550,brw5,g7,glgu,100,2,NA
+2016,barr,wegelhoff,2016-07-29,1625,1635,brw5,k7,glgu,0,1,NA
+2016,barr,wegelhoff,2016-06-05,1216,1226,brw8,c7,glgu,20,1,NA
+2016,barr,wegelhoff,2016-06-05,1216,1226,brw8,c7,poja,20,2,likely pair also seen at g7
+2016,barr,wegelhoff,2016-06-05,1332,1342,brw8,g7,glgu,50,3,NA
+2016,barr,wegelhoff,2016-06-05,1332,1342,brw8,g7,poja,200,2,pair (1 light 1 dark morph)
+2016,barr,wegelhoff,2016-06-05,1021,1031,brw8,k7,paja,200,1,possibly nesting nearby
+2016,barr,wegelhoff,2016-06-05,1021,1031,brw8,k7,glgu,100,1,NA
+2016,barr,wegelhoff,2016-06-12,1715,1725,brw8,c7,glgu,100,11,NA
+2016,barr,wegelhoff,2016-06-12,1801,1811,brw8,g7,glgu,75,3,NA
+2016,barr,wegelhoff,2016-06-12,1455,1505,brw8,k7,glgu,150,2,NA
+2016,barr,wegelhoff,2016-06-19,1015,1025,brw8,c7,none,NA,0,NA
+2016,barr,wegelhoff,2016-06-19,915,925,brw8,g7,glgu,50,1,NA
+2016,barr,wegelhoff,2016-06-19,747,757,brw8,k7,paja,150,2,NA
+2016,barr,wegelhoff,2016-06-19,747,757,brw8,k7,glgu,100,1,NA
+2016,barr,wegelhoff,2016-06-25,1813,1823,brw8,c7,glgu,150,5,flying to dump
+2016,barr,wegelhoff,2016-06-25,1813,1823,brw8,c7,paja,100,1,member of a pair
+2016,barr,wegelhoff,2016-06-25,1813,1823,brw8,c7,poja,100,1,being chase off by paja
+2016,barr,wegelhoff,2016-06-25,1721,1731,brw8,g7,paja,50,2,pair
+2016,barr,wegelhoff,2016-06-25,1721,1731,brw8,g7,glgu,100,15,attracted to dump
+2016,barr,wegelhoff,2016-06-25,1637,1647,brw8,k7,paja,20,2,pair nesting nearby
+2016,barr,wegelhoff,2016-06-25,1637,1647,brw8,k7,poja,200,1,NA
+2016,barr,dmeliopoulos,2016-07-03,1001,1011,brw8,c7,glgu,10,1,"very foggy, ~100 m visibility"
+2016,barr,dmeliopoulos,2016-07-03,1218,1228,brw8,g7,glgu,50,1,NA
+2016,barr,dmeliopoulos,2016-07-03,1218,1228,brw8,g7,glgu,30,1,NA
+2016,barr,dmeliopoulos,2016-07-03,1240,1250,brw8,k7,glgu,180,1,flying low over ground
+2016,barr,blagasse,2016-07-08,1015,1025,brw8,c7,glgu,150,1,NA
+2016,barr,blagasse,2016-07-08,1015,1025,brw8,c7,glgu,125,1,NA
+2016,barr,blagasse,2016-07-08,1128,1138,brw8,k7,paja,50,1,NA
+2016,barr,blagasse,2016-07-08,1128,1138,brw8,k7,poja,150,1,NA
+2016,barr,blagasse,2016-07-08,1128,1138,brw8,k7,glgu,150,1,NA
+2016,barr,blagasse,2016-07-08,1209,1219,brw8,g7,glgu,150,2,NA
+2016,barr,blagasse,2016-07-08,1209,1219,brw8,g7,glgu,50,1,NA
+2016,barr,blagasse,2016-07-08,1209,1219,brw8,g7,glgu,100,1,NA
+2016,barr,blagasse,2016-07-08,1209,1219,brw8,g7,paja,100,2,Nesting pair harassing glgu
+2016,barr,blagasse,2016-07-08,1209,1219,brw8,g7,glgu,25,1,NA
+2016,barr,blagasse,2016-07-08,1209,1219,brw8,g7,glgu,100,1,NA
+2016,barr,blagasse,2016-07-08,1209,1219,brw8,g7,glgu,100,1,NA
+2016,barr,blagasse,2016-07-08,1209,1219,brw8,g7,glgu,200,1,NA
+2016,barr,blagasse,2016-07-15,1122,1132,brw8,c7,glgu,0,1,"Broody and territorial, likely chicks"
+2016,barr,blagasse,2016-07-15,1122,1132,brw8,c7,glgu,0,1,"Broody and territorial, likely chicks"
+2016,barr,blagasse,2016-07-15,1202,1212,brw8,g7,glgu,50,1,NA
+2016,barr,blagasse,2016-07-15,1234,1244,brw8,k7,paja,200,3,forming off S end of plot
+2016,barr,wenglish,2016-07-22,1111,1121,brw8,c7,glgu,10,1,nest in area? Following and alarm calling
+2016,barr,wenglish,2016-07-22,1111,1121,brw8,c7,glgu,150,1,NA
+2016,barr,wenglish,2016-07-22,1234,1244,brw8,g7,glgu,100,1,NA
+2016,barr,wenglish,2016-07-22,1234,1244,brw8,g7,glgu,20,2,NA
+2016,barr,wenglish,2016-07-22,1234,1244,brw8,g7,glgu,25,1,NA
+2016,barr,wenglish,2016-07-22,1234,1244,brw8,g7,glgu,150,1,NA
+2016,barr,wenglish,2016-07-22,1234,1244,brw8,g7,glgu,200,2,NA
+2016,barr,wenglish,2016-07-22,1234,1244,brw8,g7,glgu,125,1,NA
+2016,barr,wenglish,2016-07-22,1152,1202,brw8,k7,glgu,25,1,NA
+2016,barr,wenglish,2016-07-22,1152,1202,brw8,k7,glgu,200,1,NA
+2016,barr,wenglish,2016-07-22,1152,1202,brw8,k7,glgu,200,1,NA
+2016,barr,wenglish,2016-07-22,1152,1202,brw8,k7,glgu,100,1,NA
+2016,barr,wenglish,2016-07-22,1152,1202,brw8,k7,glgu,25,1,NA
+2016,barr,wenglish,2016-07-22,1152,1202,brw8,k7,glgu,75,1,NA
+2016,barr,blagasse,2016-07-29,943,953,brw8,c7,glgu,50,1,NA
+2016,barr,blagasse,2016-07-29,943,953,brw8,c7,glgu,150,1,NA
+2016,barr,blagasse,2016-07-29,943,953,brw8,c7,glgu,50,3,NA
+2016,barr,blagasse,2016-07-29,943,953,brw8,c7,paja,50,2,NA
+2016,barr,blagasse,2016-07-29,943,953,brw8,c7,poja,100,1,NA
+2016,barr,blagasse,2016-07-29,943,953,brw8,c7,glgu,150,2,NA
+2016,barr,blagasse,2016-07-29,1023,1033,brw8,g7,glgu,50,1,hunting ducklings
+2016,barr,blagasse,2016-07-29,1023,1033,brw8,g7,glgu,100,1,NA
+2016,barr,blagasse,2016-07-29,1023,1033,brw8,g7,glgu,100,2,NA
+2016,barr,blagasse,2016-07-29,1103,1113,brw8,k7,glgu,100,1,NA
+2016,barr,blagasse,2016-07-29,1103,1113,brw8,k7,glgu,200,1,NA
+2017,barr,jcosgrove,2017-06-05,1355,1405,brw0,c7,glgu,200,1,flying to N
+2017,barr,jcosgrove,2017-06-05,1105,1115,brw0,g7,unja,300,1,"to the south, flying"
+2017,barr,jcosgrove,2017-06-05,1245,1255,brw0,k7,glgu,30,1,NA
+2017,barr,jcosgrove,2017-06-05,1245,1255,brw0,k7,paja,100,3,"dark morph. Flew right over my head, vocalizing. May have been chasing each other."
+2017,barr,jcosgrove,2017-06-12,1339,1349,brw0,c7,none,NA,0,NA
+2017,barr,jcosgrove,2017-06-12,1237,1247,brw0,g7,glgu,20,1,NA
+2017,barr,jcosgrove,2017-06-12,1115,1125,brw0,k7,none,NA,0,NA
+2017,barr,jcosgrove,2017-06-19,1310,1320,brw0,c7,paja,50,2,dark morph. Same as at 11:30 now with a light morph (pair?)
+2017,barr,jcosgrove,2017-06-19,1130,1140,brw0,g7,glgu,300,1,NA
+2017,barr,jcosgrove,2017-06-19,1130,1140,brw0,g7,paja,75,1,dark morph
+2017,barr,jcosgrove,2017-06-19,1350,1400,brw0,k7,none,NA,0,NA
+2017,barr,smunters,2017-06-27,1558,1608,brw0,c7,paja,50,1,flying low back and forth over the plot looking at the ground during the entire survey period
+2017,barr,smunters,2017-06-27,1558,1608,brw0,c7,glgu,NA,NA,NA
+2017,barr,smunters,2017-06-27,1735,1745,brw0,g7,glgu,200,2,fly-by
+2017,barr,smunters,2017-06-27,1827,1837,brw0,k7,none,NA,0,NA
+2017,barr,jcosgrove,2017-07-02,1040,1050,brw0,c7,paja,200,1,NA
+2017,barr,jcosgrove,2017-07-02,1040,1050,brw0,c7,glgu,200,1,NA
+2017,barr,jcosgrove,2017-07-02,1605,1610,brw0,g7,none,NA,0,survey only 5 minutes
+2017,barr,jcosgrove,2017-07-02,1230,1240,brw0,k7,glgu,250,1,NA
+2017,barr,wegelhoff,2017-07-09,1303,1313,brw0,c7,cora,100,1,NA
+2017,barr,wegelhoff,2017-07-09,1303,1313,brw0,c7,sacr,175,9,single flock flying north to south
+2017,barr,wegelhoff,2017-07-09,1401,1411,brw0,g7,paja,100,1,NA
+2017,barr,wegelhoff,2017-07-09,1452,1502,brw0,k7,paja,50,1,same individual as G7
+2017,barr,wegelhoff,2017-07-16,1140,1150,brw0,c7,glgu,50,1,NA
+2017,barr,wegelhoff,2017-07-16,1140,1150,brw0,c7,paja,150,2,cooperatively hunted and killed a LALO
+2017,barr,wegelhoff,2017-07-16,1250,1300,brw0,g7,glgu,125,2,NA
+2017,barr,wegelhoff,2017-07-16,1357,1407,brw0,k7,arfo,100,1,NA
+2017,barr,shoepfner,2017-07-23,1030,1040,brw0,c7,none,NA,0,NA
+2017,barr,shoepfner,2017-07-23,1110,1120,brw0,g7,paja,200,1,NA
+2017,barr,shoepfner,2017-07-23,1150,1200,brw0,k7,glgu,100,1,NA
+2017,barr,shoepfner,2017-07-23,1150,1200,brw0,k7,glgu,150,1,NA
+2017,barr,wegelhoff,2017-07-30,1201,1211,brw0,c7,none,NA,0,NA
+2017,barr,wegelhoff,2017-07-30,1110,1120,brw0,g7,cora,50,1,NA
+2017,barr,wegelhoff,2017-07-30,1029,1039,brw0,k7,none,NA,0,NA
+2017,barr,lmakielski,2017-06-05,1007,1017,brw1,c7,none,NA,0,NA
+2017,barr,lmakielski,2017-06-05,1117,1127,brw1,g7,glgu,300,1,"on ground, then flying"
+2017,barr,lmakielski,2017-06-05,1246,1256,brw1,k7,cora,300,1,flying
+2017,barr,lmakielski,2017-06-05,1246,1256,brw1,k7,glgu,300,1,on ground
+2017,barr,lmakielski,2017-06-12,1005,1015,brw1,c7,glgu,300,5,flying and on ground
+2017,barr,lmakielski,2017-06-12,1005,1015,brw1,c7,glgu,200,1,on ground
+2017,barr,lmakielski,2017-06-12,1005,1015,brw1,c7,glgu,300,2,"near GLGU nest on ground, one probably on nest"
+2017,barr,lmakielski,2017-06-12,1005,1015,brw1,c7,paja,150,1,flying low and fast. Dark morph
+2017,barr,lmakielski,2017-06-12,1305,1315,brw1,g7,glgu,290,1,on nest
+2017,barr,lmakielski,2017-06-12,1305,1315,brw1,g7,glgu,200,1,on ground
+2017,barr,lmakielski,2017-06-12,1305,1315,brw1,g7,glgu,300,1,chasing goose?
+2017,barr,lmakielski,2017-06-12,1305,1315,brw1,g7,glgu,300,2,flying
+2017,barr,lmakielski,2017-06-12,1305,1315,brw1,g7,glgu,90,1,flew very low
+2017,barr,lmakielski,2017-06-12,1149,1159,brw1,k7,glgu,210,1,flying low
+2017,barr,lmakielski,2017-06-19,1145,1155,brw1,c7,none,NA,0,NA
+2017,barr,lmakielski,2017-06-19,949,959,brw1,g7,none,NA,0,NA
+2017,barr,lmakielski,2017-06-19,1047,1057,brw1,k7,paja,220,1,"intermediate morph, flying low and fast"
+2017,barr,lmakielski,2017-06-26,1040,1050,brw1,c7,glgu,250,2,on ground to NNW
+2017,barr,lmakielski,2017-06-26,1040,1050,brw1,c7,glgu,270,2,on ground to NNE
+2017,barr,lmakielski,2017-06-26,1040,1050,brw1,c7,glgu,300,1,on ground to NE
+2017,barr,lmakielski,2017-06-26,1040,1050,brw1,c7,paja,180,2,"on ground to NE calling to each other. One light morph, one dark morph"
+2017,barr,lmakielski,2017-06-26,1216,1226,brw1,g7,paja,300,1,on ground. Intermediate morph. To south
+2017,barr,lmakielski,2017-06-26,1313,1323,brw1,k7,paja,300,1,light morph flying low
+2017,barr,lmakielski,2017-06-26,1313,1323,brw1,k7,glgu,100,1,flying low
+2017,barr,blagasse,2017-07-02,1433,1443,brw1,c7,glgu,300,9,on pond N of plot
+2017,barr,blagasse,2017-07-02,1433,1443,brw1,c7,paja,300,3,NA
+2017,barr,blagasse,2017-07-02,1304,1314,brw1,g7,poja,300,1,NA
+2017,barr,blagasse,2017-07-02,1304,1314,brw1,g7,paja,200,1,NA
+2017,barr,blagasse,2017-07-02,1344,1354,brw1,k7,none,NA,0,NA
+2017,barr,smunters,2017-07-09,1230,1245,brw1,c7,glgu,250,2,on ground in SW corner of plot; survey 15 minutes
+2017,barr,smunters,2017-07-09,1230,1245,brw1,c7,paja,300,1,flying SW of plot; survey 15 minutes
+2017,barr,smunters,2017-07-09,1230,1245,brw1,c7,glgu,50,1,flying W; survey 15 minutes
+2017,barr,smunters,2017-07-09,1230,1245,brw1,c7,paja,50,1,flying S; survey 15 minutes
+2017,barr,smunters,2017-07-09,1315,1325,brw1,g7,ltja,300+,46,flock flying over tundra NE of plot
+2017,barr,smunters,2017-07-09,1145,1155,brw1,k7,paja,300,3,flying over E side of plot
+2017,barr,shoepfner,2017-07-16,1255,1305,brw1,c7,none,NA,0,NA
+2017,barr,shoepfner,2017-07-16,1114,1124,brw1,g7,none,NA,0,NA
+2017,barr,shoepfner,2017-07-16,1155,1205,brw1,k7,none,NA,0,NA
+2017,barr,wegelhoff,2017-07-23,1036,1046,brw1,c7,glgu,100,1,NA
+2017,barr,wegelhoff,2017-07-23,1128,1138,brw1,g7,cora,50,1,NA
+2017,barr,wegelhoff,2017-07-23,1215,1225,brw1,k7,glgu,75,2,NA
+2017,barr,shoepfner,2017-07-30,1012,1022,brw1,c7,glgu,100,1,NA
+2017,barr,shoepfner,2017-07-30,1012,1022,brw1,c7,glgu,100,1,NA
+2017,barr,shoepfner,2017-07-30,1012,1022,brw1,c7,glgu,150,3,circling high above plot
+2017,barr,shoepfner,2017-07-30,1057,1107,brw1,g7,none,NA,0,NA
+2017,barr,shoepfner,2017-07-30,1145,1155,brw1,k7,none,NA,0,NA
+2017,barr,lmakielski,2017-06-05,1410,1420,brw2,c7,none,NA,0,NA
+2017,barr,lmakielski,2017-06-05,1558,1608,brw2,g7,none,NA,0,NA
+2017,barr,lmakielski,2017-06-05,1656,1706,brw2,k7,none,NA,0,NA
+2017,barr,lmakielski,2017-06-12,1657,1707,brw2,c7,glgu,300,1,flying and diving
+2017,barr,lmakielski,2017-06-12,1553,1603,brw2,g7,glgu,300,1,flying by
+2017,barr,lmakielski,2017-06-12,1446,1456,brw2,k7,paja,300,3,"two dark morph, one light morph"
+2017,barr,lmakielski,2017-06-19,1418,1428,brw2,c7,none,NA,0,NA
+2017,barr,lmakielski,2017-06-19,1620,1630,brw2,g7,paja,300,1,undulating flight
+2017,barr,lmakielski,2017-06-19,1728,1738,brw2,k7,glgu,300,1,flying by
+2017,barr,lmakielski,2017-06-26,1807,1817,brw2,c7,glgu,20,1,flying over
+2017,barr,lmakielski,2017-06-26,1715,1725,brw2,g7,none,NA,0,NA
+2017,barr,lmakielski,2017-06-26,1512,1522,brw2,k7,glgu,300,1,perched on snow fence then flying
+2017,barr,lmakielski,2017-06-26,1512,1522,brw2,k7,glgu,280,1,on ground--possibly on nest (off plot)
+2017,barr,lmakielski,2017-06-26,1512,1522,brw2,k7,paja,250,1,on ground
+2017,barr,blagasse,2017-07-02,1220,1230,brw2,c7,none,NA,0,NA
+2017,barr,blagasse,2017-07-02,1138,1148,brw2,g7,none,NA,0,NA
+2017,barr,blagasse,2017-07-02,1050,1100,brw2,k7,glgu,250,3,NA
+2017,barr,blagasse,2017-07-02,1050,1100,brw2,k7,glgu,200,1,NA
+2017,barr,blagasse,2017-07-02,1050,1100,brw2,k7,glgu,100,1,NA
+2017,barr,blagasse,2017-07-02,1050,1100,brw2,k7,glgu,150,2,NA
+2017,barr,smunters,2017-07-09,1425,1435,brw2,c7,none,NA,0,NA
+2017,barr,smunters,2017-07-09,1505,1515,brw2,g7,none,NA,0,NA
+2017,barr,smunters,2017-07-09,1625,1635,brw2,k7,paja,200,1,flying by S edge of plot
+2017,barr,smunters,2017-07-09,1625,1635,brw2,k7,glgu,300,1,flying by W edge of plot
+2017,barr,shoepfner,2017-07-16,1053,1103,brw2,c7,paja,150,1,NA
+2017,barr,shoepfner,2017-07-16,1325,1335,brw2,g7,glgu,100,1,NA
+2017,barr,shoepfner,2017-07-16,1325,1335,brw2,g7,glgu,200,1,NA
+2017,barr,shoepfner,2017-07-16,1325,1335,brw2,g7,glgu,150,2,NA
+2017,barr,shoepfner,2017-07-16,1009,1019,brw2,k7,paja,300,1,NA
+2017,barr,shoepfner,2017-07-16,1009,1019,brw2,k7,glgu,200,1,NA
+2017,barr,shoepfner,2017-07-16,1009,1019,brw2,k7,glgu,200,1,NA
+2017,barr,shoepfner,2017-07-16,1009,1019,brw2,k7,glgu,200,1,NA
+2017,barr,wegelhoff,2017-07-23,1239,1249,brw2,c7,none,NA,0,NA
+2017,barr,wegelhoff,2017-07-23,1321,1331,brw2,g7,paja,50,1,NA
+2017,barr,wegelhoff,2017-07-23,1321,1331,brw2,g7,glgu,100,3,aggressive behavior (young nearby?)
+2017,barr,wegelhoff,2017-07-23,1411,1421,brw2,k7,none,NA,0,NA
+2017,barr,shoepfner,2017-07-30,1223,1233,brw2,c7,glgu,300,2,NA
+2017,barr,shoepfner,2017-07-30,950,1000,brw2,g7,glgu,100,1,NA
+2017,barr,shoepfner,2017-07-30,950,1000,brw2,g7,cora,300,1,NA
+2017,barr,shoepfner,2017-07-30,950,1000,brw2,g7,glgu,200,1,NA
+2017,barr,shoepfner,2017-07-30,950,1000,brw2,g7,paja,200,1,NA
+2017,barr,shoepfner,2017-07-30,1312,1322,brw2,k7,none,NA,0,NA
+2017,barr,smunters,2017-06-05,1205,1215,brw3,c7,none,NA,0,NA
+2017,barr,smunters,2017-06-05,1105,1115,brw3,g7,poja,200,1,sitting on ground
+2017,barr,smunters,2017-06-05,1105,1115,brw3,g7,glgu,300,1,fly-by
+2017,barr,smunters,2017-06-05,1025,1035,brw3,k7,none,NA,0,NA
+2017,barr,smunters,2017-06-12,1111,1121,brw3,c7,none,NA,0,NA
+2017,barr,smunters,2017-06-12,1213,1223,brw3,g7,glgu,300,1,NA
+2017,barr,smunters,2017-06-12,1322,1332,brw3,k7,poja,300,1,NA
+2017,barr,smunters,2017-06-12,1322,1332,brw3,k7,paja,100,1,NA
+2017,barr,smunters,2017-06-12,1322,1332,brw3,k7,glgu,50,1,NA
+2017,barr,smunters,2017-06-19,1213,1223,brw3,c7,arfo,200,1,running along W side of plot
+2017,barr,smunters,2017-06-19,1313,1323,brw3,g7,glgu,300,1,flyover
+2017,barr,smunters,2017-06-19,1026,1036,brw3,k7,none,NA,0,NA
+2017,barr,wegelhoff,2017-06-27,1500,1510,brw3,c7,glgu,200,1,NA
+2017,barr,wegelhoff,2017-06-27,1408,1418,brw3,g7,cora,200,1,NA
+2017,barr,wegelhoff,2017-06-27,1305,1315,brw3,k7,poja,150,1,NA
+2017,barr,lmakielski,2017-07-02,1538,1548,brw3,c7,glgu,300,1,flying high
+2017,barr,lmakielski,2017-07-02,1618,1628,brw3,g7,none,NA,0,NA
+2017,barr,lmakielski,2017-07-02,1456,1506,brw3,k7,ltja,300,1,flying by
+2017,barr,lmakielski,2017-07-02,1456,1506,brw3,k7,poja,250,1,flying around with 4 PAJAs
+2017,barr,lmakielski,2017-07-02,1456,1506,brw3,k7,paja,250,4,"flying low, calling, landing"
+2017,barr,lmakielski,2017-07-02,1456,1506,brw3,k7,glgu,260,1,on ground then took off with jaegers
+2017,barr,lmakielski,2017-07-02,1456,1506,brw3,k7,paja,300,2,flying around each other
+2017,barr,jcosgrove,2017-07-09,1226,1236,brw3,c7,glgu,200,1,NA
+2017,barr,jcosgrove,2017-07-09,1226,1236,brw3,c7,ltja,350,6,NA
+2017,barr,jcosgrove,2017-07-09,1226,1236,brw3,c7,glgu,300,2,NA
+2017,barr,jcosgrove,2017-07-09,1310,1320,brw3,g7,ltja,350,6,NA
+2017,barr,jcosgrove,2017-07-09,1310,1320,brw3,g7,glgu,300,2,NA
+2017,barr,jcosgrove,2017-07-09,1419,1429,brw3,k7,ltja,350,31,NA
+2017,barr,jcosgrove,2017-07-09,1419,1429,brw3,k7,glgu,200,1,NA
+2017,barr,jcosgrove,2017-07-09,1419,1429,brw3,k7,glgu,200,1,NA
+2017,barr,lmakielski,2017-07-16,1422,1432,brw3,c7,glgu,300,1,flying and swooping low
+2017,barr,lmakielski,2017-07-16,1526,1536,brw3,g7,glgu,300,1,fly-by
+2017,barr,lmakielski,2017-07-16,1206,1216,brw3,k7,none,NA,0,NA
+2017,barr,smunters,2017-07-23,1100,1110,brw3,c7,glgu,150,1,flying east
+2017,barr,smunters,2017-07-23,1100,1110,brw3,c7,glgu,100,1,flying south
+2017,barr,smunters,2017-07-23,1140,1150,brw3,g7,none,NA,0,NA
+2017,barr,smunters,2017-07-23,1220,1230,brw3,k7,glgu,50,1,flying east
+2017,barr,blagasse,2017-07-30,1145,1155,brw3,c7,glgu,100,1,NA
+2017,barr,blagasse,2017-07-30,1059,1109,brw3,g7,none,NA,0,NA
+2017,barr,blagasse,2017-07-30,1225,1235,brw3,k7,none,NA,0,NA
+2017,barr,smunters,2017-06-05,1334,1344,brw5,c7,paja,250,3,flying around over the plot during duration of the survey
+2017,barr,smunters,2017-06-05,1334,1344,brw5,c7,glgu,300,1,fly-by
+2017,barr,smunters,2017-06-05,1425,1435,brw5,g7,glgu,300,1,fly-by
+2017,barr,smunters,2017-06-05,1425,1435,brw5,g7,paja,300,1,fly-by
+2017,barr,smunters,2017-06-05,1425,1435,brw5,g7,paja,100,1,flying over plot and landed
+2017,barr,smunters,2017-06-05,1547,1557,brw5,k7,paja,300,1,fly-by
+2017,barr,smunters,2017-06-12,1423,1433,brw5,c7,paja,200,1,fly-by
+2017,barr,smunters,2017-06-12,1627,1637,brw5,g7,glgu,150,1,fly-by
+2017,barr,smunters,2017-06-12,1732,1742,brw5,k7,glgu,300,1,fly-by
+2017,barr,smunters,2017-06-12,1732,1742,brw5,k7,poja,100,2,roosting
+2017,barr,smunters,2017-06-19,1458,1508,brw5,c7,noha,300,1,attacking waterfowl in a pond off plot
+2017,barr,smunters,2017-06-19,1458,1508,brw5,c7,paja,100,1,fly-by
+2017,barr,smunters,2017-06-19,1600,1610,brw5,g7,paja,50,1,fly-by
+2017,barr,smunters,2017-06-19,1723,1733,brw5,k7,none,NA,0,NA
+2017,barr,ktsujita,2017-06-29,1354,1404,brw5,c7,none,NA,0,NA
+2017,barr,ktsujita,2017-06-29,1254,1304,brw5,g7,paja,50,1,flying
+2017,barr,ktsujita,2017-06-29,1254,1304,brw5,g7,glgu,250,1,flying
+2017,barr,ktsujita,2017-06-29,1226,1236,brw5,k7,glgu,70,1,flying
+2017,barr,ktsujita,2017-06-29,1226,1236,brw5,k7,paja,170,1,flying
+2017,barr,smunters,2017-07-02,1628,1638,brw5,c7,none,NA,0,NA
+2017,barr,smunters,2017-07-02,1527,1537,brw5,g7,glgu,150,1,flying by S of point
+2017,barr,smunters,2017-07-02,1442,1452,brw5,k7,glgu,250,2,flying by S of point
+2017,barr,shoepfner,2017-07-09,1224,1234,brw5,c7,glgu,200,1,NA
+2017,barr,shoepfner,2017-07-09,1224,1234,brw5,c7,glgu,100,1,NA
+2017,barr,shoepfner,2017-07-09,1134,1144,brw5,g7,none,NA,0,NA
+2017,barr,shoepfner,2017-07-09,1039,1049,brw5,k7,paja,150,2,NA
+2017,barr,lmakielski,2017-07-16,1125,1135,brw5,c7,paja,130,1,"dark morph on ground, then flying low"
+2017,barr,lmakielski,2017-07-16,1125,1135,brw5,c7,glgu,300,1,flying and swooping low. Swooped at by light morph paja
+2017,barr,lmakielski,2017-07-16,1125,1135,brw5,c7,glgu,300,1,flying high
+2017,barr,lmakielski,2017-07-16,1125,1135,brw5,c7,paja,300,1,light morph flying and swooping low. Swooped at glgu
+2017,barr,lmakielski,2017-07-16,1606,1616,brw5,g7,glgu,150,1,fly-by
+2017,barr,lmakielski,2017-07-16,1606,1616,brw5,g7,glgu,200,1,fly-by
+2017,barr,lmakielski,2017-07-16,1606,1616,brw5,g7,paja,170,1,dark morph flying and swooping low
+2017,barr,lmakielski,2017-07-16,1606,1616,brw5,g7,glgu,50,1,flying high
+2017,barr,lmakielski,2017-07-16,1606,1616,brw5,g7,glgu,300,1,flying high
+2017,barr,lmakielski,2017-07-16,1606,1616,brw5,g7,snow,300,1,on ground
+2017,barr,lmakielski,2017-07-16,1606,1616,brw5,g7,glgu,180,2,fly-by
+2017,barr,lmakielski,2017-07-16,1717,1727,brw5,k7,none,NA,0,NA
+2017,barr,smunters,2017-07-23,1240,1250,brw5,c7,none,NA,0,NA
+2017,barr,smunters,2017-07-23,1320,1330,brw5,g7,glgu,300,3,flying south
+2017,barr,smunters,2017-07-23,1320,1330,brw5,g7,glgu,60,1,flying sw
+2017,barr,smunters,2017-07-23,1320,1330,brw5,g7,paja,300,1,circling edge of plot
+2017,barr,smunters,2017-07-23,1320,1330,brw5,g7,paja,200,2,flying north
+2017,barr,smunters,2017-07-23,1400,1410,brw5,k7,paja,0,2,"pair circling and dive bombing, found jaeger chick 100m away to the NE between K5 and K6"
+2017,barr,smunters,2017-07-23,1400,1410,brw5,k7,glgu,300,1,flying southwest
+2017,barr,smunters,2017-07-23,1400,1410,brw5,k7,glgu,150,1,flying south
+2017,barr,blagasse,2017-07-30,1251,1301,brw5,c7,glgu,300,1,NA
+2017,barr,blagasse,2017-07-30,1035,1045,brw5,g7,glgu,100,1,NA
+2017,barr,blagasse,2017-07-30,1402,1412,brw5,k7,paja,300,2,pair nested south of plot
+2017,barr,blagasse,2017-07-30,1402,1412,brw5,k7,paja,300,1,NA
+2017,barr,jcosgrove,2017-06-05,1755,1805,brw8,c7,glgu,50,2,NA
+2017,barr,jcosgrove,2017-06-05,1755,1805,brw8,c7,glgu,300,2,NA
+2017,barr,jcosgrove,2017-06-05,1840,1850,brw8,g7,glgu,150,2,NA
+2017,barr,jcosgrove,2017-06-05,1840,1850,brw8,g7,glgu,200,3,NA
+2017,barr,jcosgrove,2017-06-05,1923,1933,brw8,k7,glgu,50,1,NA
+2017,barr,jcosgrove,2017-06-05,1923,1933,brw8,k7,glgu,300,2,NA
+2017,barr,jcosgrove,2017-06-12,1720,1730,brw8,c7,glgu,100,3,NA
+2017,barr,jcosgrove,2017-06-12,1720,1730,brw8,c7,glgu,200,1,NA
+2017,barr,jcosgrove,2017-06-12,1843,1853,brw8,g7,glgu,100,1,NA
+2017,barr,jcosgrove,2017-06-12,1843,1853,brw8,g7,glgu,200,1,NA
+2017,barr,jcosgrove,2017-06-12,2139,2149,brw8,k7,glgu,200,1,NA
+2017,barr,jcosgrove,2017-06-19,1618,1628,brw8,c7,glgu,50,1,NA
+2017,barr,jcosgrove,2017-06-19,1618,1628,brw8,c7,paja,100,2,both light morph
+2017,barr,jcosgrove,2017-06-19,1820,1830,brw8,g7,pefa,75,1,"peregrine chased by nesting jaeger, flew N off-plot "
+2017,barr,jcosgrove,2017-06-19,1820,1830,brw8,g7,paja,75,1,jaeger nest on plot (light morph)
+2017,barr,jcosgrove,2017-06-19,1820,1830,brw8,g7,paja,100,2,flying together over lake on W side of plot. Both dark morph
+2017,barr,jcosgrove,2017-06-19,1933,1943,brw8,k7,paja,200,2,pair nesting near K11 (light morph)
+2017,barr,jcosgrove,2017-06-19,1933,1943,brw8,k7,glgu,100,1,NA
+2017,barr,smunters,2017-06-27,1310,1320,brw8,c7,paja,50,2,NA
+2017,barr,smunters,2017-06-27,1310,1320,brw8,c7,pefa,0,1,"overhead, jaegers chasing PEFA off plot"
+2017,barr,smunters,2017-06-27,1213,1223,brw8,g7,glgu,50,1,fly-by
+2017,barr,smunters,2017-06-27,1213,1223,brw8,g7,paja,200,1,NA
+2017,barr,smunters,2017-06-27,1037,1047,brw8,k7,paja,300,2,NA
+2017,barr,wegelhoff,2017-07-02,1050,1100,brw8,c7,glgu,150,3,NA
+2017,barr,wegelhoff,2017-07-02,1050,1100,brw8,c7,paja,50,1,NA
+2017,barr,wegelhoff,2017-07-02,1159,1209,brw8,g7,glgu,100,2,NA
+2017,barr,wegelhoff,2017-07-02,1159,1209,brw8,g7,glgu,10,1,NA
+2017,barr,wegelhoff,2017-07-02,1159,1209,brw8,g7,paja,100,1,same as C7 individual
+2017,barr,wegelhoff,2017-07-02,1307,1317,brw8,k7,glgu,25,1,NA
+2017,barr,lmakielski,2017-07-09,1124,1134,brw8,c7,glgu,270,1,on ground
+2017,barr,lmakielski,2017-07-09,1124,1134,brw8,c7,glgu,300,1,flying high
+2017,barr,lmakielski,2017-07-09,1235,1245,brw8,g7,none,NA,0,NA
+2017,barr,lmakielski,2017-07-09,1659,1709,brw8,k7,paja,75,1,light morph flying low
+2017,barr,smunters,2017-07-16,1456,1506,brw8,c7,glgu,100,1,flying south
+2017,barr,smunters,2017-07-16,1456,1506,brw8,c7,glgu,200,1,flying southeast
+2017,barr,smunters,2017-07-16,1456,1506,brw8,c7,glgu,75,2,flying west
+2017,barr,smunters,2017-07-16,1456,1506,brw8,c7,glgu,50,2,flying north
+2017,barr,smunters,2017-07-16,1703,1713,brw8,g7,glgu,300,1,flying west
+2017,barr,smunters,2017-07-16,1703,1713,brw8,g7,paja,25,1,landed at a bent flag failed nest and picked at nest cup
+2017,barr,smunters,2017-07-16,1845,1855,brw8,k7,arfo,300,1,"heading east off plot, ran northeast from south end of plot in 10 min prior to survey"
+2017,barr,smunters,2017-07-16,1845,1855,brw8,k7,paja,25,1,swooping low over plot
+2017,barr,lmakielski,2017-07-23,1210,1220,brw8,c7,glgu,300,1,fly-by
+2017,barr,lmakielski,2017-07-23,1210,1220,brw8,c7,glgu,250,1,flying low
+2017,barr,lmakielski,2017-07-23,1210,1220,brw8,c7,glgu,200,1,fly-by
+2017,barr,lmakielski,2017-07-23,1210,1220,brw8,c7,glgu,300,1,fly-by
+2017,barr,lmakielski,2017-07-23,1126,1136,brw8,g7,glgu,250,1,fly-by
+2017,barr,lmakielski,2017-07-23,1126,1136,brw8,g7,glgu,75,1,fly-by
+2017,barr,lmakielski,2017-07-23,1126,1136,brw8,g7,glgu,280,2,fly-by
+2017,barr,lmakielski,2017-07-23,1309,1319,brw8,k7,glgu,300,1,fly-by
+2017,barr,lmakielski,2017-07-23,1309,1319,brw8,k7,glgu,200,1,fly-by
+2017,barr,lmakielski,2017-07-23,1309,1319,brw8,k7,paja,300,1,dark morph flying low
+2017,barr,lmakielski,2017-07-23,1309,1319,brw8,k7,paja,150,1,"on ground, then joined other paja"
+2017,barr,lmakielski,2017-07-23,1309,1319,brw8,k7,glgu,200,1,fly-by
+2017,barr,lmakielski,2017-07-23,1309,1319,brw8,k7,glgu,50,1,fly-by
+2017,barr,lmakielski,2017-07-23,1309,1319,brw8,k7,glgu,100,1,fly-by
+2017,barr,lmakielski,2017-07-23,1309,1319,brw8,k7,glgu,250,4,fly-by
+2017,barr,smunters,2017-07-30,1152,1202,brw8,c7,glgu,100,1,flying south
+2017,barr,smunters,2017-07-30,1152,1202,brw8,c7,glgu,75,1,flying north
+2017,barr,smunters,2017-07-30,1152,1202,brw8,c7,glgu,25,1,circling me and calling for ~2 minutes
+2017,barr,smunters,2017-07-30,1152,1202,brw8,c7,glgu,75,1,flying north
+2017,barr,smunters,2017-07-30,1112,1122,brw8,g7,glgu,200,1,flying northwest
+2017,barr,smunters,2017-07-30,1112,1122,brw8,g7,glgu,50,1,flying northwest
+2017,barr,smunters,2017-07-30,1112,1122,brw8,g7,glgu,300,1,flying west
+2017,barr,smunters,2017-07-30,1030,1040,brw8,k7,glgu,200,1,flying southwest
+2017,barr,smunters,2017-07-30,1030,1040,brw8,k7,glgu,250,1,flying south 
+2017,barr,smunters,2017-07-30,1030,1040,brw8,k7,glgu,175,5,flying west
+2017,barr,smunters,2017-07-30,1030,1040,brw8,k7,glgu,30,1,flying south
+2017,barr,smunters,2017-07-30,1030,1040,brw8,k7,glgu,25,1,circling overhead
+2018,barr,blagasse,2018-06-11,1715,1725,brw0,c7,none,NA,0,NA
+2018,barr,blagasse,2018-06-11,1600,1610,brw0,g7,poja,300,1,NA
+2018,barr,blagasse,2018-06-11,1438,1448,brw0,k7,none,NA,0,NA
+2018,barr,pmaleko,2018-06-18,1641,1651,brw0,c7,none,NA,0,"fog, poor visibility, only see ~200m"
+2018,barr,pmaleko,2018-06-18,1538,1548,brw0,g7,none,NA,0,"fog, poor visibility, only see ~150m"
+2018,barr,pmaleko,2018-06-18,1436,1446,brw0,c7,cora,80,1,NA
+2018,barr,pmaleko,2018-06-25,1507,1517,brw0,c7,glgu,200,2,NA
+2018,barr,pmaleko,2018-06-25,1507,1517,brw0,c7,cora,400,2,NA
+2018,barr,pmaleko,2018-06-25,1452,1502,brw0,g7,none,NA,0,NA
+2018,barr,pmaleko,2018-06-25,1417,1427,brw0,k7,poja,250,3,NA
+2018,barr,blagasse,2018-07-01,1343,1353,brw0,c7,cora,200,2,NA
+2018,barr,blagasse,2018-07-01,1343,1353,brw0,c7,paja,250,1,NA
+2018,barr,blagasse,2018-07-01,1210,1220,brw0,g7,none,NA,0,NA
+2018,barr,blagasse,2018-07-01,1110,1120,brw0,k7,none,NA,0,NA
+2018,barr,blagasse,2018-07-08,1700,1710,brw0,c7,poja,150,1,NA
+2018,barr,blagasse,2018-07-08,1700,1710,brw0,c7,paja,100,1,NA
+2018,barr,blagasse,2018-07-08,1740,1750,brw0,g7,none,NA,0,NA
+2018,barr,blagasse,2018-07-08,1815,1825,brw0,k7,none,NA,0,NA
+2018,barr,blagasse,2018-07-15,1149,1159,brw0,c7,none,NA,0,NA
+2018,barr,blagasse,2018-07-15,1109,1119,brw0,g7,none,NA,0,NA
+2018,barr,blagasse,2018-07-15,1025,1035,brw0,k7,glgu,100,1,NA
+2018,barr,blagasse,2018-07-15,1025,1035,brw0,k7,glgu,250,1,NA
+2018,barr,tgetti,2018-07-22,1221,1231,brw0,c7,paja,60,1,ground
+2018,barr,tgetti,2018-07-22,1221,1231,brw0,c7,paja,100,2,NA
+2018,barr,tgetti,2018-07-22,1221,1231,brw0,c7,glgu,500,17,NA
+2018,barr,tgetti,2018-07-22,1221,1231,brw0,c7,poja,50,1,NA
+2018,barr,tgetti,2018-07-22,1221,1231,brw0,c7,paja,100,1,NA
+2018,barr,tgetti,2018-07-22,1221,1231,brw0,c7,ltja,500,8,NA
+2018,barr,tgetti,2018-07-22,1221,1231,brw0,c7,paja,500,3,NA
+2018,barr,tgetti,2018-07-22,1300,1310,brw0,g7,paja,200,2,NA
+2018,barr,tgetti,2018-07-22,1300,1310,brw0,g7,poja,300,1,NA
+2018,barr,tgetti,2018-07-22,1300,1310,brw0,g7,glgu,100,8,NA
+2018,barr,tgetti,2018-07-22,1300,1310,brw0,g7,paja,100,2,NA
+2018,barr,tgetti,2018-07-22,1300,1310,brw0,g7,ltja,300,1,NA
+2018,barr,tgetti,2018-07-22,1300,1310,brw0,g7,poja,100,1,NA
+2018,barr,tgetti,2018-07-22,1420,1430,brw0,k7,snow,600,1,NA
+2018,barr,tgetti,2018-07-22,1420,1430,brw0,k7,paja,400,1,ground
+2018,barr,tgetti,2018-07-22,1420,1430,brw0,k7,paja,400,1,NA
+2018,barr,tgetti,2018-07-22,1420,1430,brw0,k7,snow,500,1,NA
+2018,barr,tgetti,2018-07-22,1420,1430,brw0,k7,poja,500,1,NA
+2018,barr,tgetti,2018-07-22,1420,1430,brw0,k7,glgu,600,4,NA
+2018,barr,wegelhoff,2018-07-29,1131,1141,brw0,c7,glgu,50,1,NA
+2018,barr,wegelhoff,2018-07-29,1131,1141,brw0,c7,glgu,100,2,NA
+2018,barr,wegelhoff,2018-07-29,1131,1141,brw0,c7,glgu,0,1,NA
+2018,barr,wegelhoff,2018-07-29,1131,1141,brw0,c7,glgu,150,3,NA
+2018,barr,wegelhoff,2018-07-29,1049,1059,brw0,g7,ltja,150,2,NA
+2018,barr,wegelhoff,2018-07-29,1049,1059,brw0,g7,glgu,75,1,NA
+2018,barr,wegelhoff,2018-07-29,1007,1017,brw0,k7,glgu,100,3,NA
+2018,barr,wegelhoff,2018-07-29,1007,1017,brw0,k7,glgu,10,1,NA
+2018,barr,lmakielski,2018-06-11,1458,1508,brw1,c7,none,NA,0,NA
+2018,barr,lmakielski,2018-06-11,1528,1538,brw1,g7,none,NA,0,NA
+2018,barr,lmakielski,2018-06-11,1600,1610,brw1,k7,paja,250,1,"sitting, either a poja or paja - confirmed as paja when seen late"
+2018,barr,dbrown,2018-06-25,1325,1335,brw1,c7,none,NA,0,NA
+2018,barr,dbrown,2018-06-25,1243,1253,brw1,g7,paja,400,2,nesting
+2018,barr,dbrown,2018-06-25,1243,1253,brw1,g7,cora,400,2,NA
+2018,barr,dbrown,2018-06-25,1130,1140,brw1,k7,paja,300,2,paja chasing cora.  Paja nesting
+2018,barr,dbrown,2018-06-25,1130,1140,brw1,k7,cora,150,2,NA
+2018,barr,dbrown,2018-06-25,1130,1140,brw1,k7,glgu,150,3,NA
+2018,barr,pmaleko,2018-07-01,1000,1010,brw1,c7,glgu,75,1,NA
+2018,barr,pmaleko,2018-07-01,1113,1123,brw1,g7,poja,125,2,NA
+2018,barr,pmaleko,2018-07-01,1033,1043,brw1,k7,glgu,100,7,NA
+2018,barr,pmaleko,2018-07-08,900,910,brw1,c7,glgu,75,1,NA
+2018,barr,pmaleko,2018-07-08,900,910,brw1,c7,poja,15,1,NA
+2018,barr,pmaleko,2018-07-08,900,910,brw1,c7,glgu,35,1,NA
+2018,barr,pmaleko,2018-07-08,900,910,brw1,c7,glgu,150,1,NA
+2018,barr,pmaleko,2018-07-08,900,910,brw1,c7,poja,325,2,NA
+2018,barr,pmaleko,2018-07-08,920,930,brw1,g7,none,NA,0,NA
+2018,barr,pmaleko,2018-07-08,941,951,brw1,k7,cora,300,2,recorded as amcr
+2018,barr,pmaleko,2018-07-08,941,951,brw1,k7,paja,75,1,NA
+2018,barr,pmaleko,2018-07-15,1220,1230,brw1,c7,none,NA,0,NA
+2018,barr,pmaleko,2018-07-15,1240,1250,brw1,g7,glgu,150,6,NA
+2018,barr,pmaleko,2018-07-15,1240,1250,brw1,g7,poja,250,2,NA
+2018,barr,pmaleko,2018-07-15,1303,1313,brw1,k7,glgu,300,3,NA
+2018,barr,pmaleko,2018-07-15,1303,1313,brw1,k7,poja,250,2,NA
+2018,barr,pmaleko,2018-07-22,1457,1507,brw1,c7,paja,150,1,NA
+2018,barr,pmaleko,2018-07-22,1457,1507,brw1,c7,poja,125,1,NA
+2018,barr,pmaleko,2018-07-22,1457,1507,brw1,c7,ltja,225,6,NA
+2018,barr,pmaleko,2018-07-22,1442,1452,brw1,g7,poja,350,1,NA
+2018,barr,pmaleko,2018-07-22,1442,1452,brw1,g7,paja,125,2,NA
+2018,barr,pmaleko,2018-07-22,1427,1437,brw1,k7,snow,700,1,NA
+2018,barr,pmaleko,2018-07-29,1353,1403,brw1,c7,poja,75,1,NA
+2018,barr,pmaleko,2018-07-29,1353,1403,brw1,c7,glgu,700,8,NA
+2018,barr,pmaleko,2018-07-29,1414,1424,brw1,g7,snow,1000,1,NA
+2018,barr,pmaleko,2018-07-29,1438,1448,brw1,k7,poja,150,1,NA
+2018,barr,dli,2018-06-11,1620,1630,brw2,c7,none,NA,0,NA
+2018,barr,lmakielski,2018-06-11,1731,1741,brw2,g7,paja,120,2,dark and light flying low
+2018,barr,lmakielski,2018-06-11,1731,1741,brw2,g7,snow,280,1,on nest
+2018,barr,lmakielski,2018-06-11,1800,1810,brw2,k7,snow,300,1,female on ground. off nest
+2018,barr,lmakielski,2018-06-11,1800,1810,brw2,k7,poja,150,1,light morph
+2018,barr,dbrown,2018-06-25,1600,1610,brw2,c7,poja,50,1,NA
+2018,barr,dbrown,2018-06-25,1536,1546,brw2,g7,none,NA,0,NA
+2018,barr,dbrown,2018-06-25,1819,1829,brw2,k7,glgu,100,1,NA
+2018,barr,sgale,2018-07-01,1052,1102,brw2,c7,glgu,200,2,NA
+2018,barr,sgale,2018-07-01,1052,1102,brw2,c7,poja,300,1,NA
+2018,barr,sgale,2018-07-01,1035,1045,brw2,g7,snow,150,2,NA
+2018,barr,sgale,2018-07-01,1035,1045,brw2,g7,glgu,500,2,NA
+2018,barr,sgale,2018-07-01,1017,1027,brw2,k7,poja,300,1,NA
+2018,barr,sgale,2018-07-01,1017,1027,brw2,k7,snow,400,1,NA
+2018,barr,sgale,2018-07-01,1017,1027,brw2,k7,glgu,500,1,NA
+2018,barr,sgale,2018-07-01,1017,1027,brw2,k7,glgu,800,10,NA
+2018,barr,sgale,2018-07-01,1017,1027,brw2,k7,snow,100,1,NA
+2018,barr,dbrown,2018-07-08,955,1005,brw2,c7,none,NA,0,NA
+2018,barr,dbrown,2018-07-08,920,930,brw2,g7,none,NA,0,NA
+2018,barr,dbrown,2018-07-08,844,854,brw2,k7,glgu,100,1,diving at snowy
+2018,barr,pmaleko,2018-07-15,1140,1150,brw2,c7,cora,350,2,NA
+2018,barr,pmaleko,2018-07-15,1112,1122,brw2,g7,none,NA,0,NA
+2018,barr,pmaleko,2018-07-15,1047,1057,brw2,k7,snow,125,2,NA
+2018,barr,pmaleko,2018-07-22,1140,1150,brw2,c7,glgu,200,23,NA
+2018,barr,pmaleko,2018-07-22,1140,1150,brw2,c7,snow,400,1,NA
+2018,barr,pmaleko,2018-07-22,1205,1215,brw2,g7,none,NA,0,NA
+2018,barr,pmaleko,2018-07-22,1236,1246,brw2,k7,poja,200,2,NA
+2018,barr,tgetti,2018-07-29,1421,1431,brw2,c7,glgu,100,1,NA
+2018,barr,tgetti,2018-07-29,1421,1431,brw2,c7,snow,300,1,same as k7
+2018,barr,tgetti,2018-07-29,1421,1431,brw2,c7,glgu,500,24,NA
+2018,barr,tgetti,2018-07-29,1421,1431,brw2,c7,unja,600,1,on plot 1
+2018,barr,tgetti,2018-07-29,1355,1405,brw2,g7,glgu,100,5,NA
+2018,barr,tgetti,2018-07-29,1355,1405,brw2,g7,poja,600,1,by plot 1
+2018,barr,tgetti,2018-07-29,1326,1336,brw2,k7,glgu,50,4,"displaying, broody"
+2018,barr,tgetti,2018-07-29,1326,1336,brw2,k7,snow,600,1,on the ground
+2018,barr,tgetti,2018-07-29,1326,1336,brw2,k7,paja,600,2,NA
+2018,barr,tgetti,2018-07-29,1326,1336,brw2,k7,poja,1000,1,NA
+2018,barr,dbrown,2018-06-11,1150,1200,brw3,c7,none,NA,0,NA
+2018,barr,dbrown,2018-06-11,1230,1240,brw3,g7,arfo,500,1,just beyond dune
+2018,barr,dbrown,2018-06-11,1310,1320,brw3,k7,none,NA,0,NA
+2018,barr,sgale,2018-06-18,1330,1340,brw3,c7,poja,500,1,NA
+2018,barr,sgale,2018-06-18,1440,1450,brw3,g7,glgu,200,1,NA
+2018,barr,sgale,2018-06-18,1440,1450,brw3,g7,poja,100,1,NA
+2018,barr,sgale,2018-06-18,1500,1510,brw3,k7,none,NA,0,NA
+2018,barr,wegelhoff,2018-07-01,1235,1245,brw3,c7,glgu,150,2,NA
+2018,barr,wegelhoff,2018-07-01,1150,1200,brw3,g7,glgu,0,1,NA
+2018,barr,wegelhoff,2018-07-01,1150,1200,brw3,g7,glgu,50,1,NA
+2018,barr,wegelhoff,2018-07-01,1150,1200,brw3,g7,poja,200,1,perhaps same as k7
+2018,barr,wegelhoff,2018-07-01,1102,1112,brw3,k7,poja,200,1,mobbing paja
+2018,barr,wegelhoff,2018-07-01,1102,1112,brw3,k7,paja,200,2,NA
+2018,barr,wegelhoff,2018-07-08,1345,1355,brw3,c7,glgu,100,2,NA
+2018,barr,wegelhoff,2018-07-08,1345,1355,brw3,c7,paja,150,1,NA
+2018,barr,wegelhoff,2018-07-08,1428,1438,brw3,g7,paja,50,1,likely same as c7
+2018,barr,wegelhoff,2018-07-08,1303,1313,brw3,k7,none,NA,0,NA
+2018,barr,dbrown,2018-07-15,1428,1438,brw3,c7,poja,60,1,NA
+2018,barr,dbrown,2018-07-15,1446,1456,brw3,g7,none,NA,0,NA
+2018,barr,dbrown,2018-07-15,1339,1349,brw3,k7,none,NA,0,NA
+2018,barr,dbrown,2018-07-22,1445,1455,brw3,c7,glgu,100,1,NA
+2018,barr,dbrown,2018-07-22,1445,1455,brw3,c7,glgu,200,1,NA
+2018,barr,dbrown,2018-07-22,1423,1433,brw3,g7,paja,90,1,NA
+2018,barr,dbrown,2018-07-22,1423,1433,brw3,g7,poja,100,23,NA
+2018,barr,dbrown,2018-07-22,1423,1433,brw3,g7,glgu,60,1,NA
+2018,barr,dbrown,2018-07-22,1423,1433,brw3,g7,glgu,100,1,NA
+2018,barr,dbrown,2018-07-22,1405,1415,brw3,k7,poja,75,1,NA
+2018,barr,dbrown,2018-07-22,1405,1415,brw3,k7,ltja,180,1,NA
+2018,barr,dbrown,2018-07-22,1405,1415,brw3,k7,glgu,70,1,NA
+2018,barr,dbrown,2018-07-22,1405,1415,brw3,k7,ltja,250,1,NA
+2018,barr,blagasse,2018-07-29,1445,1455,brw3,c7,poja,300,1,NA
+2018,barr,blagasse,2018-07-29,1445,1455,brw3,c7,glgu,300,1,NA
+2018,barr,blagasse,2018-07-29,1505,1515,brw3,g7,glgu,150,4,NA
+2018,barr,blagasse,2018-07-29,1505,1515,brw3,g7,glgu,100,1,NA
+2018,barr,blagasse,2018-07-29,1505,1515,brw3,g7,glgu,150,2,NA
+2018,barr,blagasse,2018-07-29,1525,1535,brw3,k7,snow,150,1,NA
+2018,barr,blagasse,2018-07-29,1525,1535,brw3,k7,glgu,300,1,NA
+2018,barr,sgale,2018-06-11,1305,1315,brw5,c7,none,NA,0,NA
+2018,barr,sgale,2018-06-11,1146,1156,brw5,g7,none,NA,0,NA
+2018,barr,sgale,2018-06-11,1213,1223,brw5,k7,none,NA,0,NA
+2018,barr,sgale,2018-06-18,NA,NA,brw5,c7,none,NA,0,NA
+2018,barr,sgale,2018-06-18,NA,NA,brw5,g7,none,NA,0,NA
+2018,barr,sgale,2018-06-18,NA,NA,brw5,k7,none,NA,0,NA
+2018,barr,sgale,2018-06-25,1127,1137,brw5,c7,glgu,200,20,flock feeding where snow just melted
+2018,barr,sgale,2018-06-25,1127,1137,brw5,c7,glgu,400,40,NA
+2018,barr,sgale,2018-06-25,1127,1137,brw5,c7,glgu,600,40,NA
+2018,barr,sgale,2018-06-25,1127,1137,brw5,c7,glgu,700,11,different flock feeding
+2018,barr,sgale,2018-06-25,1127,1137,brw5,c7,snow,500,1,NA
+2018,barr,sgale,2018-06-25,1127,1137,brw5,c7,glgu,100,10,NA
+2018,barr,sgale,2018-06-25,1102,1112,brw5,g7,glgu,300,4,NA
+2018,barr,sgale,2018-06-25,1102,1112,brw5,g7,poja,200,1,NA
+2018,barr,sgale,2018-06-25,1043,1053,brw5,k7,poja,100,2,NA
+2018,barr,wegelhoff,2018-07-01,1302,1312,brw5,c7,glgu,50,1,NA
+2018,barr,wegelhoff,2018-07-01,1302,1312,brw5,c7,glgu,150,1,NA
+2018,barr,wegelhoff,2018-07-01,1302,1312,brw5,c7,sacr,200,2,NA
+2018,barr,wegelhoff,2018-07-01,1350,1400,brw5,g7,glgu,200,1,NA
+2018,barr,wegelhoff,2018-07-01,1350,1400,brw5,g7,glgu,50,2,NA
+2018,barr,wegelhoff,2018-07-01,1438,1448,brw5,k7,poja,50,1,NA
+2018,barr,wegelhoff,2018-07-01,1438,1448,brw5,k7,glgu,100,3,NA
+2018,barr,wegelhoff,2018-07-01,1438,1448,brw5,k7,glgu,25,1,NA
+2018,barr,wegelhoff,2018-07-01,1438,1448,brw5,k7,glgu,75,1,NA
+2018,barr,wegelhoff,2018-07-08,1450,1500,brw5,c7,glgu,150,1,NA
+2018,barr,wegelhoff,2018-07-08,1450,1500,brw5,c7,paja,100,3,NA
+2018,barr,wegelhoff,2018-07-08,1534,1544,brw5,g7,none,NA,0,NA
+2018,barr,wegelhoff,2018-07-08,1219,1229,brw5,k7,glgu,50,1,NA
+2018,barr,wegelhoff,2018-07-08,1219,1229,brw5,k7,glgu,150,3,NA
+2018,barr,dbrown,2018-07-15,1252,1302,brw5,c7,none,NA,0,NA
+2018,barr,dbrown,2018-07-15,1203,1213,brw5,g7,poja,75,1,NA
+2018,barr,dbrown,2018-07-15,1118,1128,brw5,k7,paja,53,2,resting at j7
+2018,barr,dbrown,2018-07-15,1118,1128,brw5,k7,glgu,48,1,NA
+2018,barr,dbrown,2018-07-15,1118,1128,brw5,k7,glgu,170,1,NA
+2018,barr,dbrown,2018-07-22,1335,1345,brw5,c7,ltja,150,70,grounded
+2018,barr,dbrown,2018-07-22,1335,1345,brw5,c7,glgu,120,1,flying low
+2018,barr,dbrown,2018-07-22,1335,1345,brw5,c7,ltja,200,5,grounded
+2018,barr,dbrown,2018-07-22,1335,1345,brw5,c7,glgu,300,4,grounded
+2018,barr,dbrown,2018-07-22,1335,1345,brw5,c7,poja,200,1,NA
+2018,barr,dbrown,2018-07-22,1251,1301,brw5,g7,paja,160,2,NA
+2018,barr,dbrown,2018-07-22,1251,1301,brw5,g7,glgu,40,1,NA
+2018,barr,dbrown,2018-07-22,1224,1234,brw5,k7,paja,200,2,NA
+2018,barr,dbrown,2018-07-22,1224,1234,brw5,k7,ltja,250,100,grounded
+2018,barr,dgerik,2018-07-29,1601,1611,brw5,c7,snow,150,1,NA
+2018,barr,dgerik,2018-07-29,1515,1525,brw5,g7,glgu,150,1,NA
+2018,barr,dgerik,2018-07-29,1515,1525,brw5,g7,paja,210,1,NA
+2018,barr,dgerik,2018-07-29,1434,1444,brw5,k7,glgu,110,1,NA
+2018,barr,dgerik,2018-07-29,1434,1444,brw5,k7,paja,200,1,NA
+2018,barr,dgerik,2018-07-29,1434,1444,brw5,k7,glgu,300,1,NA
+2018,barr,"sgale,dbrown,wenglehoff",2018-06-03,1627,1637,brw8,c7,glgu,150,2,flying toward dump
+2018,barr,"sgale,dbrown,wenglehoff",2018-06-03,1627,1637,brw8,c7,glgu,75,2,flying toward dump
+2018,barr,"sgale,dbrown,wenglehoff",2018-06-03,1627,1637,brw8,c7,glgu,0,4,flying toward dump
+2018,barr,"sgale,dbrown,wenglehoff",2018-06-03,1627,1637,brw8,c7,glgu,50,1,flying toward dump
+2018,barr,"sgale,dbrown,wenglehoff",2018-06-03,NA,NA,brw8,g7,none,NA,0,NA
+2018,barr,"sgale,dbrown,wenglehoff",2018-06-03,1703,1713,brw8,k7,glgu,100,1,flying
+2018,barr,"sgale,dbrown,wenglehoff",2018-06-03,1703,1713,brw8,k7,glgu,300,2,flying
+2018,barr,"sgale,dbrown,wenglehoff",2018-06-03,1703,1713,brw8,k7,glgu,60,1,flying
+2018,barr,"sgale,dbrown,wenglehoff",2018-06-03,1703,1713,brw8,k7,glgu,50,1,flying
+2018,barr,"sgale,dbrown,wenglehoff",2018-06-03,1703,1713,brw8,k7,glgu,100,1,flying
+2018,barr,"sgale,dbrown,wenglehoff",2018-06-03,1703,1713,brw8,k7,glgu,100,1,flying
+2018,barr,"sgale,dbrown,wenglehoff",2018-06-03,1703,1713,brw8,k7,glgu,80,1,flying
+2018,barr,"sgale,dbrown,wenglehoff",2018-06-03,1703,1713,brw8,k7,glgu,90,1,flying
+2018,barr,"sgale,dbrown,wenglehoff",2018-06-03,1703,1713,brw8,k7,glgu,110,1,flying
+2018,barr,"sgale,dbrown,wenglehoff",2018-06-03,1703,1713,brw8,k7,glgu,300,2,flying
+2018,barr,"sgale,dbrown,wenglehoff",2018-06-03,1703,1713,brw8,k7,glgu,80,1,flying
+2018,barr,lkidd,2018-06-11,1300,1310,brw8,c7,glgu,30,4,flying toward dump
+2018,barr,lkidd,2018-06-11,1410,1420,brw8,g7,none,NA,0,NA
+2018,barr,lkidd,2018-06-11,1450,1500,brw8,k7,none,NA,0,NA
+2018,barr,pmaleko,2018-06-18,1221,1231,brw8,c7,glgu,50,1,NA
+2018,barr,pmaleko,2018-06-18,1051,1101,brw8,g7,glgu,200,7,NA
+2018,barr,pmaleko,2018-06-18,1051,1101,brw8,g7,glgu,50,2,NA
+2018,barr,pmaleko,2018-06-18,946,956,brw8,k7,glgu,250,1,NA
+2018,barr,pmaleko,2018-06-18,946,956,brw8,k7,glgu,25,1,NA
+2018,barr,pmaleko,2018-06-18,946,956,brw8,k7,ltja,125,1,NA
+2018,barr,pmaleko,2018-06-25,1024,1034,brw8,c7,glgu,75,1,together
+2018,barr,pmaleko,2018-06-25,1024,1034,brw8,c7,glgu,75,1,together
+2018,barr,pmaleko,2018-06-25,1024,1034,brw8,c7,glgu,25,1,together
+2018,barr,pmaleko,2018-06-25,1108,1118,brw8,g7,glgu,150,1,NA
+2018,barr,pmaleko,2018-06-25,1121,NA,brw8,k7,glgu,75,1,NA
+2018,barr,tgetti,2018-07-01,1129,1139,brw8,c7,glgu,900,150,"dump, off plot"
+2018,barr,tgetti,2018-07-01,1129,1139,brw8,c7,glgu,400,1,NA
+2018,barr,tgetti,2018-07-01,1129,1139,brw8,c7,glgu,500,1,NA
+2018,barr,tgetti,2018-07-01,1129,1139,brw8,c7,glgu,1000,1,off plot
+2018,barr,tgetti,2018-07-01,1129,1139,brw8,c7,glgu,300,3,off plot
+2018,barr,tgetti,2018-07-01,1107,1117,brw8,g7,glgu,200,1,NA
+2018,barr,tgetti,2018-07-01,1107,1117,brw8,g7,glgu,50,1,NA
+2018,barr,tgetti,2018-07-01,1107,1117,brw8,g7,glgu,800,150,"dump, off plot"
+2018,barr,tgetti,2018-07-01,1107,1117,brw8,g7,glgu,150,1,NA
+2018,barr,tgetti,2018-07-01,1107,1117,brw8,g7,glgu,200,1,NA
+2018,barr,tgetti,2018-07-01,1107,1117,brw8,g7,paja,400,1,on the plot
+2018,barr,tgetti,2018-07-01,1050,1100,brw8,k7,glgu,300,1,NA
+2018,barr,tgetti,2018-07-01,1050,1100,brw8,k7,glgu,50,1,NA
+2018,barr,tgetti,2018-07-01,1050,1100,brw8,k7,paja,400,1,off plot
+2018,barr,tgetti,2018-07-01,1050,1100,brw8,k7,glgu,100,2,NA
+2018,barr,tgetti,2018-07-01,1050,1100,brw8,k7,glgu,700,150,"dump, off plot"
+2018,barr,tgetti,2018-07-01,1050,1100,brw8,k7,poja,100,1,NA
+2018,barr,jcosgrove,2018-07-08,1700,1710,brw8,c7,glgu,300,1,NA
+2018,barr,jcosgrove,2018-07-08,1700,1710,brw8,c7,glgu,50,1,NA
+2018,barr,jcosgrove,2018-07-08,1700,1710,brw8,c7,glgu,100,1,NA
+2018,barr,jcosgrove,2018-07-08,1700,1710,brw8,c7,glgu,20,2,NA
+2018,barr,jcosgrove,2018-07-08,1841,1851,brw8,g7,glgu,10,2,NA
+2018,barr,jcosgrove,2018-07-08,1841,1851,brw8,g7,glgu,20,1,NA
+2018,barr,jcosgrove,2018-07-08,1841,1851,brw8,g7,paja,250,1,NA
+2018,barr,jcosgrove,2018-07-08,1841,1851,brw8,g7,glgu,50,1,NA
+2018,barr,jcosgrove,2018-07-08,1841,1851,brw8,g7,glgu,80,3,NA
+2018,barr,jcosgrove,2018-07-08,2007,2017,brw8,k7,glgu,300,2,NA
+2018,barr,jcosgrove,2018-07-08,2007,2017,brw8,k7,glgu,10,1,NA
+2018,barr,jcosgrove,2018-07-08,2007,2017,brw8,k7,paja,300,1,NA
+2018,barr,jcosgrove,2018-07-08,2007,2017,brw8,k7,poja,200,1,NA
+2018,barr,jcosgrove,2018-07-08,2007,2017,brw8,k7,glgu,200,1,NA
+2018,barr,jcosgrove,2018-07-08,2007,2017,brw8,k7,glgu,150,1,NA
+2018,barr,jcosgrove,2018-07-15,1028,1038,brw8,c7,glgu,200,1,NA
+2018,barr,jcosgrove,2018-07-15,1028,1038,brw8,c7,glgu,175,1,NA
+2018,barr,jcosgrove,2018-07-15,1028,1038,brw8,c7,glgu,10,1,NA
+2018,barr,jcosgrove,2018-07-15,1028,1038,brw8,c7,glgu,100,1,NA
+2018,barr,jcosgrove,2018-07-15,1028,1038,brw8,c7,glgu,50,1,NA
+2018,barr,jcosgrove,2018-07-15,1240,1250,brw8,g7,glgu,300,4,NA
+2018,barr,jcosgrove,2018-07-15,1240,1250,brw8,g7,glgu,300,1,NA
+2018,barr,jcosgrove,2018-07-15,1240,1250,brw8,g7,paja,300,1,NA
+2018,barr,jcosgrove,2018-07-15,1240,1250,brw8,g7,glgu,100,1,NA
+2018,barr,jcosgrove,2018-07-15,1139,1149,brw8,k7,ltja,100,1,NA
+2018,barr,jcosgrove,2018-07-15,1139,1149,brw8,k7,glgu,75,2,NA
+2018,barr,jcosgrove,2018-07-15,1139,1149,brw8,k7,glgu,50,1,NA
+2018,barr,jcosgrove,2018-07-15,1139,1149,brw8,k7,glgu,300,5,NA
+2018,barr,tgetti,2018-07-22,1533,1543,brw8,c7,glgu,150,1,NA
+2018,barr,tgetti,2018-07-22,1533,1543,brw8,c7,glgu,200,8,NA
+2018,barr,tgetti,2018-07-22,1605,1615,brw8,g7,glgu,100,1,NA
+2018,barr,tgetti,2018-07-22,1605,1615,brw8,g7,paja,400,1,NA
+2018,barr,tgetti,2018-07-22,1605,1615,brw8,g7,glgu,200,2,NA
+2018,barr,tgetti,2018-07-22,1645,1655,brw8,k7,paja,50,1,NA
+2018,barr,tgetti,2018-07-22,1645,1655,brw8,k7,ltja,1000,14,NA
+2018,barr,tgetti,2018-07-22,1645,1655,brw8,k7,glgu,300,3,NA
+2018,barr,jcosgrove,2018-07-29,1654,1704,brw8,c7,glgu,50,1,NA
+2018,barr,jcosgrove,2018-07-29,1654,1704,brw8,c7,glgu,200,1,NA
+2018,barr,jcosgrove,2018-07-29,1654,1704,brw8,c7,glgu,300,1,NA
+2018,barr,jcosgrove,2018-07-29,1753,1803,brw8,k7,paja,300,1,NA
+2018,barr,jcosgrove,2018-07-29,1836,1846,brw8,g7,glgu,200,1,NA
+2018,barr,jcosgrove,2018-07-29,1836,1846,brw8,g7,glgu,300,1,NA
+2018,barr,jcosgrove,2018-07-29,1836,1846,brw8,g7,glgu,100,1,NA
